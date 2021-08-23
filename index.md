@@ -13,3 +13,16 @@ Monday TBD: [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd
 ### Additional course websites:
 * [Piazza](https://piazza.com/class/kk21516n1yz51t) - Discussion board
 * [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09) - Class (password in email or on [Canvas](https://utexas.instructure.com/courses/1316021)
+
+## Topic I: Introduction to tensors
+### Lecture 1 (Jan 19): Introduction
+
+## Topic II: Strain
+
+## Topic III: Stress
+
+## Topic IV: Balance laws
+
+## Topic V: Constitutive laws
+
+## Topic VI: Fluid and Solid Mechanics
