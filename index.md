@@ -17,6 +17,7 @@ Monday TBD: [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd
 ## Topic I: Introduction to tensors
 ### Lecture 1 (Jan 19): Introduction
 * [Review of vectors](fall2021/Review_of_vectors.pdf)
+* [Index notation](fall2021/Index_notation.pdf)
 
 ## Topic II: Strain
 
