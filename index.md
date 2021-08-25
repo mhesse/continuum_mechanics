@@ -14,6 +14,7 @@ TBD [[poll]](https://www.when2meet.com/?12626591-xTlem): [Zoom ID 921 0937 9742]
 
 ## Topic I: Introduction to tensors
 ### Lecture 1 (Jan 19): Introduction (zoom)
+* [Introduction to course](fall2021/Intro2class2021.pdf)
 * [Review of vectors](fall2021/Review_of_vectors.pdf)
 * [Index notation](fall2021/Index_notation.pdf)
 
