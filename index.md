@@ -5,14 +5,12 @@ Continuum Mechanics is a new upper division/graduate course focussed on developi
 ### Class room
 * Class Time: TTH 2:00 p.m.-3:30 p.m.
 * Class Room: EPS 1.126
-* Class Zoom: [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09) - Class (password in email or on [Canvas](https://utexas.instructure.com/courses/1316021)
-
+* Class Zoom: [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09) - Class (password in email or on [Canvas](https://utexas.instructure.com/courses/1316021))
 ### Office hours
-TBD [[poll]](https://www.when2meet.com/?12626591-xTlem): [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09) (password in email or on [Canvas](https://utexas.instructure.com/courses/1316021)
+TBD [[poll]](https://www.when2meet.com/?12626591-xTlem): [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09) (password in email or on [Canvas](https://utexas.instructure.com/courses/1316021))
 
 ### Additional course websites:
 * [Piazza](https://piazza.com/class/ksqzk1lgf913or) - Discussion board
-* [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09) - Class (password in email or on [Canvas](https://utexas.instructure.com/courses/1316021)
 
 ## Topic I: Introduction to tensors
 ### Lecture 1 (Jan 19): Introduction (zoom)
