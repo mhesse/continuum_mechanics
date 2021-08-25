@@ -8,14 +8,14 @@ Continuum Mechanics is a new upper division/graduate course focussed on developi
 * Class Zoom: [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09) - Class (password in email or on [Canvas](https://utexas.instructure.com/courses/1316021)
 
 ### Office hours
-Monday TBD: [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09) (password in email or on [Canvas](https://utexas.instructure.com/courses/1316021)
+TBD: [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09) (password in email or on [Canvas](https://utexas.instructure.com/courses/1316021)
 
 ### Additional course websites:
-* [Piazza](https://piazza.com/class/kk21516n1yz51t) - Discussion board
+* [Piazza](https://piazza.com/class/ksqzk1lgf913or) - Discussion board
 * [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09) - Class (password in email or on [Canvas](https://utexas.instructure.com/courses/1316021)
 
 ## Topic I: Introduction to tensors
-### Lecture 1 (Jan 19): Introduction
+### Lecture 1 (Jan 19): Introduction (zoom)
 * [Review of vectors](fall2021/Review_of_vectors.pdf)
 * [Index notation](fall2021/Index_notation.pdf)
 
