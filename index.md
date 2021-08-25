@@ -13,12 +13,22 @@ TBD [[poll]](https://www.when2meet.com/?12626591-xTlem): [Zoom ID 921 0937 9742]
 * [Piazza](https://piazza.com/class/ksqzk1lgf913or) - Discussion board
 
 ## Topic I: Introduction to tensors
-### Lecture 1 (Jan 19): Introduction (zoom)
+### Lecture 1 (Aug 26): Introduction (zoom)
 * [Introduction to course](fall2021/Intro2class2021.pdf)
 * [Review of vectors](fall2021/Review_of_vectors.pdf)
 * [Index notation](fall2021/Index_notation.pdf)
 
-## Topic II: Strain
+### Lecture 2 (Aug 31): Tensor algebra I
+
+### Lecture 3 (Sep 2): Tensor algebra II
+
+### Lecture 4 (Sep 7): Tensor calculus I
+
+### Lecture 5 (Sep 9): Tensor calculus II
+
+## Topic II: Kinematics
+
+### Lecture 6 (Sep 14): Motions
 
 ## Topic III: Stress
 
