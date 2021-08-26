@@ -6,11 +6,16 @@ Continuum Mechanics is a new upper division/graduate course focussed on developi
 * Class Time: TTH 2:00 p.m.-3:30 p.m.
 * Class Room: EPS 1.126
 * Class Zoom: [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09) - Class (password in email or on [Canvas](https://utexas.instructure.com/courses/1316021))
+
 ### Office hours
 TBD [[poll]](https://www.when2meet.com/?12626591-xTlem): [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09) (password in email or on [Canvas](https://utexas.instructure.com/courses/1316021))
 
 ### Additional course websites:
 * [Piazza](https://piazza.com/class/ksqzk1lgf913or) - Discussion board
+
+### Relevant textbooks
+* [A first course in continuum mechanics](https://www.cambridge.org/core/books/first-course-in-continuum-mechanics/DC9A87155531958AD5EFC66AEB981DAE), by Gonzalez and Stewart
+* [Nonlinear solid mechanics](https://www.wiley.com/en-us/Nonlinear+Solid+Mechanics%3A+A+Continuum+Approach+for+Engineering-p-9780471823193), by Holzapfel
 
 ## Topic I: Introduction to tensors
 ### Lecture 1 (Aug 26): Introduction (zoom)
