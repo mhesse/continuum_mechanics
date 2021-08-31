@@ -8,7 +8,7 @@ Continuum Mechanics is a new upper division/graduate course focussed on developi
 * Class Zoom: [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09) - Class (password in email or on [Canvas](https://utexas.instructure.com/courses/1316021))
 
 ### Office hours
-TBD [[poll]](https://www.when2meet.com/?12626591-xTlem): [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09) (password in email or on [Canvas](https://utexas.instructure.com/courses/1316021))
+Mon 1:30-2pm and Wed 3-3:30pm [[poll]](https://www.when2meet.com/?12626591-xTlem): [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09) (password in email or on [Canvas](https://utexas.instructure.com/courses/1316021))
 
 ### Additional course websites:
 * [Piazza](https://piazza.com/class/ksqzk1lgf913or) - Discussion board
