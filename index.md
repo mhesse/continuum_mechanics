@@ -26,6 +26,7 @@ Mon 1:30-2pm and Wed 3-3:30pm [[poll]](https://www.when2meet.com/?12626591-xTlem
 
 ### Lecture 2 (Aug 31): Tensor algebra I
 Topics: Tensor representation and basis, dyadic product, trace, transpose, determinant scalar product
+* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_2_2021.pdf) [[rec 1]]() [[rec 2 (extra)]]()
 * [Tensor algebra I](fall2021/Tensor_algebra_I.pdf)
 
 ### Lecture 3 (Sep 2): Tensor algebra II
