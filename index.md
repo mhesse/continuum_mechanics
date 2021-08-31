@@ -25,6 +25,8 @@ TBD [[poll]](https://www.when2meet.com/?12626591-xTlem): [Zoom ID 921 0937 9742]
 * [Index notation](fall2021/Index_notation.pdf)
 
 ### Lecture 2 (Aug 31): Tensor algebra I
+Topics: Tensor representation and basis, dyadic product, trace, transpose, determinant scalar product
+* [Tensor algebra I](fall2021/Tensor_algebra_I.pdf)
 
 ### Lecture 3 (Sep 2): Tensor algebra II
 
