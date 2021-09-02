@@ -25,12 +25,14 @@ Mon 1:30-2pm and Wed 3-3:30pm [[poll]](https://www.when2meet.com/?12626591-xTlem
 * [Index notation](fall2021/Index_notation.pdf)
 
 ### Lecture 2 (Aug 31): Tensor algebra I
-Topics: Tensor representation and basis, dyadic product, trace, transpose, determinant scalar product
+Topics: Tensor representation and basis, dyadic product, trace, transpose, determinant, scalar product.
 * Lecture: [[pdf]](fall2021/GEO_371T_Lecture_2_2021.pdf) [[rec 1]](https://utexas.zoom.us/rec/share/oqLc0gpmVGnrMoycfp-JDWJJKO2uqnl8avVhvu1CJiA2HZK5lGGuaLZZfUMlSxWg.x5yUeLMJlqSKNqfs) [[rec 2 (extra)]](https://utexas.zoom.us/rec/share/gqi_kDp8Nc7ysUV1n3xcLYQ8OCXaC0nPIejXwzFiym5v5Pkh8gh8BOO1WrMbna-S.9cv8KSMzWb_lQkno 
 )
 * [Tensor algebra I](fall2021/Tensor_algebra_I.pdf)
 
 ### Lecture 3 (Sep 2): Tensor algebra II
+Topics: Orthogonal tensors, change of basis, spectral decomposition, polar decomposition.
+* [Tensor algebra II](fall2021/Tensor_algebra_II.pdf)
 
 ### Lecture 4 (Sep 7): Tensor calculus I
 
