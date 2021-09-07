@@ -37,6 +37,7 @@ Topics: Orthogonal tensors, change of basis, spectral decomposition, polar decom
 
 ### Lecture 4 (Sep 7): Tensor calculus I
 Topics: Differentiation of tensor fields (div, grad, curl)
+* [Tensor calculus I](fall2021/Tensor_calculus_I.pdf)
 
 ### Lecture 5 (Sep 9): Tensor calculus II
 Topis: Integral theorems (Gauss, Stokes)
