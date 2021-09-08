@@ -14,6 +14,7 @@ Mon 1:30-2pm and Wed 3-3:30pm [[poll]](https://www.when2meet.com/?12626591-xTlem
 * [Piazza](https://piazza.com/class/ksqzk1lgf913or) - Discussion board
 
 ### Relevant textbooks
+* [Introduction to Continuum Mechanics](https://www.elsevier.com/books/an-introduction-to-continuum-mechanics/gurtin/978-0-12-309750-7), by Gurtin
 * [A first course in continuum mechanics](https://www.cambridge.org/core/books/first-course-in-continuum-mechanics/DC9A87155531958AD5EFC66AEB981DAE), by Gonzalez and Stewart
 * [Nonlinear solid mechanics](https://www.wiley.com/en-us/Nonlinear+Solid+Mechanics%3A+A+Continuum+Approach+for+Engineering-p-9780471823193), by Holzapfel
 
