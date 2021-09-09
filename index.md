@@ -43,6 +43,7 @@ Topics: Differentiation of tensor fields (div, grad, curl)
 
 ### Lecture 5 (Sep 9): Tensor calculus II
 Topis: Integral theorems (Gauss, Stokes)
+* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_5_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/-yCqUKDiq-nHMfgsaUWlyT-aTUvdvBI80aW7q3cOh2eLPNKDlD8qD3ROCVudl9Gd.pOckiS1z5Lt3rg3L)
 * [Tensor calculus II](fall2021/Tensor_calculus_II.pdf)
 
 ## Topic II: Kinematics
