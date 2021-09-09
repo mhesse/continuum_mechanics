@@ -43,6 +43,7 @@ Topics: Differentiation of tensor fields (div, grad, curl)
 
 ### Lecture 5 (Sep 9): Tensor calculus II
 Topis: Integral theorems (Gauss, Stokes)
+* [Tensor calculus II](fall2021/Tensor_calculus_II.pdf)
 
 ## Topic II: Kinematics
 
