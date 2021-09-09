@@ -38,7 +38,7 @@ Topics: Orthogonal tensors, change of basis, spectral decomposition, polar decom
 
 ### Lecture 4 (Sep 7): Tensor calculus I
 Topics: Differentiation of tensor fields (div, grad, curl)
-* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_3_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/-HX6N6FQitqCP33qc2Qu-sl-6TKDAMW9wrQERCQAKn4bK-fYIBIX26eB4aEIgeVW.9phK5dXGc3TchKDN)
+* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_4_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/-HX6N6FQitqCP33qc2Qu-sl-6TKDAMW9wrQERCQAKn4bK-fYIBIX26eB4aEIgeVW.9phK5dXGc3TchKDN)
 * [Tensor calculus I](fall2021/Tensor_calculus_I.pdf)
 
 ### Lecture 5 (Sep 9): Tensor calculus II
