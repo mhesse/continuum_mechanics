@@ -46,11 +46,22 @@ Topis: Integral theorems (Gauss, Stokes), Derivatives of tensor functions
 * Lecture: [[pdf]](fall2021/GEO_371T_Lecture_5_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/-yCqUKDiq-nHMfgsaUWlyT-aTUvdvBI80aW7q3cOh2eLPNKDlD8qD3ROCVudl9Gd.pOckiS1z5Lt3rg3L)
 * [Tensor calculus II](fall2021/Tensor_calculus_II.pdf)
 
-## Topic II: Kinematics
+## Topic II: Stress 
+### Lecture 6 (Sep 14): Cauchy stress tensor
 
-### Lecture 6 (Sep 14): Motions
+### Lecture 7 (Sep 16): Equilibrium equations
 
-## Topic III: Stress
+### Lecture 8 (Sep 21): Normal and shear stress
+
+### Lecture 9 (Sep 23): Mohr circle 
+
+
+
+## Topic III: Kinematics
+
+
+
+
 
 ## Topic IV: Balance laws
 
