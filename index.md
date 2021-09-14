@@ -49,7 +49,8 @@ Topis: Integral theorems (Gauss, Stokes), Derivatives of tensor functions
 ## Topic II: Stress 
 ### Lecture 6 (Sep 14): Cauchy stress tensor
 Topics: Mass and force, Traction, Action & Reaction, Cauchy's principle
-* Lecture: [[pdf]]() [[rec]](https://utexas.zoom.us/rec/share/gPK4gBXkokxcilXItFQW2pbtYhaY2iEW62vzyhxX30uXxJg8Zjk_UDd_pi3dNEnX.YCS6Vnv31Kqb2Pg7)
+* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_6_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/gPK4gBXkokxcilXItFQW2pbtYhaY2iEW62vzyhxX30uXxJg8Zjk_UDd_pi3dNEnX.YCS6Vnv31Kqb2Pg7)
+* Notes: [[pdf]](fall2021/Continuum_Mass_and_Force_Concepts_2021.pdf)
 
 ### Lecture 7 (Sep 16): Equilibrium equations
 
