@@ -54,7 +54,8 @@ Topics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 
 ### Lecture 7 (Sep 16): Equilibrium equations
 Topics: Cauchy stress tensor, Eqbm equations, symmetry of stress tensor
-* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_7_2021.pdf) [[rec]]()
+* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_7_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/mtD6edqZ7kw_2ATb8XRUxmgit_kjQoSfzXuKNDiBWSZ-VrVV8AQevSVu_FUXlXRZ.epttqBZEuewRwwXi)
+* Notes: [[pdf]]()
 
 ### Lecture 8 (Sep 21): Normal and shear stress
 
