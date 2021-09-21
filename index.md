@@ -59,7 +59,7 @@ Topics: Cauchy stress tensor, Eqbm equations, symmetry of stress tensor
 
 ### Lecture 8 (Sep 21): Normal and shear stress
 Topics: Normal and shear stress, principal stresses, simple states of stress
-* Notes: [[pdf 1]](fall2021/Normal_and_shear_stress.pdf)
+* Notes: [[pdf 1]](fall2021/Normal_and_shear_stress_2021.pdf)
 
 ### Lecture 9 (Sep 23): Mohr circle 
 
