@@ -65,12 +65,19 @@ Topics: Normal and shear stress, principal stresses, simple states of stress
 ### Lecture 9 (Sep 23): Mohr circle and failure
 
 
-
 ## Topic III: Kinematics
 
+### Lecture 10 (Sep 28): Deformation mapping
 
+### Lecture 11 (Sep 30): Velocity and acceleration
 
+### Lecture 12 (Oct 5): Analysis of local deformation I
 
+### Lecture 13 (Oct 7): Analysis of local deformation II
+
+### Lecture 14 (Oct 12): Strain tensors
+
+### Lecture 15 (Oct 14): Rate of strain tensors
 
 ## Topic IV: Balance laws
 
