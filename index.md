@@ -17,6 +17,7 @@ Mon 1:30-2pm and Wed 3-3:30pm [[poll]](https://www.when2meet.com/?12626591-xTlem
 * [Introduction to continuum mechanics](https://www.elsevier.com/books/an-introduction-to-continuum-mechanics/gurtin/978-0-12-309750-7), by Gurtin
 * [A first course in continuum mechanics](https://www.cambridge.org/core/books/first-course-in-continuum-mechanics/DC9A87155531958AD5EFC66AEB981DAE), by Gonzalez and Stewart
 * [Nonlinear solid mechanics](https://www.wiley.com/en-us/Nonlinear+Solid+Mechanics%3A+A+Continuum+Approach+for+Engineering-p-9780471823193), by Holzapfel
+* [Physica of continous matter](https://www.taylorfrancis.com/books/mono/10.1201/9781439894200/physics-continuous-matter-lautrup), by Lautrup
 
 ## Topic I: Introduction to tensors
 ### Lecture 1 (Aug 26): Introduction (zoom)
