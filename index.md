@@ -65,6 +65,9 @@ Topics: Normal and shear stress, principal stresses, simple states of stress
 * Notes: [[pdf 1]](fall2021/Normal_and_shear_stress_2021.pdf)
 
 ### Lecture 9 (Sep 23): Mohr circle and failure
+Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of stress
+* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_9_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/aH9A15AxwRAUubLtFq6SzmpGmps44ovvHmLqhtWtxGHntkzcqcntmMUQOdqxvFuX.jG9C88_hGf5EIy3d)
+* Notes:
 
 
 ## Topic III: Kinematics
