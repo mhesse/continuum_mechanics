@@ -72,17 +72,18 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 
 ## Topic III: Kinematics
 
-### Lecture 10 (Sep 28): Deformation mapping
+### Lecture 10 (Sep 28): Deformation
+* Topics: Deformation mapping and gradient
 
-### Lecture 11 (Sep 30): Velocity and acceleration
+### Lecture 11 (Sep 30): Analysis of local deformation
 
-### Lecture 12 (Oct 5): Analysis of local deformation I
+### Lecture 12 (Oct 5): Strain tensors
 
-### Lecture 13 (Oct 7): Analysis of local deformation II
+### Lecture 13 (Oct 7): Motions
 
-### Lecture 14 (Oct 12): Strain tensors
+### Lecture 14 (Oct 12): Rate of strain tensors
 
-### Lecture 15 (Oct 14): Rate of strain tensors
+### Lecture 15 (Oct 14): 
 
 ## Topic IV: Balance laws
 
