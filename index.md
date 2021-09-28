@@ -74,6 +74,8 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 
 ### Lecture 10 (Sep 28): Deformation
 * Topics: Deformation mapping and gradient
+* Lecture: [[pdf]] [[rec]](https://utexas.zoom.us/rec/share/iX3w3zTO_xximpmRHDsdudEp0YOw6K-gAugvNBQj6vO3kgepKMhcxBVIrolsI5Ot.6BfA-y2ljDPdQLtq)
+* Notes: [[pdf]]()
 
 ### Lecture 11 (Sep 30): Analysis of local deformation
 
