@@ -79,7 +79,8 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 
 ### Lecture 11 (Sep 30): Cauchy-Green strain tensor
 * Topics: Local analysis of deformation, right Cauchy-Green strain tensor
-* Lecture: [[pdf]]() [[rec]](https://utexas.zoom.us/rec/share/96N2Xqq1o5Wfbo5puNHF-XPHErmIil_7LE91KGSCWPxdJUcCUGkQOhZMSVgIV-wk.-SeIgNvCT-BYOOO1)
+* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_11_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/96N2Xqq1o5Wfbo5puNHF-XPHErmIil_7LE91KGSCWPxdJUcCUGkQOhZMSVgIV-wk.-SeIgNvCT-BYOOO1)
+* Notes: [[pdf]](fall2021/Analysis_of_local_deformation_2021.pdf)
 
 ### Lecture 12 (Oct 5): Strain tensors
 
