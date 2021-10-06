@@ -82,13 +82,15 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 * Lecture: [[pdf]](fall2021/GEO_371T_Lecture_11_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/96N2Xqq1o5Wfbo5puNHF-XPHErmIil_7LE91KGSCWPxdJUcCUGkQOhZMSVgIV-wk.-SeIgNvCT-BYOOO1)
 * Notes: [[pdf]](fall2021/Analysis_of_local_deformation_2021.pdf)
 
-### Lecture 12 (Oct 5): Strain tensors
+### Lecture 12 (Oct 5): Interpretation of strain tensor
+* Topics: Other strain tensors, Cauchy-Green strain relations, Volume changes
+* Lecture: [[pdf]]() [[rec]](https://utexas.zoom.us/rec/share/nGZlnFC7gKi9k4LaXyBIqw6DiLyNBtlyE_hwJg-KLMkpDwhrA0AOaPeBauN93Asj.4Z1_v-aqcIFbiVml)
 
-### Lecture 13 (Oct 7): Motions
+### Lecture 13 (Oct 7): Infinitesimal strain
 
-### Lecture 14 (Oct 12): Rate of strain tensors
+### Lecture 14 (Oct 12): Motions
 
-### Lecture 15 (Oct 14): 
+### Lecture 15 (Oct 14): Rate of strain tensors
 
 ## Topic IV: Balance laws
 
