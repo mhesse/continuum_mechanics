@@ -84,7 +84,8 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 
 ### Lecture 12 (Oct 5): Interpretation of strain tensor
 * Topics: Other strain tensors, Cauchy-Green strain relations, Volume changes
-* Lecture: [[pdf]]() [[rec]](https://utexas.zoom.us/rec/share/nGZlnFC7gKi9k4LaXyBIqw6DiLyNBtlyE_hwJg-KLMkpDwhrA0AOaPeBauN93Asj.4Z1_v-aqcIFbiVml)
+* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_12_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/nGZlnFC7gKi9k4LaXyBIqw6DiLyNBtlyE_hwJg-KLMkpDwhrA0AOaPeBauN93Asj.4Z1_v-aqcIFbiVml)
+* Notes: [[pdf]](fall2021/Cauchy-Green_strain_tensor_2021.pdf)
 
 ### Lecture 13 (Oct 7): Infinitesimal strain
 
