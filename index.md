@@ -69,7 +69,6 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 * Lecture: [[pdf]](fall2021/GEO_371T_Lecture_9_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/aH9A15AxwRAUubLtFq6SzmpGmps44ovvHmLqhtWtxGHntkzcqcntmMUQOdqxvFuX.jG9C88_hGf5EIy3d)
 * Notes: [Mohr circle](fall2021/Mohr_circle_and_failure.pdf), [Simple stress states](fall2021/Simple_states_of_stress.pdf)
 
-
 ## Topic III: Kinematics
 
 ### Lecture 10 (Sep 28): Deformation
@@ -88,6 +87,9 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 * Notes: [[pdf]](fall2021/Cauchy-Green_strain_tensor_2021.pdf)
 
 ### Lecture 13 (Oct 7): Infinitesimal strain
+* Topics: Changes in area, linearization of kinematic quantities, infintesimal strain tensor
+* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_13_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/Fe-tlkIvjRCzea1zDw0g97BYk4D86WWLwrKiv1AiV3fXt4dPrWASZkVMYZ_i8DGn.Nupn0prjk_Bc7KiQ)
+* Notes: [[pdf]]()
 
 ### Lecture 14 (Oct 12): Motions
 
