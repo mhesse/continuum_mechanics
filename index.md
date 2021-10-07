@@ -89,7 +89,7 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 ### Lecture 13 (Oct 7): Infinitesimal strain
 * Topics: Changes in area, linearization of kinematic quantities, infintesimal strain tensor
 * Lecture: [[pdf]](fall2021/GEO_371T_Lecture_13_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/Fe-tlkIvjRCzea1zDw0g97BYk4D86WWLwrKiv1AiV3fXt4dPrWASZkVMYZ_i8DGn.Nupn0prjk_Bc7KiQ)
-* Notes: [[pdf]](https://utexas.zoom.us/rec/share/Fe-tlkIvjRCzea1zDw0g97BYk4D86WWLwrKiv1AiV3fXt4dPrWASZkVMYZ_i8DGn.Nupn0prjk_Bc7KiQ)
+* Notes: [[pdf]](fall2021/Infinitesimal_strain_tensor_2021.pdf)
 
 ### Lecture 14 (Oct 12): Motions
 
