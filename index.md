@@ -92,6 +92,9 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 * Notes: [[pdf]](fall2021/Infinitesimal_strain_tensor_2021.pdf)
 
 ### Lecture 14 (Oct 12): Motions
+* Topics: Motions, Material spatial fields, Material and spatial time derivatives
+* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_14_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/KagNsIGMFU3Q-EWzv9NtHUIyjhKg3zIYcGE7CuR1mkFk1xtV0dTbDi3rjGOeuHVG.1ochifmBuodgnaWA)
+* Notes: [[pdf]](fall2021/Motions_2021.pdf)
 
 ### Lecture 15 (Oct 14): Rate of strain tensors
 
