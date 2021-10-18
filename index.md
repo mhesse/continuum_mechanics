@@ -96,7 +96,9 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 * Lecture: [[pdf]](fall2021/GEO_371T_Lecture_14_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/KagNsIGMFU3Q-EWzv9NtHUIyjhKg3zIYcGE7CuR1mkFk1xtV0dTbDi3rjGOeuHVG.1ochifmBuodgnaWA)
 * Notes: [[pdf]](fall2021/Motions_2021.pdf)
 
-### Lecture 15 (Oct 14): Rate of strain tensors
+### Lecture 15 (Oct 14): Smorgasbord
+* Topics: Rate of strain & spin tensors, Reynolds transport theorem, material stress tensors
+
 
 ## Topic IV: Balance laws
 
