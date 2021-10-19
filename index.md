@@ -99,7 +99,7 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 ### Lecture 15 (Oct 14): Rates
 * Topics: Rate of strain & spin tensors, Reynolds transport theorem
 * Lecture: [[pdf]](fall2021/GEO_371T_Lecture_15_2021.pdf)
-* Notes: [[Rates of deformation]](fall2021/Rate_of_strain_and_spin_2021.pdf) [[Reynolds transport Thm]](fall2021/Reynolds_Transport_Theorem 2021.pdf)
+* Notes: [[Rates of deformation]](fall2021/Rate_of_strain_and_spin_2021.pdf) [[Reynolds transport Thm]](fall2021/Reynolds_Transport_Theorem_2021.pdf)
 
 
 ## Topic IV: Balance laws
