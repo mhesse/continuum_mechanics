@@ -96,14 +96,40 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 * Lecture: [[pdf]](fall2021/GEO_371T_Lecture_14_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/KagNsIGMFU3Q-EWzv9NtHUIyjhKg3zIYcGE7CuR1mkFk1xtV0dTbDi3rjGOeuHVG.1ochifmBuodgnaWA)
 * Notes: [[pdf]](fall2021/Motions_2021.pdf)
 
-### Lecture 15 (Oct 14): Rates
+### Lecture 15 (Oct 19): Rates
 * Topics: Rate of strain & spin tensors, Reynolds transport theorem
 * Lecture: [[pdf]](fall2021/GEO_371T_Lecture_15_2021.pdf)
 * Notes: [[Rates of deformation]](fall2021/Rate_of_strain_and_spin_2021.pdf) [[Reynolds transport Thm]](fall2021/Reynolds_Transport_Theorem_2021.pdf)
 
-
 ## Topic IV: Balance laws
 
-## Topic V: Constitutive laws
+### Lecture 16 (Oct 21): Balance laws in integral form
 
-## Topic VI: Fluid and Solid Mechanics
+### Lecture 17 (Oct 26): Local Eulerian balance laws
+
+### Lecture 18 (Oct 28): Continuum thermodynamics
+
+### Lecture 19 (Nov 2): Local Lagrangian balance laws
+
+## Topic V: Constitutive theory
+
+### Lecture 20 (Nov 4): Frame indifference and objectivity
+
+### Lecture 21 (Nov 9): Material constraints
+
+## Topic VI: Fluid Mechanics
+
+### Lecture 22 (Nov 11): Ideal fluids
+
+### Lecture 23 (Nov 16): Newtonian fluids
+
+### Lecture 24 (Nov 18): Kinetic energy in fluid motion
+
+## Topic VI: Solid Mechanics
+
+### Lecture 25 (Nov 23): 
+
+### Lecture 26 (Nov 30):
+
+### Lecture 27 (Dec 2):
+
