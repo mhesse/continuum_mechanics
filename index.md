@@ -109,6 +109,9 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 * Notes: [[pdf]](fall2021/Balance_laws_in_integral_form.pdf)
 
 ### Lecture 17 (Oct 26): Local Eulerian balance laws
+* Topics: Mass and momentum balance, Net working
+* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_17_2021.pdf) [[rec]](fall2021/https://utexas.zoom.us/rec/share/fJ-U_HczTGpI7haURJynAg6BP-u2HlhXH-vxZlCYe8FOJeJXOWQIekg-APrumnoS.gYpTVgq4FWDVkZUd)
+* Notes: [[pdf]](fall2021/Balance_laws_local_Eulerian_form_2021.pdf) 
 
 ### Lecture 18 (Oct 28): Continuum thermodynamics
 
