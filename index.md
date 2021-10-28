@@ -114,6 +114,9 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 * Notes: [[pdf]](fall2021/Balance_laws_local_Eulerian_form_2021.pdf) 
 
 ### Lecture 18 (Oct 28): Continuum thermodynamics
+* Topics: Energy balance and entropy inequality
+* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_18_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/tqJ3xgzjewgVej5G3WP--FB4cRktyW-Up_3Q1lZwElYf8lpgdTwXho1wbyS4BTM.kbffV_hAskvn5aBs)
+* Notes: [[pdf]](fall2021/Balance_of_Energy_in_local_Eulerian_form_2021.pdf)
 
 ### Lecture 19 (Nov 2): Local Lagrangian balance laws
 
