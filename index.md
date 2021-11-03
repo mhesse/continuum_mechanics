@@ -119,6 +119,9 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 * Notes: [[pdf]](fall2021/Balance_of_Energy_in_local_Eulerian_form_2021.pdf)
 
 ### Lecture 19 (Nov 2): Local Lagrangian balance laws
+* Topics: Mass and momentume balancs, first and second laws in Lagrangian form
+* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_19_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/tY6sSJL-E-cQ7hvAnIJ10m8lP8mTFiwXl2f8y_BazKr-jSV_a78YcvoL549BsjNa.7hBO6D7PPbVGw4y-)
+* Notes: [[pdf]](fall2021/Balance_of_Energy_in_local_Lagrangian_form_2021.pdf)
 
 ## Topic V: Constitutive theory
 
