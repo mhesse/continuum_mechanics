@@ -127,8 +127,8 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 
 ### Lecture 20 (Nov 4): Frame indifference and objectivity
 * Topics: 
-* Lecture:
-* Notes:
+* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_20_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/ZVGCKcPgNPjRpY0QQAd-9Hf4tFrsx-UNivvG0c2GrhSNX8fomOSULwzBHR4UxUgU.Lnz1_pHEYmP9DRtL)
+* Notes: [[pdf]()
 
 ### Lecture 21 (Nov 9): Material constraints
 * Topics:
