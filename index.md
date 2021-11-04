@@ -126,9 +126,9 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 ## Topic V: Constitutive theory
 
 ### Lecture 20 (Nov 4): Frame indifference and objectivity
-* Topics: 
+* Topics: Material frame indifference, galilean transformations
 * Lecture: [[pdf]](fall2021/GEO_371T_Lecture_20_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/ZVGCKcPgNPjRpY0QQAd-9Hf4tFrsx-UNivvG0c2GrhSNX8fomOSULwzBHR4UxUgU.Lnz1_pHEYmP9DRtL)
-* Notes: [[pdf]()
+* Notes: [[pdf](fall2021/Objectivity.pdf)
 
 ### Lecture 21 (Nov 9): Material constraints
 * Topics:
