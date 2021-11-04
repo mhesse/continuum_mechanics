@@ -126,8 +126,14 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 ## Topic V: Constitutive theory
 
 ### Lecture 20 (Nov 4): Frame indifference and objectivity
+* Topics: 
+* Lecture:
+* Notes:
 
 ### Lecture 21 (Nov 9): Material constraints
+* Topics:
+* Lecture:
+* Notes:
 
 ## Topic VI: Fluid Mechanics
 
