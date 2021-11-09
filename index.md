@@ -130,10 +130,10 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 * Lecture: [[pdf]](fall2021/GEO_371T_Lecture_20_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/ZVGCKcPgNPjRpY0QQAd-9Hf4tFrsx-UNivvG0c2GrhSNX8fomOSULwzBHR4UxUgU.Lnz1_pHEYmP9DRtL)
 * Notes: [[pdf](fall2021/Objectivity.pdf)
 
-### Lecture 21 (Nov 9): Material constraints
-* Topics:
-* Lecture:
-* Notes:
+### Lecture 21 (Nov 9): Isotropic tensor functions
+* Topics: Isotropic functions, 4-th order tensors, material constraints
+* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_21_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/C9PpBHqfGlL33Dy7nLLm05E2zmxHjzj2DV2BR_NxplURlKoIeiCzfFQiNkrL178m.NiXfvZPHKn05WA4N)
+* Notes: [[Isotropic functions]](fall2021/Isotopic_tensor_functions_2021.pdf) [[4th order tensors]](fall2021/Fourth_order_tensors.pdf) [[Material constraints]](fall2021/Constitutive_theory.pdf)
 
 ## Topic VI: Fluid Mechanics
 
