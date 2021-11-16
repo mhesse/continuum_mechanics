@@ -139,7 +139,7 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 
 ### Lecture 22 (Nov 11): Ideal fluids
 * Topic: Frame indifference of ideal fluid model, Bernoulli, Vorticity equation
-* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_21_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/tY6sSJL-E-cQ7hvAnIJ10m8lP8mTFiwXl2f8y_BazKr-jSV_a78YcvoL549BsjNa.7hBO6D7PPbVGw4y-)
+* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_22_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/tY6sSJL-E-cQ7hvAnIJ10m8lP8mTFiwXl2f8y_BazKr-jSV_a78YcvoL549BsjNa.7hBO6D7PPbVGw4y-)
 * Notes: [[pfd]](fall2021/Ideal_Fluids.pdf)
 
 ### Lecture 23 (Nov 16): Newtonian fluids
