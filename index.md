@@ -144,7 +144,7 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 
 ### Lecture 23 (Nov 16): Newtonian fluids
 
-### Lecture 24 (Nov 18): Kinetic energy in fluid motion
+### Lecture 24 (Nov 18): Gas Dynamics
 
 ## Topic VI: Solid Mechanics
 
