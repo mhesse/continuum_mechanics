@@ -147,7 +147,7 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 * Lecture: [[pdf]](fall2021/GEO_371T_Lecture_23_2021.pdf), sorry forgot to reccord!
 * Notes: [[pdf]](fall2021/Newtonian_Fluids.pdf)
 
-### Lecture 24 (Nov 18): Gas Dynamics
+### Lecture 24 (Nov 18): Fluids - special topic
 
 ## Topic VI: Solid Mechanics
 
