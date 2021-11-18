@@ -147,8 +147,11 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 * Lecture: [[pdf]](fall2021/GEO_371T_Lecture_23_2021.pdf), sorry forgot to reccord!
 * Notes: [[pdf]](fall2021/Newtonian_Fluids.pdf)
 
-### Lecture 24 (Nov 18): Fluids - special topic
-
+### Lecture 24 (Nov 18): Fluids special topic: Power-law creep
+* Topics: Solid state creep
+* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_24_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/mJpmQ02LHCgs_z2-xbQdop7kvi3at8vX8oVQ96IVD8Wi9JNWvTaF-hEUMbvheLMo.GD-s5NmfvlD_7VAc)
+* Notes: [[pdf]](fall2021/Power-law_creep.pdf)
+* 
 ## Topic VI: Solid Mechanics
 
 ### Lecture 25 (Nov 23): Elastic solids
