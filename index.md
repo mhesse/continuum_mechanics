@@ -156,7 +156,7 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 
 ### Lecture 25 (Nov 23): Elastic solids
 
-### Lecture 26 (Nov 30): Linear elastic solids
+### Lecture 26 (Nov 30): Hyperelastic solids
 
-### Lecture 27 (Dec 2): Hyperelastic solids
+### Lecture 27 (Dec 2): Linear elastic solids
 
