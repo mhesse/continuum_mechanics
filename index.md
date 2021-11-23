@@ -154,7 +154,10 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 
 ## Topic VI: Solid Mechanics
 
-### Lecture 25 (Nov 23): Elastic solids
+### Lecture 25 (Nov 23): Elastic stress response
+* Topics: Elastic Solid, stress response function, isotropic material 
+* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_25_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/CkFwEqhnHZFKRu6vjNwhb8maHwn6wbWHF8mnktm11JxC7ytBaBCLuY-4IEpUT2ao.m00F1iGRX0A1VkTb)
+* Notes: [[pdf]](fall2021/Elastic_Solids.pdf)
 
 ### Lecture 26 (Nov 30): Hyperelastic solids
 
