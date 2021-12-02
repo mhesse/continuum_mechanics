@@ -170,4 +170,4 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 * Notes: [[pdf]](fall2021/Linear_Elasticity.pdf)
 
 
-#So Long, and Thanks for All the Fish
+##So Long, and Thanks for All the Fish!
