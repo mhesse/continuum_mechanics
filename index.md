@@ -125,7 +125,7 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 
 ## Topic V: Constitutive theory
 
-### Lecture 20 (Nov 4): Frame indifference and objectivity
+### Lecture 20 (Nov 4): Frame-indifference and objectivity
 * Topics: Material frame indifference, galilean transformations
 * Lecture: [[pdf]](fall2021/GEO_371T_Lecture_20_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/ZVGCKcPgNPjRpY0QQAd-9Hf4tFrsx-UNivvG0c2GrhSNX8fomOSULwzBHR4UxUgU.Lnz1_pHEYmP9DRtL)
 * Notes: [[pdf](fall2021/Objectivity.pdf)
@@ -161,8 +161,10 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 
 ### Lecture 26 (Nov 30): Hyperelastic solids
 * Topis: Strain enegy density, Mechanic energy inequality, common models
-* Lecture: [[pdf]](fal2021/GEO_371T_Lecture_26_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/NjaWtNr7EwVVLyhRkswCOVhUQ8P-VZ2ap_wxJJkypAmYNVRr7TV1iidJluzEfMBu.MkXWNU1ArlrRXXOw)
-* Notes: [[pdf](fall2021/Hyperelastic_Solids.pdf)
+* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_26_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/NjaWtNr7EwVVLyhRkswCOVhUQ8P-VZ2ap_wxJJkypAmYNVRr7TV1iidJluzEfMBu.MkXWNU1ArlrRXXOw)
+* Notes: [[pdf]](fall2021/Hyperelastic_Solids.pdf)
 
 ### Lecture 27 (Dec 2): Linear elastic solids
-
+* Topics: Linearization, Elasticity tensor, Linear elastic solids
+* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_27_2021.pdf)
+* Notes: [[pdf]](fall2021/Linear_Elasticity.pdf)
