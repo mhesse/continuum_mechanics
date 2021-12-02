@@ -166,5 +166,5 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 
 ### Lecture 27 (Dec 2): Linear elastic solids
 * Topics: Linearization, Elasticity tensor, Linear elastic solids
-* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_27_2021.pdf)
+* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_27_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/iAADEuDNLTaWmU_kNUXgxYuwLoTmRiOl8rHUwYS4pZ9fI_pKZRK6_kU0zB6cTeuj.1dDfgOsZutb98pUg)
 * Notes: [[pdf]](fall2021/Linear_Elasticity.pdf)
