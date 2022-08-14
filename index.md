@@ -10,7 +10,7 @@ Previous versions of this course: [Fall 2021](Fall2021.md)
 * Class Zoom: [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09) - Class (password in email or on [Canvas](https://utexas.instructure.com/courses/1316021))
 
 ### Office hours
-Mon 1:30-2pm and Wed 3-3:30pm [[poll]](https://www.when2meet.com/?12626591-xTlem): [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09) (password in email or on [Canvas](https://utexas.instructure.com/courses/1316021))
+TBD [[poll]]([https://www.when2meet.com/?12626591-xTlem](https://www.when2meet.com/?16390122-bSz9b)): 
 
 ### Additional course websites:
 * [Piazza](https://piazza.com/class/ksqzk1lgf913or) - Discussion board
