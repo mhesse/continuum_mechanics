@@ -52,23 +52,23 @@ Topis: Integral theorems (Gauss, Stokes), Derivatives of tensor functions
 ## Topic II: Stress 
 ### Lecture 6 (Sep 14): Cauchy stress tensor
 Topics: Mass and force, Traction, Action & Reaction, Cauchy's principle
-* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_6_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/gPK4gBXkokxcilXItFQW2pbtYhaY2iEW62vzyhxX30uXxJg8Zjk_UDd_pi3dNEnX.YCS6Vnv31Kqb2Pg7)
-* Notes: [[pdf]](fall2021/Continuum_Mass_and_Force_Concepts_2021.pdf)
+* Lecture: 
+<!---* Notes: [[pdf]](fall2021/Continuum_Mass_and_Force_Concepts_2021.pdf)--->
 
 ### Lecture 7 (Sep 16): Equilibrium equations
 Topics: Cauchy stress tensor, Eqbm equations, symmetry of stress tensor
-* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_7_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/mtD6edqZ7kw_2ATb8XRUxmgit_kjQoSfzXuKNDiBWSZ-VrVV8AQevSVu_FUXlXRZ.epttqBZEuewRwwXi)
-* Notes: [[pdf]](fall2021/Mechanical_Equilibrium.pdf)
+* Lecture: 
+<!---* Notes: [[pdf]](fall2021/Mechanical_Equilibrium.pdf)--->
 
 ### Lecture 8 (Sep 21): Normal and shear stress
 Topics: Normal and shear stress, principal stresses, simple states of stress
-* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_8_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/9-WbRhccZcxqNXRCd4m5D8AvPb-50hMHpDFhPQWdertX38PXVz0vD_c2Qo1uBb5r.jQk75wDBDkM1ieKA)
-* Notes: [[pdf 1]](fall2021/Normal_and_shear_stress_2021.pdf)
+* Lecture: 
+<!---* Notes: [[pdf 1]](fall2021/Normal_and_shear_stress_2021.pdf)--->
 
 ### Lecture 9 (Sep 23): Mohr circle and failure
 Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of stress
-* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_9_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/aH9A15AxwRAUubLtFq6SzmpGmps44ovvHmLqhtWtxGHntkzcqcntmMUQOdqxvFuX.jG9C88_hGf5EIy3d)
-* Notes: [Mohr circle](fall2021/Mohr_circle_and_failure.pdf), [Simple stress states](fall2021/Simple_states_of_stress.pdf)
+* Lecture: 
+<!---* Notes: [Mohr circle](fall2021/Mohr_circle_and_failure.pdf), [Simple stress states](fall2021/Simple_states_of_stress.pdf)--->
 
 ## Topic III: Kinematics
 
