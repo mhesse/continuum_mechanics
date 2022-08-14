@@ -47,7 +47,7 @@ Topics: Differentiation of tensor fields (div, grad, curl)
 ### Lecture 5 (Sep 9): Tensor calculus II
 Topis: Integral theorems (Gauss, Stokes), Derivatives of tensor functions
 * Lecture: 
-%* [Tensor calculus II](fall2021/Tensor_calculus_II.pdf)
+<!--- * [Tensor calculus II](fall2021/Tensor_calculus_II.pdf)--->
 
 ## Topic II: Stress 
 ### Lecture 6 (Sep 14): Cauchy stress tensor
