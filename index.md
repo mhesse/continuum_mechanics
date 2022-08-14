@@ -31,24 +31,23 @@ TBD [[poll]]([https://www.when2meet.com/?12626591-xTlem](https://www.when2meet.c
 
 ### Lecture 2 (Aug 31): Tensor algebra I
 Topics: Tensor representation and basis, dyadic product, trace, transpose, determinant, scalar product.
-* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_2_2021.pdf) [[rec 1]](https://utexas.zoom.us/rec/share/oqLc0gpmVGnrMoycfp-JDWJJKO2uqnl8avVhvu1CJiA2HZK5lGGuaLZZfUMlSxWg.x5yUeLMJlqSKNqfs) [[rec 2 (extra)]](https://utexas.zoom.us/rec/share/gqi_kDp8Nc7ysUV1n3xcLYQ8OCXaC0nPIejXwzFiym5v5Pkh8gh8BOO1WrMbna-S.9cv8KSMzWb_lQkno 
-)
+* Lecture: 
 * [Tensor algebra I](fall2021/Tensor_algebra_I.pdf)
 
 ### Lecture 3 (Sep 2): Tensor algebra II
 Topics: Orthogonal tensors, change of basis, spectral decomposition, polar decomposition.
-* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_3_2021.pdf)  [[rec]](https://utexas.zoom.us/rec/share/G0aownMbjN46pc1zaxb6nBGK1A_9yiS0zjMzb_Yo5CKt_iXLiiC4V0emAApRkWo_.xWNTzjyOLOQJDsEO)
+* Lecture: 
 * [Tensor algebra II](fall2021/Tensor_algebra_II.pdf)
 
 ### Lecture 4 (Sep 7): Tensor calculus I
 Topics: Differentiation of tensor fields (div, grad, curl)
-* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_4_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/-HX6N6FQitqCP33qc2Qu-sl-6TKDAMW9wrQERCQAKn4bK-fYIBIX26eB4aEIgeVW.9phK5dXGc3TchKDN)
+* Lecture: 
 * [Tensor calculus I](fall2021/Tensor_calculus_I.pdf)
 
 ### Lecture 5 (Sep 9): Tensor calculus II
 Topis: Integral theorems (Gauss, Stokes), Derivatives of tensor functions
-* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_5_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/-yCqUKDiq-nHMfgsaUWlyT-aTUvdvBI80aW7q3cOh2eLPNKDlD8qD3ROCVudl9Gd.pOckiS1z5Lt3rg3L)
-* [Tensor calculus II](fall2021/Tensor_calculus_II.pdf)
+* Lecture: 
+%* [Tensor calculus II](fall2021/Tensor_calculus_II.pdf)
 
 ## Topic II: Stress 
 ### Lecture 6 (Sep 14): Cauchy stress tensor
