@@ -18,6 +18,7 @@ TBD [[poll]]([https://www.when2meet.com/?12626591-xTlem](https://www.when2meet.c
 ### Relevant textbooks
 We will most closely follow:
 * [A first course in continuum mechanics](https://www.cambridge.org/core/books/first-course-in-continuum-mechanics/DC9A87155531958AD5EFC66AEB981DAE), by Gonzalez and Stewart
+* [Continuum Mechanics in the Earth Sciences](https://doi.org/10.1017/CBO9780511980121), by Newman
 
 Other useful books are:
 * [Rheology of the Earth](https://www.springer.com/gp/book/9780412546709), by Ranalli
