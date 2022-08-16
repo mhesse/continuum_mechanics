@@ -16,11 +16,15 @@ TBD [[poll]]([https://www.when2meet.com/?12626591-xTlem](https://www.when2meet.c
 * [Piazza](https://piazza.com/class/ksqzk1lgf913or) - Discussion board
 
 ### Relevant textbooks
-* [Introduction to continuum mechanics](https://www.elsevier.com/books/an-introduction-to-continuum-mechanics/gurtin/978-0-12-309750-7), by Gurtin
+We will most closely follow:
 * [A first course in continuum mechanics](https://www.cambridge.org/core/books/first-course-in-continuum-mechanics/DC9A87155531958AD5EFC66AEB981DAE), by Gonzalez and Stewart
+
+Other useful books are:
+* [Rheology of the Earth](https://www.springer.com/gp/book/9780412546709), by Ranalli
+* [Introduction to continuum mechanics](https://www.elsevier.com/books/an-introduction-to-continuum-mechanics/gurtin/978-0-12-309750-7), by Gurtin
 * [Nonlinear solid mechanics](https://www.wiley.com/en-us/Nonlinear+Solid+Mechanics%3A+A+Continuum+Approach+for+Engineering-p-9780471823193), by Holzapfel
 * [Physics of continous matter](https://www.taylorfrancis.com/books/mono/10.1201/9781439894200/physics-continuous-matter-lautrup), by Lautrup
-* [Rheology of the Earth](https://www.springer.com/gp/book/9780412546709), by Ranalli
+
 
 ## Topic I: Introduction to tensors
 ### Lecture 1 (Aug 26): Introduction (zoom)
