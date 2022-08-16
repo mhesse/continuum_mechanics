@@ -22,9 +22,9 @@ We will most closely follow:
 
 Other useful books are:
 * [Rheology of the Earth](https://www.springer.com/gp/book/9780412546709), by Ranalli
+* [Physics of continous matter](https://www.taylorfrancis.com/books/mono/10.1201/9781439894200/physics-continuous-matter-lautrup), by Lautrup
 * [Introduction to continuum mechanics](https://www.elsevier.com/books/an-introduction-to-continuum-mechanics/gurtin/978-0-12-309750-7), by Gurtin
 * [Nonlinear solid mechanics](https://www.wiley.com/en-us/Nonlinear+Solid+Mechanics%3A+A+Continuum+Approach+for+Engineering-p-9780471823193), by Holzapfel
-* [Physics of continous matter](https://www.taylorfrancis.com/books/mono/10.1201/9781439894200/physics-continuous-matter-lautrup), by Lautrup
 
 
 ## Topic I: Introduction to tensors
