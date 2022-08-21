@@ -80,12 +80,13 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 ### Lecture 10 (Sep 28): Deformation
 * Topics: Deformation mapping and gradient
 * Lecture: 
-<!---*[[pdf]](fall2021/GEO_371T_Lecture_10_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/iX3w3zTO_xximpmRHDsdudEp0YOw6K-gAugvNBQj6vO3kgepKMhcxBVIrolsI5Ot.6BfA-y2ljDPdQLtq) --->
+<!---* [[pdf]](fall2021/GEO_371T_Lecture_10_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/iX3w3zTO_xximpmRHDsdudEp0YOw6K-gAugvNBQj6vO3kgepKMhcxBVIrolsI5Ot.6BfA-y2ljDPdQLtq) --->
 <!---* * Notes: [[pdf]](fall2021/Deformation_map_and_gradient.pdf)--->
 
 ### Lecture 11 (Sep 30): Cauchy-Green strain tensor
 * Topics: Local analysis of deformation, right Cauchy-Green strain tensor
-* Lecture: <!---*[[pdf]](fall2021/GEO_371T_Lecture_11_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/96N2Xqq1o5Wfbo5puNHF-XPHErmIil_7LE91KGSCWPxdJUcCUGkQOhZMSVgIV-wk.-SeIgNvCT-BYOOO1)--->
+* Lecture: 
+<!---*[[pdf]](fall2021/GEO_371T_Lecture_11_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/96N2Xqq1o5Wfbo5puNHF-XPHErmIil_7LE91KGSCWPxdJUcCUGkQOhZMSVgIV-wk.-SeIgNvCT-BYOOO1)--->
 <!---* * Notes: [[pdf]](fall2021/Analysis_of_local_deformation_2021.pdf)--->
 
 ### Lecture 12 (Oct 5): Interpretation of strain tensor
