@@ -117,72 +117,81 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 
 ### Lecture 16 (Oct 21): Balance laws in integral form
 * Topics: Integral balance laws in discrete and continuum systems, Introduction to continuum thermodynamics
-* Lecture: <!---*[[pdf]](fall2021/GEO_371T_Lecture_16_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/bdEO55Qm5T36B6Q3NJBLgqhAeSdOSaCmD9_5dYuDpG3QTJjm7l-kf7PHRawPkKPT.L8fvK4_mrvEIDiO_)--->
+* Lecture: 
+* <!---* [[pdf]](fall2021/GEO_371T_Lecture_16_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/bdEO55Qm5T36B6Q3NJBLgqhAeSdOSaCmD9_5dYuDpG3QTJjm7l-kf7PHRawPkKPT.L8fvK4_mrvEIDiO_)--->
 <!---* * Notes: [[pdf]](fall2021/Balance_laws_in_integral_form.pdf)--->
 
 ### Lecture 17 (Oct 26): Local Eulerian balance laws
 * Topics: Mass and momentum balance, Net working
 * Lecture:
-<!---*[[pdf]](fall2021/GEO_371T_Lecture_17_2021.pdf) [[rec]](fall2021/https://utexas.zoom.us/rec/share/fJ-U_HczTGpI7haURJynAg6BP-u2HlhXH-vxZlCYe8FOJeJXOWQIekg-APrumnoS.gYpTVgq4FWDVkZUd)--->
+<!---* [[pdf]](fall2021/GEO_371T_Lecture_17_2021.pdf) [[rec]](fall2021/https://utexas.zoom.us/rec/share/fJ-U_HczTGpI7haURJynAg6BP-u2HlhXH-vxZlCYe8FOJeJXOWQIekg-APrumnoS.gYpTVgq4FWDVkZUd)--->
 <!---* * Notes: [[pdf]](fall2021/Balance_laws_local_Eulerian_form_2021.pdf) --->
 
 ### Lecture 18 (Oct 28): Continuum thermodynamics
 * Topics: Energy balance and entropy inequality
 * Lecture: 
-<!---*[[pdf]](fall2021/GEO_371T_Lecture_18_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/tqJ3xgzjewgVej5G3WP--FB4cRktyW-Up_3Q1lZwElYf8lpgdTwXho1wbyS4BTM.kbffV_hAskvn5aBs)--->
+<!---* [[pdf]](fall2021/GEO_371T_Lecture_18_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/tqJ3xgzjewgVej5G3WP--FB4cRktyW-Up_3Q1lZwElYf8lpgdTwXho1wbyS4BTM.kbffV_hAskvn5aBs)--->
 <!---* * Notes: [[pdf]](fall2021/Balance_of_Energy_in_local_Eulerian_form_2021.pdf)--->
 
 ### Lecture 19 (Nov 2): Local Lagrangian balance laws
 * Topics: Mass and momentume balancs, first and second laws in Lagrangian form
 * Lecture: 
-<!---*[[pdf]](fall2021/GEO_371T_Lecture_19_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/tY6sSJL-E-cQ7hvAnIJ10m8lP8mTFiwXl2f8y_BazKr-jSV_a78YcvoL549BsjNa.7hBO6D7PPbVGw4y-)--->
+<!---* [[pdf]](fall2021/GEO_371T_Lecture_19_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/tY6sSJL-E-cQ7hvAnIJ10m8lP8mTFiwXl2f8y_BazKr-jSV_a78YcvoL549BsjNa.7hBO6D7PPbVGw4y-)--->
 <!---* * Notes: [[pdf]](fall2021/Balance_laws_in_Lagrangian_form_2021.pdf)--->
 
 ## Topic V: Constitutive theory
 
 ### Lecture 20 (Nov 4): Frame-indifference and objectivity
 * Topics: Material frame indifference, galilean transformations
-* Lecture: <!---*[[pdf]](fall2021/GEO_371T_Lecture_20_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/ZVGCKcPgNPjRpY0QQAd-9Hf4tFrsx-UNivvG0c2GrhSNX8fomOSULwzBHR4UxUgU.Lnz1_pHEYmP9DRtL)--->
-<!---** Notes: [[pdf](fall2021/Objectivity.pdf)--->
+* Lecture:
+<!---* [[pdf]](fall2021/GEO_371T_Lecture_20_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/ZVGCKcPgNPjRpY0QQAd-9Hf4tFrsx-UNivvG0c2GrhSNX8fomOSULwzBHR4UxUgU.Lnz1_pHEYmP9DRtL)--->
+<!---* * Notes: [[pdf](fall2021/Objectivity.pdf)--->
 
 ### Lecture 21 (Nov 9): Isotropic tensor functions
 * Topics: Isotropic functions, 4-th order tensors, material constraints
-* Lecture: <!---*[[pdf]](fall2021/GEO_371T_Lecture_21_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/C9PpBHqfGlL33Dy7nLLm05E2zmxHjzj2DV2BR_NxplURlKoIeiCzfFQiNkrL178m.NiXfvZPHKn05WA4N)--->
-<!---** Notes: [[Isotropic functions]](fall2021/Isotopic_tensor_functions_2021.pdf) [[4th order tensors]](fall2021/Fourth_order_tensors.pdf) [[Material constraints]](fall2021/Constitutive_theory.pdf)--->
+* Lecture: 
+<!---* [[pdf]](fall2021/GEO_371T_Lecture_21_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/C9PpBHqfGlL33Dy7nLLm05E2zmxHjzj2DV2BR_NxplURlKoIeiCzfFQiNkrL178m.NiXfvZPHKn05WA4N)--->
+<!---* * Notes: [[Isotropic functions]](fall2021/Isotopic_tensor_functions_2021.pdf) [[4th order tensors]](fall2021/Fourth_order_tensors.pdf) [[Material constraints]](fall2021/Constitutive_theory.pdf)--->
 
 ## Topic VI: Fluid Mechanics
 
 ### Lecture 22 (Nov 11): Ideal fluids
 * Topic: Frame indifference of ideal fluid model, Bernoulli, Vorticity equation
-* Lecture: <!---*[[pdf]](fall2021/GEO_371T_Lecture_22_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/tY6sSJL-E-cQ7hvAnIJ10m8lP8mTFiwXl2f8y_BazKr-jSV_a78YcvoL549BsjNa.7hBO6D7PPbVGw4y-)--->
-<!---** Notes: [[pfd]](fall2021/Ideal_Fluids.pdf)--->
+* Lecture: 
+<!---* [[pdf]](fall2021/GEO_371T_Lecture_22_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/tY6sSJL-E-cQ7hvAnIJ10m8lP8mTFiwXl2f8y_BazKr-jSV_a78YcvoL549BsjNa.7hBO6D7PPbVGw4y-)--->
+<!---* * Notes: [[pfd]](fall2021/Ideal_Fluids.pdf)--->
 
 ### Lecture 23 (Nov 16): Newtonian fluids
 * Topics: Newtonian stress, Navier-Stokes Equation, Stokes Equation, Kinetic energy 
-* Lecture: <!---*[[pdf]](fall2021/GEO_371T_Lecture_23_2021.pdf), sorry forgot to reccord!--->
-<!---** Notes: [[pdf]](fall2021/Newtonian_Fluids.pdf)--->
+* Lecture: 
+<!---* [[pdf]](fall2021/GEO_371T_Lecture_23_2021.pdf), sorry forgot to reccord!--->
+<!---* * Notes: [[pdf]](fall2021/Newtonian_Fluids.pdf)--->
 
 ### Lecture 24 (Nov 18): Fluids special topic: Power-law creep
 * Topics: Solid state creep
-* Lecture: <!---*[[pdf]](fall2021/GEO_371T_Lecture_24_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/mJpmQ02LHCgs_z2-xbQdop7kvi3at8vX8oVQ96IVD8Wi9JNWvTaF-hEUMbvheLMo.GD-s5NmfvlD_7VAc)--->
-<!---** Notes: [[pdf]](fall2021/Power-law_creep.pdf)--->
+* Lecture: 
+<!---* [[pdf]](fall2021/GEO_371T_Lecture_24_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/mJpmQ02LHCgs_z2-xbQdop7kvi3at8vX8oVQ96IVD8Wi9JNWvTaF-hEUMbvheLMo.GD-s5NmfvlD_7VAc)--->
+<!---* * Notes: [[pdf]](fall2021/Power-law_creep.pdf)--->
 
 ## Topic VI: Solid Mechanics
 
 ### Lecture 25 (Nov 23): Elastic stress response
 * Topics: Elastic Solid, stress response function, isotropic material 
-* Lecture: <!---*[[pdf]](fall2021/GEO_371T_Lecture_25_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/CkFwEqhnHZFKRu6vjNwhb8maHwn6wbWHF8mnktm11JxC7ytBaBCLuY-4IEpUT2ao.m00F1iGRX0A1VkTb)--->
-<!---** Notes: [[pdf]](fall2021/Elastic_Solids.pdf)--->
+* Lecture: 
+<!---* [[pdf]](fall2021/GEO_371T_Lecture_25_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/CkFwEqhnHZFKRu6vjNwhb8maHwn6wbWHF8mnktm11JxC7ytBaBCLuY-4IEpUT2ao.m00F1iGRX0A1VkTb)--->
+<!---* * Notes: [[pdf]](fall2021/Elastic_Solids.pdf)--->
 
 ### Lecture 26 (Nov 30): Hyperelastic solids
 * Topis: Strain enegy density, Mechanic energy inequality, common models
-* Lecture: <!---*[[pdf]](fall2021/GEO_371T_Lecture_26_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/NjaWtNr7EwVVLyhRkswCOVhUQ8P-VZ2ap_wxJJkypAmYNVRr7TV1iidJluzEfMBu.MkXWNU1ArlrRXXOw)--->
-<!---** Notes: [[pdf]](fall2021/Hyperelastic_Solids.pdf)--->
+* Lecture: 
+<!---* [[pdf]](fall2021/GEO_371T_Lecture_26_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/NjaWtNr7EwVVLyhRkswCOVhUQ8P-VZ2ap_wxJJkypAmYNVRr7TV1iidJluzEfMBu.MkXWNU1ArlrRXXOw)--->
+<!---* * Notes: [[pdf]](fall2021/Hyperelastic_Solids.pdf)--->
 
 ### Lecture 27 (Dec 2): Linear elastic solids
 * Topics: Linearization, Elasticity tensor, Linear elastic solids
-* Lecture:<!---* [[pdf]](fall2021/GEO_371T_Lecture_27_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/iAADEuDNLTaWmU_kNUXgxYuwLoTmRiOl8rHUwYS4pZ9fI_pKZRK6_kU0zB6cTeuj.1dDfgOsZutb98pUg)--->
-<!---** Notes: [[pdf]](fall2021/Linear_Elasticity.pdf)--->
+* Lecture:
+<!---* [[pdf]](fall2021/GEO_371T_Lecture_27_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/iAADEuDNLTaWmU_kNUXgxYuwLoTmRiOl8rHUwYS4pZ9fI_pKZRK6_kU0zB6cTeuj.1dDfgOsZutb98pUg)--->
+<!---* * Notes: [[pdf]](fall2021/Linear_Elasticity.pdf)--->
 
 
-<!---*## So Long, and Thanks for All the Fish!--->
+<!---* ## So Long, and Thanks for All the Fish!--->
