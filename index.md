@@ -13,7 +13,7 @@ Previous versions of this course: [Fall 2021](Fall2021.md)
 TBD [[poll]]([https://www.when2meet.com/?12626591-xTlem](https://www.when2meet.com/?16390122-bSz9b)): 
 
 ### Additional course websites:
-* [Piazza](https://piazza.com/class/ksqzk1lgf913or) - Discussion board
+* [Piazza](https://piazza.com/class/l73vccyyvk96km/) - Discussion board
 
 ### Relevant textbooks
 We will most closely follow:
