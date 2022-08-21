@@ -91,45 +91,52 @@ Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of s
 
 ### Lecture 12 (Oct 5): Interpretation of strain tensor
 * Topics: Other strain tensors, Cauchy-Green strain relations, Volume changes
-* Lecture: <!---*[[pdf]](fall2021/GEO_371T_Lecture_12_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/nGZlnFC7gKi9k4LaXyBIqw6DiLyNBtlyE_hwJg-KLMkpDwhrA0AOaPeBauN93Asj.4Z1_v-aqcIFbiVml)--->
+* Lecture: 
+<!---*[[pdf]](fall2021/GEO_371T_Lecture_12_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/nGZlnFC7gKi9k4LaXyBIqw6DiLyNBtlyE_hwJg-KLMkpDwhrA0AOaPeBauN93Asj.4Z1_v-aqcIFbiVml)--->
 <!---** Notes: [[pdf]](fall2021/Cauchy-Green_strain_tensor_2021.pdf)--->
 
 ### Lecture 13 (Oct 7): Infinitesimal strain
 * Topics: Changes in area, linearization of kinematic quantities, infintesimal strain tensor
-* Lecture: <!---*[[pdf]](fall2021/GEO_371T_Lecture_13_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/Fe-tlkIvjRCzea1zDw0g97BYk4D86WWLwrKiv1AiV3fXt4dPrWASZkVMYZ_i8DGn.Nupn0prjk_Bc7KiQ)--->
+* Lecture: 
+<!---* [[pdf]](fall2021/GEO_371T_Lecture_13_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/Fe-tlkIvjRCzea1zDw0g97BYk4D86WWLwrKiv1AiV3fXt4dPrWASZkVMYZ_i8DGn.Nupn0prjk_Bc7KiQ)--->
 <!---* * Notes: [[pdf]](fall2021/Infinitesimal_strain_tensor_2021.pdf)--->
 
 ### Lecture 14 (Oct 12): Motions
 * Topics: Motions, Material spatial fields, Material and spatial time derivatives
-* Lecture: <!---*[[pdf]](fall2021/GEO_371T_Lecture_14_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/KagNsIGMFU3Q-EWzv9NtHUIyjhKg3zIYcGE7CuR1mkFk1xtV0dTbDi3rjGOeuHVG.1ochifmBuodgnaWA)--->
-<!---** Notes: [[pdf]](fall2021/Motions_2021.pdf)--->
+* Lecture: 
+<!---* [[pdf]](fall2021/GEO_371T_Lecture_14_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/KagNsIGMFU3Q-EWzv9NtHUIyjhKg3zIYcGE7CuR1mkFk1xtV0dTbDi3rjGOeuHVG.1ochifmBuodgnaWA)--->
+<!---* * Notes: [[pdf]](fall2021/Motions_2021.pdf)--->
 
 ### Lecture 15 (Oct 19): Rates
 * Topics: Rate of strain & spin tensors, Reynolds transport theorem
-* Lecture: <!---*[[pdf]](fall2021/GEO_371T_Lecture_15_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/qT5SvMyq3OrmZ73HAp_disWB819FztJFeh8ZiX2qdCni-jxGNwLp8-DUpn8OfOJL.FJsuxgdnHzdW_QQ6)--->
-<!---** Notes: [[Rates of deformation]](fall2021/Rate_of_strain_and_spin_2021.pdf) [[Reynolds transport Thm]](fall2021/Reynolds_Transport_Theorem_2021.pdf)--->
+* Lecture: 
+<!---* [[pdf]](fall2021/GEO_371T_Lecture_15_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/qT5SvMyq3OrmZ73HAp_disWB819FztJFeh8ZiX2qdCni-jxGNwLp8-DUpn8OfOJL.FJsuxgdnHzdW_QQ6)--->
+<!---* * Notes: [[Rates of deformation]](fall2021/Rate_of_strain_and_spin_2021.pdf) [[Reynolds transport Thm]](fall2021/Reynolds_Transport_Theorem_2021.pdf)--->
 
 ## Topic IV: Balance laws
 
 ### Lecture 16 (Oct 21): Balance laws in integral form
 * Topics: Integral balance laws in discrete and continuum systems, Introduction to continuum thermodynamics
 * Lecture: <!---*[[pdf]](fall2021/GEO_371T_Lecture_16_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/bdEO55Qm5T36B6Q3NJBLgqhAeSdOSaCmD9_5dYuDpG3QTJjm7l-kf7PHRawPkKPT.L8fvK4_mrvEIDiO_)--->
-<!---** Notes: [[pdf]](fall2021/Balance_laws_in_integral_form.pdf)--->
+<!---* * Notes: [[pdf]](fall2021/Balance_laws_in_integral_form.pdf)--->
 
 ### Lecture 17 (Oct 26): Local Eulerian balance laws
 * Topics: Mass and momentum balance, Net working
-* Lecture: <!---*[[pdf]](fall2021/GEO_371T_Lecture_17_2021.pdf) [[rec]](fall2021/https://utexas.zoom.us/rec/share/fJ-U_HczTGpI7haURJynAg6BP-u2HlhXH-vxZlCYe8FOJeJXOWQIekg-APrumnoS.gYpTVgq4FWDVkZUd)--->
-<!---** Notes: [[pdf]](fall2021/Balance_laws_local_Eulerian_form_2021.pdf) --->
+* Lecture:
+<!---*[[pdf]](fall2021/GEO_371T_Lecture_17_2021.pdf) [[rec]](fall2021/https://utexas.zoom.us/rec/share/fJ-U_HczTGpI7haURJynAg6BP-u2HlhXH-vxZlCYe8FOJeJXOWQIekg-APrumnoS.gYpTVgq4FWDVkZUd)--->
+<!---* * Notes: [[pdf]](fall2021/Balance_laws_local_Eulerian_form_2021.pdf) --->
 
 ### Lecture 18 (Oct 28): Continuum thermodynamics
 * Topics: Energy balance and entropy inequality
-* Lecture: <!---*[[pdf]](fall2021/GEO_371T_Lecture_18_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/tqJ3xgzjewgVej5G3WP--FB4cRktyW-Up_3Q1lZwElYf8lpgdTwXho1wbyS4BTM.kbffV_hAskvn5aBs)--->
-<!---** Notes: [[pdf]](fall2021/Balance_of_Energy_in_local_Eulerian_form_2021.pdf)--->
+* Lecture: 
+<!---*[[pdf]](fall2021/GEO_371T_Lecture_18_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/tqJ3xgzjewgVej5G3WP--FB4cRktyW-Up_3Q1lZwElYf8lpgdTwXho1wbyS4BTM.kbffV_hAskvn5aBs)--->
+<!---* * Notes: [[pdf]](fall2021/Balance_of_Energy_in_local_Eulerian_form_2021.pdf)--->
 
 ### Lecture 19 (Nov 2): Local Lagrangian balance laws
 * Topics: Mass and momentume balancs, first and second laws in Lagrangian form
-* Lecture: <!---*[[pdf]](fall2021/GEO_371T_Lecture_19_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/tY6sSJL-E-cQ7hvAnIJ10m8lP8mTFiwXl2f8y_BazKr-jSV_a78YcvoL549BsjNa.7hBO6D7PPbVGw4y-)--->
-<!---** Notes: [[pdf]](fall2021/Balance_laws_in_Lagrangian_form_2021.pdf)--->
+* Lecture: 
+<!---*[[pdf]](fall2021/GEO_371T_Lecture_19_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/tY6sSJL-E-cQ7hvAnIJ10m8lP8mTFiwXl2f8y_BazKr-jSV_a78YcvoL549BsjNa.7hBO6D7PPbVGw4y-)--->
+<!---* * Notes: [[pdf]](fall2021/Balance_laws_in_Lagrangian_form_2021.pdf)--->
 
 ## Topic V: Constitutive theory
 
