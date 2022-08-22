@@ -29,8 +29,8 @@ Other useful books are:
 
 ## Topic I: Introduction to tensors
 ### Lecture 1 (Aug 26): Introduction (zoom)
-* Lecture: [[pdf]](fall2021/GEO 371T_Lecture_1_2021.pdf) [[rec 1]](https://drive.google.com/file/d/1D0W4C-HxGbnSwV2ukp2uRpeV3nQ1WOzn/view?usp=sharing) [[rec 2]](https://utexas.zoom.us/rec/play/8XhKIvPdcpTGYsT89ogaA0HMXrS91_p8wZbqy2DiieHZchzkKASWO2P46RdLthlMi40dQ3aNKtaLrG1o.OENKO0T3OvutsbB3?continueMode=true)
-* [Introduction to course](fall2021/Intro2class2021.pdf)
+* Lecture: Introduction to the class, review of vectors, index notation
+* [Introduction to course](fall2022/ContinuumMechanics_intro_2022_compressed.pdf)
 * [Review of vectors](fall2021/Review_of_vectors.pdf)
 * [Index notation](fall2021/Index_notation.pdf)
 
