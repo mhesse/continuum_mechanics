@@ -31,8 +31,8 @@ Other useful books are:
 ### Lecture 1 (Aug 26): Introduction (zoom)
 * Lecture: Introduction to the class, review of vectors, index notation
 * [Introduction to course](fall2022/ContinuumMechanics_intro_2022_compressed.pdf)
-* [Review of vectors](fall2021/Review_of_vectors.pdf)
-* [Index notation](fall2021/Index_notation.pdf)
+* [Review of vectors](fall2022/Review_of_vectors.pdf)
+* [Index notation](fall2022/Index_notation.pdf)
 
 ### Lecture 2 (Aug 31): Tensor algebra I
 Topics: Tensor representation and basis, dyadic product, trace, transpose, determinant, scalar product.
