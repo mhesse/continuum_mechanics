@@ -30,7 +30,7 @@ Other useful books are:
 ## Topic I: Introduction to tensors
 ### Lecture 1 (Aug 26): Introduction (zoom)
 * Topics: Introduction to the class, review of vectors, index notation
-* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture1.pdf)
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture1.pdf) [[rec]](https://utexas.zoom.us/rec/play/HcIYN5kcz6gvC09UQRg_G49BZT20_B7W_NmSK6vLub_S0qkD3d1KKkc6cG525c8Q2Ku6xVss21CJHIiV.Rs6ElzrvmC045BMT?continueMode=true)
 * [Introduction to course](fall2022/ContinuumMechanics_intro_2022_compressed.pdf)
 * [Review of vectors](fall2022/Review_of_vectors.pdf)
 * [Index notation](fall2022/Index_notation.pdf)
