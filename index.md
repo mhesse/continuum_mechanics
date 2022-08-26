@@ -37,7 +37,7 @@ Other useful books are:
 
 ### Lecture 2 (Aug 31): Tensor algebra I
 Topics: Tensor representation and basis, dyadic product, trace, transpose, determinant, scalar product.
-* Lecture: 
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture2.pdf) [[rec]](https://utexas.zoom.us/rec/share/f_6bDnh9rg7FNpOXtifBpp__fiCzTxCQ4PZvnXDjuM5B73VhYJTzFCSOl83-7LGz.UJk0DRjr2EP4mtdL)
 * [Tensor algebra I](fall2021/Tensor_algebra_I.pdf)
 
 ### Lecture 3 (Sep 2): Tensor algebra II
