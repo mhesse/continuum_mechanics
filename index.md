@@ -10,7 +10,7 @@ Previous versions of this course: [Fall 2021](Fall2021.md)
 * Class Zoom: [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09) - Class (password in email or on [Canvas](https://utexas.instructure.com/courses/1343273))
 
 ### Office hours
-[[poll]](https://www.when2meet.com/?16490033-Gt8Iw) 
+<!--- [[poll]](https://www.when2meet.com/?16490033-Gt8Iw) --->
 Mon + Wed 2-3pm in room JGB 1.102A in the Student Service Center, close to Luck Lab Coffee [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09)
 
 ### Additional course websites:
