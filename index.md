@@ -45,7 +45,7 @@ Topics: Tensor representation and basis, dyadic product, trace, transpose, deter
 
 ### Lecture 3 (Aug 30): Tensor algebra and properties
 Topics: Orthogonal tensors, change of basis, spectral decomposition, polar decomposition.
-* Lecture: 
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture3.pdf) [[rec]](https://utexas.zoom.us/rec/share/NAMC5eGB3jbJ1b25AJCwMzl3XiB1C5L8SndWYHc5GOxCNhWrsmUlCPIuUwWe__8E.g6El_p4w6Y5xBKAR)
 * [Tensor algebra II](fall2021/Tensor_algebra_II.pdf)
 
 ### Lecture 4 (Sep 1): Tensor calculus I
