@@ -41,12 +41,12 @@ Other useful books are:
 ### Lecture 2 (Aug 25): Introduction to Tensors
 Topics: Tensor representation and basis, dyadic product, trace, transpose, determinant, scalar product.
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture2.pdf) [[rec]](https://utexas.zoom.us/rec/share/f_6bDnh9rg7FNpOXtifBpp__fiCzTxCQ4PZvnXDjuM5B73VhYJTzFCSOl83-7LGz.UJk0DRjr2EP4mtdL)
-* [Tensor algebra I](fall2021/Tensor_algebra_I.pdf)
+* Notes: [Tensor Intro](fall2022/Tensor_Intro.pdf)
 
 ### Lecture 3 (Aug 30): Tensor algebra and properties
 Topics: Orthogonal tensors, change of basis, spectral decomposition, polar decomposition.
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture3.pdf) [[rec]](https://utexas.zoom.us/rec/share/NAMC5eGB3jbJ1b25AJCwMzl3XiB1C5L8SndWYHc5GOxCNhWrsmUlCPIuUwWe__8E.g6El_p4w6Y5xBKAR)
-* [Tensor algebra II](fall2021/Tensor_algebra_II.pdf)
+* Notes: [Tensor Algebra Intro](fall2022/Tensor_Algebra_Intro.pdf)
 
 ### Lecture 4 (Sep 1): Tensor calculus I
 Topics: Differentiation of tensor fields (div, grad, curl)
