@@ -30,7 +30,7 @@ Other useful books are:
 * [Nonlinear solid mechanics](https://www.wiley.com/en-us/Nonlinear+Solid+Mechanics%3A+A+Continuum+Approach+for+Engineering-p-9780471823193), by Holzapfel
 
 
-## Topic I: Introduction to tensors
+## Topic I: Tensors and stress
 ### Lecture 1 (Aug 23): Introduction (zoom)
 * Topics: Introduction to the class, review of vectors, index notation
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture1.pdf) [[rec]](https://utexas.zoom.us/rec/play/HcIYN5kcz6gvC09UQRg_G49BZT20_B7W_NmSK6vLub_S0qkD3d1KKkc6cG525c8Q2Ku6xVss21CJHIiV.Rs6ElzrvmC045BMT?continueMode=true)
@@ -48,19 +48,17 @@ Topics: Orthogonal tensors, change of basis, spectral decomposition, polar decom
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture3.pdf) [[rec]](https://utexas.zoom.us/rec/share/NAMC5eGB3jbJ1b25AJCwMzl3XiB1C5L8SndWYHc5GOxCNhWrsmUlCPIuUwWe__8E.g6El_p4w6Y5xBKAR)
 * Notes: [Tensor Algebra Intro](fall2022/Tensor_Algebra_Intro.pdf)
 
-### Lecture 4 (Sep 1): Tensor calculus I
-Topics: Differentiation of tensor fields (div, grad, curl)
+### Lecture 4 (Sep 1): Cauchy stress tensor
+opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Lecture: 
-* [Tensor calculus I](fall2021/Tensor_calculus_I.pdf)
+* Notes:
 
-### Lecture 5 (Sep 6): Tensor calculus II
-Topis: Integral theorems (Gauss, Stokes), Derivatives of tensor functions
+### Lecture 5 (Sep 6): 
 * Lecture: 
 <!--- * [Tensor calculus II](fall2021/Tensor_calculus_II.pdf)--->
 
-## Topic II: Stress 
-### Lecture 6 (Sep 8): Cauchy stress tensor
-Topics: Mass and force, Traction, Action & Reaction, Cauchy's principle
+
+### Lecture 6 (Sep 8): 
 * Lecture: 
 <!---* Notes: [[pdf]](fall2021/Continuum_Mass_and_Force_Concepts_2021.pdf)--->
 
