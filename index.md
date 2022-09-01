@@ -50,7 +50,7 @@ Topics: Orthogonal tensors, change of basis, spectral decomposition, polar decom
 
 ### Lecture 4 (Sep 1): Cauchy stress tensor
 opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
-* Lecture: 
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture4.pdf) [[rec]](https://utexas.zoom.us/rec/share/lTKxfuJh8qh_MjYaLClv_u8SScNdIM8CJKWFndtJ9NsIKr0CEyQTmivJNa-hgV5t.FWSQbJx1HiNA7qxS)
 * Notes:
 
 ### Lecture 5 (Sep 6): 
