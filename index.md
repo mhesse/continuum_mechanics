@@ -53,9 +53,9 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture4.pdf) [[rec]](https://utexas.zoom.us/rec/share/lTKxfuJh8qh_MjYaLClv_u8SScNdIM8CJKWFndtJ9NsIKr0CEyQTmivJNa-hgV5t.FWSQbJx1HiNA7qxS)
 * Notes: [[Cauchy stress]](fall2022/Cauchy_stress_tensor.pdf)
 
-### Lecture 5 (Sep 6): 
-* Lecture: 
-<!--- * [Tensor calculus II](fall2021/Tensor_calculus_II.pdf)--->
+### Lecture 5 (Sep 6): Stress examples
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture5.pdf) [[rec]](https://utexas.zoom.us/rec/share/AHcQiPElrlapg-gQHnjUKL9YevmOZgJw-3tRaqAStSXHExmwnXK6sIddpgfo85JC.amD0Os1J0oQNItW0)
+* Notes: [Stress examples](fall2022/Stress_applications.pdf)
 
 
 ### Lecture 6 (Sep 8): 
