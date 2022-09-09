@@ -60,7 +60,7 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 
 ### Lecture 6 (Sep 8): Change of basis and eigen problem
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture6.pdf) [[rec]](https://utexas.zoom.us/rec/share/n4LgnHi-Vkod7TKyS4v94fBMq5fAFlmRBmsxFMUt1C_PZ2NNvD4eUbZmASFhaDrL._eyZrJ3WP1YhSYCa)
-<!---* Notes: [[pdf]](fall2021/Continuum_Mass_and_Force_Concepts_2021.pdf)--->
+Notes: [[Tensor Algebra II]](fall2021/Continuum_Mass_and_Force_Concepts_2021.pdf)
 
 ### Lecture 7 (Sep 13): Equilibrium equations
 Topics: Cauchy stress tensor, Eqbm equations, symmetry of stress tensor
