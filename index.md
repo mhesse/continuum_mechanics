@@ -58,8 +58,8 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Notes: [Stress examples](fall2022/Stress_applications.pdf)
 
 
-### Lecture 6 (Sep 8): 
-* Lecture: 
+### Lecture 6 (Sep 8): Change of basis and eigen problem
+* Lecture: [[pdf]]() [[rec]](https://utexas.zoom.us/rec/share/n4LgnHi-Vkod7TKyS4v94fBMq5fAFlmRBmsxFMUt1C_PZ2NNvD4eUbZmASFhaDrL._eyZrJ3WP1YhSYCa)
 <!---* Notes: [[pdf]](fall2021/Continuum_Mass_and_Force_Concepts_2021.pdf)--->
 
 ### Lecture 7 (Sep 13): Equilibrium equations
