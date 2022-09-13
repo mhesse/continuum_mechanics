@@ -62,9 +62,8 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture6.pdf) [[rec]](https://utexas.zoom.us/rec/share/n4LgnHi-Vkod7TKyS4v94fBMq5fAFlmRBmsxFMUt1C_PZ2NNvD4eUbZmASFhaDrL._eyZrJ3WP1YhSYCa)
 * Notes: [[Tensor Algebra II]](fall2022/Tensor_algebra_II.pdf)
 
-### Lecture 7 (Sep 13): Equilibrium equations
-Topics: Cauchy stress tensor, Eqbm equations, symmetry of stress tensor
-* Lecture: 
+### Lecture 7 (Sep 13): Normal and shear stress
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture7.pdf)
 <!---* Notes: [[pdf]](fall2021/Mechanical_Equilibrium.pdf)--->
 
 ### Lecture 8 (Sep 15): Normal and shear stress
