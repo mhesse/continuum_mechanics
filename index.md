@@ -63,7 +63,7 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Notes: [[Tensor Algebra II]](fall2022/Tensor_algebra_II.pdf)
 
 ### Lecture 7 (Sep 13): Normal and shear stress
-* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture7.pdf)
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture7.pdf) [[rec]](https://utexas.zoom.us/rec/share/_syRJHH8CgsVlDU9pysyQ1Pu4YVmUUsTctbDxYl0kYbpQOmgr4P6FJe3Mw9q_3Ca.A3YI90LWDPcECzHA)
 <!---* Notes: [[pdf]](fall2021/Mechanical_Equilibrium.pdf)--->
 
 ### Lecture 8 (Sep 15): Normal and shear stress
