@@ -69,6 +69,7 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 ### Lecture 8 (Sep 15): Mohr circle and failure
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture8.pdf) [[rec]](https://utexas.zoom.us/rec/share/uniBxXRIskirejzE3ByXGQuR0aHkwc9O_ycL9-0UtYYjHOZlbJy2G9gwDs3KfyM.b3PbjI4DwgbJ6ExI)
 * Notes: [Mohr circle](fall2022/Mohr_Circle_and_Failure_2022.pdf)
+* Demos: [[LiveScript]](fall2022/demo_fault_stress.mlx), [[pdf]](fall2022/demo_fault_stress.pdf)
 
 ### Lecture 9 (Sep 20): 
 Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of stress
