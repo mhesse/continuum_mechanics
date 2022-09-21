@@ -66,12 +66,11 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture7.pdf) [[rec]](https://utexas.zoom.us/rec/share/_syRJHH8CgsVlDU9pysyQ1Pu4YVmUUsTctbDxYl0kYbpQOmgr4P6FJe3Mw9q_3Ca.A3YI90LWDPcECzHA)
 <!---* Notes: [[pdf]](fall2021/Mechanical_Equilibrium.pdf)--->
 
-### Lecture 8 (Sep 15): Normal and shear stress
-Topics: Normal and shear stress, principal stresses, simple states of stress
-* Lecture: 
-<!---* Notes: [[pdf 1]](fall2021/Normal_and_shear_stress_2021.pdf)--->
+### Lecture 8 (Sep 15): Mohr circle and failure
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture8.pdf) [[rec]](https://utexas.zoom.us/rec/share/uniBxXRIskirejzE3ByXGQuR0aHkwc9O_ycL9-0UtYYjHOZlbJy2G9gwDs3KfyM.b3PbjI4DwgbJ6ExI)
+* Notes: [Mohr circle](fall2022/Mohr_Circle_and_Failure_2022.pdf)
 
-### Lecture 9 (Sep 20): Mohr circle and failure
+### Lecture 9 (Sep 20): 
 Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of stress
 * Lecture: 
 <!---* Notes: [Mohr circle](fall2021/Mohr_circle_and_failure.pdf), [Simple stress states](fall2021/Simple_states_of_stress.pdf)--->
