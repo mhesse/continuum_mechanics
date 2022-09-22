@@ -73,7 +73,7 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 
 ### Lecture 9 (Sep 22): Tensor Calculus (div, grad curl)
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture9.pdf) [[rec]](https://utexas.zoom.us/rec/share/AINB8YmX1o9qOvXhPfkQTpMS13YLHQIksT-A0dKbpLknTcgrSugdB45RBNHBYfCG.5D1uHeUj0VuMqZiv)
-Notes: [[pdf]](fall2021/Deformation_map_and_gradient.pdf)
+Notes: [[pdf]](fall2021/Tensor_calculus_I.pdf)
 
 ### Lecture 11 (Sep 27): Cauchy-Green strain tensor
 * Topics: Local analysis of deformation, right Cauchy-Green strain tensor
