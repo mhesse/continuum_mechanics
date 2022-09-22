@@ -71,18 +71,9 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Notes: [Mohr circle](fall2022/Mohr_Circle_and_Failure_2022.pdf)
 * Demos: [[LiveScript]](fall2022/demo_fault_stress.mlx), [[pdf]](fall2022/demo_fault_stress.pdf)
 
-### Lecture 9 (Sep 20): 
-Topics: Mohr circle in 2D, shear failure, frictional sliding, simple states of stress
-* Lecture: 
-<!---* Notes: [Mohr circle](fall2021/Mohr_circle_and_failure.pdf), [Simple stress states](fall2021/Simple_states_of_stress.pdf)--->
-
-## Topic III: Kinematics
-
-### Lecture 10 (Sep 22): Deformation
-* Topics: Deformation mapping and gradient
-* Lecture: 
-<!---* [[pdf]](fall2021/GEO_371T_Lecture_10_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/iX3w3zTO_xximpmRHDsdudEp0YOw6K-gAugvNBQj6vO3kgepKMhcxBVIrolsI5Ot.6BfA-y2ljDPdQLtq) --->
-<!---* * Notes: [[pdf]](fall2021/Deformation_map_and_gradient.pdf)--->
+### Lecture 9 (Sep 22): Tensor Calculus (div, grad curl)
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture9.pdf) [[rec]](https://utexas.zoom.us/rec/share/AINB8YmX1o9qOvXhPfkQTpMS13YLHQIksT-A0dKbpLknTcgrSugdB45RBNHBYfCG.5D1uHeUj0VuMqZiv)
+Notes: [[pdf]](fall2021/Deformation_map_and_gradient.pdf)
 
 ### Lecture 11 (Sep 27): Cauchy-Green strain tensor
 * Topics: Local analysis of deformation, right Cauchy-Green strain tensor
