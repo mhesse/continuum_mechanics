@@ -77,7 +77,7 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 
 ### Lecture 10 (Sep 27): Equilibrium Equations
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture10.pdf) [[rec]](https://utexas.zoom.us/rec/share/qPjB4i2jSau7_tEt7q9FUwAFkaXz3deSlTcD1gQm7-wcf5fcXWo-Qcr9zN8zM_aS.T2218sWP8lQuDSL3)
-* Notes: [[pdf]](fall2021/Mechanical Equilibrium.pdf)
+* Notes: [[pdf]](fall2021/Mechanical_Equilibrium.pdf)
 
 ### Lecture 12 (Sep 29): Interpretation of strain tensor
 * Topics: Other strain tensors, Cauchy-Green strain relations, Volume changes
