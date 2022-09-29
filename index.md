@@ -30,7 +30,7 @@ Other useful books are:
 * [Nonlinear solid mechanics](https://www.wiley.com/en-us/Nonlinear+Solid+Mechanics%3A+A+Continuum+Approach+for+Engineering-p-9780471823193), by Holzapfel
 
 
-## Topic I: Tensors and stress
+## Topic I: Tensors and Stress
 ### Lecture 1 (Aug 23): Introduction (zoom)
 * Topics: Introduction to the class, review of vectors, index notation
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture1.pdf) [[rec]](https://utexas.zoom.us/rec/play/HcIYN5kcz6gvC09UQRg_G49BZT20_B7W_NmSK6vLub_S0qkD3d1KKkc6cG525c8Q2Ku6xVss21CJHIiV.Rs6ElzrvmC045BMT?continueMode=true)
@@ -79,23 +79,25 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture10.pdf) [[rec]](https://utexas.zoom.us/rec/share/qPjB4i2jSau7_tEt7q9FUwAFkaXz3deSlTcD1gQm7-wcf5fcXWo-Qcr9zN8zM_aS.T2218sWP8lQuDSL3)
 * Notes: [[pdf]](fall2021/Mechanical_Equilibrium.pdf)
 
-### Lecture 12 (Sep 29): Deformation Map and Gradient
+## Topic II: Kinematics and Strain
+
+### Lecture 11 (Sep 29): Deformation Map and Gradient
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture11.pdf) [[rec]](https://utexas.zoom.us/rec/share/5iI-s6ip5MFbINawKT5JYdI_XpZx633kLl26-MNwOF_FNUAAXlc_yDXZZPjFfO4V.SzWEINCsgK4JZcJE)
 * Notes: [[pdf]](fall2022/Deformation_map_and_gradient_2022.pdf)
 
-### Lecture 13 (Oct 4): Infinitesimal strain
+### Lecture 12 (Oct 4): Infinitesimal strain
 * Topics: Changes in area, linearization of kinematic quantities, infintesimal strain tensor
 * Lecture: 
 <!---* [[pdf]](fall2021/GEO_371T_Lecture_13_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/Fe-tlkIvjRCzea1zDw0g97BYk4D86WWLwrKiv1AiV3fXt4dPrWASZkVMYZ_i8DGn.Nupn0prjk_Bc7KiQ)--->
 <!---* * Notes: [[pdf]](fall2021/Infinitesimal_strain_tensor_2021.pdf)--->
 
-### Lecture 14 (Oct 6): Motions
+### Lecture 13 (Oct 6): Motions
 * Topics: Motions, Material spatial fields, Material and spatial time derivatives
 * Lecture: 
 <!---* [[pdf]](fall2021/GEO_371T_Lecture_14_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/KagNsIGMFU3Q-EWzv9NtHUIyjhKg3zIYcGE7CuR1mkFk1xtV0dTbDi3rjGOeuHVG.1ochifmBuodgnaWA)--->
 <!---* * Notes: [[pdf]](fall2021/Motions_2021.pdf)--->
 
-### Lecture 15 (Oct 11): Rates
+### Lecture 14 (Oct 11): Rates
 * Topics: Rate of strain & spin tensors, Reynolds transport theorem
 * Lecture: 
 <!---* [[pdf]](fall2021/GEO_371T_Lecture_15_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/qT5SvMyq3OrmZ73HAp_disWB819FztJFeh8ZiX2qdCni-jxGNwLp8-DUpn8OfOJL.FJsuxgdnHzdW_QQ6)--->
