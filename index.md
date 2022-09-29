@@ -79,11 +79,9 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture10.pdf) [[rec]](https://utexas.zoom.us/rec/share/qPjB4i2jSau7_tEt7q9FUwAFkaXz3deSlTcD1gQm7-wcf5fcXWo-Qcr9zN8zM_aS.T2218sWP8lQuDSL3)
 * Notes: [[pdf]](fall2021/Mechanical_Equilibrium.pdf)
 
-### Lecture 12 (Sep 29): Interpretation of strain tensor
-* Topics: Other strain tensors, Cauchy-Green strain relations, Volume changes
-* Lecture: 
-<!---*[[pdf]](fall2021/GEO_371T_Lecture_12_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/nGZlnFC7gKi9k4LaXyBIqw6DiLyNBtlyE_hwJg-KLMkpDwhrA0AOaPeBauN93Asj.4Z1_v-aqcIFbiVml)--->
-<!---** Notes: [[pdf]](fall2021/Cauchy-Green_strain_tensor_2021.pdf)--->
+### Lecture 12 (Sep 29): Deformation Map and Gradient
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture11.pdf) [[rec]](https://utexas.zoom.us/rec/share/5iI-s6ip5MFbINawKT5JYdI_XpZx633kLl26-MNwOF_FNUAAXlc_yDXZZPjFfO4V.SzWEINCsgK4JZcJE)
+* Notes: [[pdf]](fall2022/Deformation_map_and_gradient_2022.pdf)
 
 ### Lecture 13 (Oct 4): Infinitesimal strain
 * Topics: Changes in area, linearization of kinematic quantities, infintesimal strain tensor
