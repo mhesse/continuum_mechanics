@@ -85,10 +85,8 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture11.pdf) [[rec]](https://utexas.zoom.us/rec/share/5iI-s6ip5MFbINawKT5JYdI_XpZx633kLl26-MNwOF_FNUAAXlc_yDXZZPjFfO4V.SzWEINCsgK4JZcJE)
 * Notes: [[pdf]](fall2022/Deformation_map_and_gradient_2022.pdf)
 
-### Lecture 12 (Oct 4): Infinitesimal strain
-* Topics: Changes in area, linearization of kinematic quantities, infintesimal strain tensor
-* Lecture: 
-<!---* [[pdf]](fall2021/GEO_371T_Lecture_13_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/Fe-tlkIvjRCzea1zDw0g97BYk4D86WWLwrKiv1AiV3fXt4dPrWASZkVMYZ_i8DGn.Nupn0prjk_Bc7KiQ)--->
+### Lecture 12 (Oct 4): Analysis of local deformation
+* Lecture: [[pdf]](fall2022/GEO_371T_Lecture_12_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/S_3loEus_-Y1Qbt0XDLDwrDlb-90JL8bVwfDljhzOzw9K8XU3odQNy90jHJr3ZzJ.iIT9Mc0PYTuruql-)
 <!---* * Notes: [[pdf]](fall2021/Infinitesimal_strain_tensor_2021.pdf)--->
 
 ### Lecture 13 (Oct 6): Motions
