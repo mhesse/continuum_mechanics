@@ -86,7 +86,7 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Notes: [[pdf]](fall2022/Deformation_map_and_gradient_2022.pdf)
 
 ### Lecture 12 (Oct 4): Analysis of local deformation
-* Lecture: [[pdf]](fall2022/GEO_371T_Lecture_12_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/S_3loEus_-Y1Qbt0XDLDwrDlb-90JL8bVwfDljhzOzw9K8XU3odQNy90jHJr3ZzJ.iIT9Mc0PYTuruql-)
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture12.pdf) [[rec]](https://utexas.zoom.us/rec/share/S_3loEus_-Y1Qbt0XDLDwrDlb-90JL8bVwfDljhzOzw9K8XU3odQNy90jHJr3ZzJ.iIT9Mc0PYTuruql-)
 Notes: [[pdf]](fall2022/Analysis_of_local_deformation_2022.pdf)
 
 ### Lecture 13 (Oct 6): Motions
