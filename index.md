@@ -89,10 +89,8 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture12.pdf) [[rec]](https://utexas.zoom.us/rec/share/S_3loEus_-Y1Qbt0XDLDwrDlb-90JL8bVwfDljhzOzw9K8XU3odQNy90jHJr3ZzJ.iIT9Mc0PYTuruql-)
 * Notes: [[pdf]](fall2022/Analysis_of_local_deformation_2022.pdf)
 
-### Lecture 13 (Oct 6): Motions
-* Topics: Motions, Material spatial fields, Material and spatial time derivatives
-* Lecture: 
-<!---* [[pdf]](fall2021/GEO_371T_Lecture_14_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/KagNsIGMFU3Q-EWzv9NtHUIyjhKg3zIYcGE7CuR1mkFk1xtV0dTbDi3rjGOeuHVG.1ochifmBuodgnaWA)--->
+### Lecture 13 (Oct 6): Cauchy-Green Strain Tensor
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture13.pdf) [[rec]](https://utexas.zoom.us/rec/share/tZosfn6YYqyaW76kM2fCQpmjZ7evVqj_c90eBH6l0P-KzMmKH_RIJ0srAxAsdKcC.B0vsN5djwjJSmYUs)
 <!---* * Notes: [[pdf]](fall2021/Motions_2021.pdf)--->
 
 ### Lecture 14 (Oct 11): Rates
