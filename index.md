@@ -91,7 +91,7 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 
 ### Lecture 13 (Oct 6): Cauchy-Green Strain Tensor
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture13.pdf) [[rec]](https://utexas.zoom.us/rec/share/tZosfn6YYqyaW76kM2fCQpmjZ7evVqj_c90eBH6l0P-KzMmKH_RIJ0srAxAsdKcC.B0vsN5djwjJSmYUs)
-<!---* * Notes: [[pdf]](fall2021/Motions_2021.pdf)--->
+* Notes: [[pdf]](fall2022/Cauchy-Green_strain_tensor_2022.pdf)
 
 ### Lecture 14 (Oct 11): Rates
 * Topics: Rate of strain & spin tensors, Reynolds transport theorem
