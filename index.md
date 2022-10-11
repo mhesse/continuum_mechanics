@@ -93,11 +93,9 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture13.pdf) [[rec]](https://utexas.zoom.us/rec/share/tZosfn6YYqyaW76kM2fCQpmjZ7evVqj_c90eBH6l0P-KzMmKH_RIJ0srAxAsdKcC.B0vsN5djwjJSmYUs)
 * Notes: [[pdf]](fall2022/Cauchy-Green_strain_tensor_2022.pdf)
 
-### Lecture 14 (Oct 11): Rates
-* Topics: Rate of strain & spin tensors, Reynolds transport theorem
-* Lecture: 
-<!---* [[pdf]](fall2021/GEO_371T_Lecture_15_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/qT5SvMyq3OrmZ73HAp_disWB819FztJFeh8ZiX2qdCni-jxGNwLp8-DUpn8OfOJL.FJsuxgdnHzdW_QQ6)--->
-<!---* * Notes: [[Rates of deformation]](fall2021/Rate_of_strain_and_spin_2021.pdf) [[Reynolds transport Thm]](fall2021/Reynolds_Transport_Theorem_2021.pdf)--->
+### Lecture 14 (Oct 11): Infinitesimal strain
+* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_15_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/qT5SvMyq3OrmZ73HAp_disWB819FztJFeh8ZiX2qdCni-jxGNwLp8-DUpn8OfOJL.FJsuxgdnHzdW_QQ6)
+* Notes: [[Rates of deformation]](fall2021/Rate_of_strain_and_spin_2021.pdf) [[Reynolds transport Thm]](fall2021/Reynolds_Transport_Theorem_2021.pdf)
 
 ## Topic IV: Balance laws
 
