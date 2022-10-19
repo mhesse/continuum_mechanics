@@ -103,7 +103,7 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 
 ### Lecture 16 (Oct 18): Rates of deformation & Reynolds Transport Theorem
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture16.pdf)  [[rec]](https://utexas.zoom.us/rec/share/QV84pOX6gg77hPQQh5hzB9KjwsNGp-ojGo4p7j-4WsWZESdniwL7J_BVL2jg8GsO.PAkrUHlugY1gTUZt)
-* Notes:
+* Notes: [[Rates]](fall2022/Rate_of_strain_and_spin_2021.pdf) [[Derivatives of tensor functions]](fall2022/Tensor_calculus_II.pdf) [[Reynaolds Transport Theorem]](fall2022/Reynolds_Transport_Theorem_2021.pdf)
 
 ## Topic IV: Balance laws
 
