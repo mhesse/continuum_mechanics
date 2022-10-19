@@ -94,8 +94,16 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Notes: [[pdf]](fall2022/Cauchy-Green_strain_tensor_2022.pdf)
 
 ### Lecture 14 (Oct 11): Infinitesimal strain
-* Lecture: [[pdf]](fall2021/GEO_371T_Lecture_15_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/qT5SvMyq3OrmZ73HAp_disWB819FztJFeh8ZiX2qdCni-jxGNwLp8-DUpn8OfOJL.FJsuxgdnHzdW_QQ6)
-* Notes: [[Rates of deformation]](fall2021/Rate_of_strain_and_spin_2021.pdf) [[Reynolds transport Thm]](fall2021/Reynolds_Transport_Theorem_2021.pdf)
+* Lecture: [[pdf]](fall2022/GEO_371T_Lecture_14_2022.pdf) [[rec]]
+* Notes: 
+
+### Lecture 15 (Oct 13): Motion and Material Derivative
+* Lecture: [[pdf]](fall2022/GEO_371T_Lecture_15_2022.pdf) [[rec]]
+* Notes:
+
+### Lecture 16 (Oct ): Rates of deformation & Reynolds Transport Theorem
+* Lecture: [[pdf]](fall2022/GEO_371T_Lecture_15_2022.pdf)  [[rec]]
+* Notes:
 
 ## Topic IV: Balance laws
 
