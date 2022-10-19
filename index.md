@@ -95,7 +95,7 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 
 ### Lecture 14 (Oct 11): Infinitesimal strain
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture14.pdf) [[rec]](https://utexas.zoom.us/rec/share/qXv4K-fUrXsk3aJRgNb9rjycxar-h3qP_cFOu52LeyBS0BksezwhfidEC40XkeFp.j6Nx7EB5NIR0V-Ac) 
-* Notes: 
+* Notes: [[pdf]](fall2022/Infinitesimal_strain_tensor_2021.pdf)
 
 ### Lecture 15 (Oct 13): Motion and Material Derivative
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture15.pdf) [[rec]](https://utexas.zoom.us/rec/share/iCGTfu94Cz5Ila4S6xdSv8HUjavj-qpNRFBbTXwvU5-oNsMu0eV1aAfmkEHPuZv0.s-7h5GeBr7wpA0cW)
