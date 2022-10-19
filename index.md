@@ -99,11 +99,11 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 
 ### Lecture 15 (Oct 13): Motion and Material Derivative
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture15.pdf) [[rec]](https://utexas.zoom.us/rec/share/iCGTfu94Cz5Ila4S6xdSv8HUjavj-qpNRFBbTXwvU5-oNsMu0eV1aAfmkEHPuZv0.s-7h5GeBr7wpA0cW)
-* Notes:
+* Notes: [[pdf]](fall2022/Motions_2021.pdf)
 
 ### Lecture 16 (Oct 18): Rates of deformation & Reynolds Transport Theorem
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture16.pdf)  [[rec]](https://utexas.zoom.us/rec/share/QV84pOX6gg77hPQQh5hzB9KjwsNGp-ojGo4p7j-4WsWZESdniwL7J_BVL2jg8GsO.PAkrUHlugY1gTUZt)
-* Notes: 
+* Notes:
 
 ## Topic IV: Balance laws
 
