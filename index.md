@@ -109,8 +109,8 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 
 ### Lecture 17 (Oct 25): Balance laws in integral form
 * Topics: Integral balance laws in discrete and continuum systems, Introduction to continuum thermodynamics
-* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture16.pdf) [[rec]](https://utexas.zoom.us/rec/share/k4c2_J40if0FdFJknedcYgxb-9sm0RZ0KwsIGU0qvcncOM8SRYoB2EyDlKQ4y0Bi.yq86vquEJQytH9Vp)
-<!---* * Notes: [[pdf]](fall2021/Balance_laws_in_integral_form.pdf)--->
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture17.pdf) [[rec]](https://utexas.zoom.us/rec/share/k4c2_J40if0FdFJknedcYgxb-9sm0RZ0KwsIGU0qvcncOM8SRYoB2EyDlKQ4y0Bi.yq86vquEJQytH9Vp)
+* Notes: [[pdf]](fall2021/Balance_laws_in_integral_form.pdf)
 
 ### Lecture 18 (Oct 27): Local Eulerian balance laws
 * Topics: Mass and momentum balance, Net working
