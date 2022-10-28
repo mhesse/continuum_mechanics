@@ -113,12 +113,12 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Notes: [[pdf]](fall2021/Balance_laws_in_integral_form.pdf)
 
 ### Lecture 18 (Oct 27): Local Eulerian balance laws
-* Topics: Mass and momentum balance, Net working
+* Topics: Mass and momentum balance
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture18.pdf) [[rec]](https://utexas.zoom.us/rec/share/rNC6woPP2LSxjtN8MzArDJFlk3O7ba8j5ik0ts5PGwh4NuYq4s2UrwVakYLYg2cc.7-7EWrI7DDUQWbpe)
 * Notes: [[pdf]](fall2022/Balance_laws_local_Eulerian_form_2022.pdf) 
 
 ### Lecture (): Continuum thermodynamics
-* Topics: Energy balance and entropy inequality
+* Topics: Net working, Energy balance and entropy inequality
 * Lecture: 
 <!---* [[pdf]](fall2021/GEO_371T_Lecture_18_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/tqJ3xgzjewgVej5G3WP--FB4cRktyW-Up_3Q1lZwElYf8lpgdTwXho1wbyS4BTM.kbffV_hAskvn5aBs)--->
 <!---* * Notes: [[pdf]](fall2021/Balance_of_Energy_in_local_Eulerian_form_2021.pdf)--->
