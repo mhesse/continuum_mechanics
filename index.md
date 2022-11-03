@@ -122,7 +122,7 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Lecture:  [[pdf]](fall2022/GEO325C_2022_Lecture19.pdf) [[rec 1]](https://utexas.zoom.us/rec/share/LWrKhrCX8pPxlbE0qEUT81UWPKqFqR2z-hpoYPC48DzLpGQJ3IYF5Cq9aWIsIBeC.ecgi_ZxT2lt8MsbK) [[rec 2]](https://utexas.zoom.us/rec/share/2fJMvssDYlHDgT08oCGc6Eiim_kvBFFr3tQwDB4mQAC9GXL8vrRGvo2tk-b1cbDn.bc7-3xUOkJZAkJDW)
 * Notes: [[pdf]](fall2022/Balance_of_Energy_in_local_Eulerian_form_2022.pdf)
 
-### Lecture (Nov 3): Local Lagrangian balance laws
+### Lecture 20 (Nov 3): Local Lagrangian balance laws
 * Topics: Mass and momentume balancs, first and second laws in Lagrangian form
 * Lecture: 
 <!---* [[pdf]](fall2021/GEO_371T_Lecture_19_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/tY6sSJL-E-cQ7hvAnIJ10m8lP8mTFiwXl2f8y_BazKr-jSV_a78YcvoL549BsjNa.7hBO6D7PPbVGw4y-)--->
