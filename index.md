@@ -130,13 +130,13 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 
 ## Topic V: Constitutive theory
 
-### Lecture 20 (Oct 27): Frame-indifference and objectivity
+### Lecture 21 (Nov 8): Frame-indifference and objectivity
 * Topics: Material frame indifference, galilean transformations
 * Lecture:
 <!---* [[pdf]](fall2021/GEO_371T_Lecture_20_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/ZVGCKcPgNPjRpY0QQAd-9Hf4tFrsx-UNivvG0c2GrhSNX8fomOSULwzBHR4UxUgU.Lnz1_pHEYmP9DRtL)--->
 <!---* * Notes: [[pdf](fall2021/Objectivity.pdf)--->
 
-### Lecture 21 (Nov 1): Isotropic tensor functions
+### Lecture 22 (Nov 10): Isotropic tensor functions
 * Topics: Isotropic functions, 4-th order tensors, material constraints
 * Lecture: 
 <!---* [[pdf]](fall2021/GEO_371T_Lecture_21_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/C9PpBHqfGlL33Dy7nLLm05E2zmxHjzj2DV2BR_NxplURlKoIeiCzfFQiNkrL178m.NiXfvZPHKn05WA4N)--->
@@ -144,19 +144,19 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 
 ## Topic VI: Fluid Mechanics
 
-### Lecture 22 (Nov 3): Ideal fluids
+### Lecture 23 (Nov 15): Ideal fluids
 * Topic: Frame indifference of ideal fluid model, Bernoulli, Vorticity equation
 * Lecture: 
 <!---* [[pdf]](fall2021/GEO_371T_Lecture_22_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/tY6sSJL-E-cQ7hvAnIJ10m8lP8mTFiwXl2f8y_BazKr-jSV_a78YcvoL549BsjNa.7hBO6D7PPbVGw4y-)--->
 <!---* * Notes: [[pfd]](fall2021/Ideal_Fluids.pdf)--->
 
-### Lecture 23 (Nov 8): Newtonian fluids
+### Lecture 24 (Nov 17): Newtonian fluids
 * Topics: Newtonian stress, Navier-Stokes Equation, Stokes Equation, Kinetic energy 
 * Lecture: 
 <!---* [[pdf]](fall2021/GEO_371T_Lecture_23_2021.pdf), sorry forgot to reccord!--->
 <!---* * Notes: [[pdf]](fall2021/Newtonian_Fluids.pdf)--->
 
-### Lecture 24 (Nov 10): Fluids special topic: Power-law creep
+### Lecture 25 (Nov 29): Fluids special topic: Power-law creep
 * Topics: Solid state creep
 * Lecture: 
 <!---* [[pdf]](fall2021/GEO_371T_Lecture_24_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/mJpmQ02LHCgs_z2-xbQdop7kvi3at8vX8oVQ96IVD8Wi9JNWvTaF-hEUMbvheLMo.GD-s5NmfvlD_7VAc)--->
@@ -164,19 +164,19 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 
 ## Topic VI: Solid Mechanics
 
-### Lecture 25 (Nov 15): Elastic stress response
+### Lecture 26 (Dec 1): Elastic stress response
 * Topics: Elastic Solid, stress response function, isotropic material 
 * Lecture: 
 <!---* [[pdf]](fall2021/GEO_371T_Lecture_25_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/CkFwEqhnHZFKRu6vjNwhb8maHwn6wbWHF8mnktm11JxC7ytBaBCLuY-4IEpUT2ao.m00F1iGRX0A1VkTb)--->
 <!---* * Notes: [[pdf]](fall2021/Elastic_Solids.pdf)--->
 
-### Lecture 26 (Nov 17): Hyperelastic solids
+### Lecture XX (): Hyperelastic solids
 * Topis: Strain enegy density, Mechanic energy inequality, common models
 * Lecture: 
 <!---* [[pdf]](fall2021/GEO_371T_Lecture_26_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/NjaWtNr7EwVVLyhRkswCOVhUQ8P-VZ2ap_wxJJkypAmYNVRr7TV1iidJluzEfMBu.MkXWNU1ArlrRXXOw)--->
 <!---* * Notes: [[pdf]](fall2021/Hyperelastic_Solids.pdf)--->
 
-### Lecture 27 (Nov 29): Linear elastic solids
+### Lecture XX (): Linear elastic solids
 * Topics: Linearization, Elasticity tensor, Linear elastic solids
 * Lecture:
 <!---* [[pdf]](fall2021/GEO_371T_Lecture_27_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/iAADEuDNLTaWmU_kNUXgxYuwLoTmRiOl8rHUwYS4pZ9fI_pKZRK6_kU0zB6cTeuj.1dDfgOsZutb98pUg)--->
