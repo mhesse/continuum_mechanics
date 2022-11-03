@@ -117,11 +117,10 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture18.pdf) [[rec]](https://utexas.zoom.us/rec/share/rNC6woPP2LSxjtN8MzArDJFlk3O7ba8j5ik0ts5PGwh4NuYq4s2UrwVakYLYg2cc.7-7EWrI7DDUQWbpe)
 * Notes: [[pdf]](fall2022/Balance_laws_local_Eulerian_form_2022.pdf) 
 
-### Lecture (): Continuum thermodynamics
+### Lecture 19 (Nov 1): Continuum thermodynamics
 * Topics: Net working, Energy balance and entropy inequality
-* Lecture: 
-<!---* [[pdf]](fall2021/GEO_371T_Lecture_18_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/tqJ3xgzjewgVej5G3WP--FB4cRktyW-Up_3Q1lZwElYf8lpgdTwXho1wbyS4BTM.kbffV_hAskvn5aBs)--->
-<!---* * Notes: [[pdf]](fall2021/Balance_of_Energy_in_local_Eulerian_form_2021.pdf)--->
+* Lecture:  [[pdf]](fall2022/GEO325C_2022_Lecture19.pdf) [[rec 1]](https://utexas.zoom.us/rec/share/LWrKhrCX8pPxlbE0qEUT81UWPKqFqR2z-hpoYPC48DzLpGQJ3IYF5Cq9aWIsIBeC.ecgi_ZxT2lt8MsbK) [[rec 2]](https://utexas.zoom.us/rec/share/2fJMvssDYlHDgT08oCGc6Eiim_kvBFFr3tQwDB4mQAC9GXL8vrRGvo2tk-b1cbDn.bc7-3xUOkJZAkJDW)
+* Notes: [[pdf]](fall2021/Balance_of_Energy_in_local_Eulerian_form_2021.pdf)
 
 ### Lecture (): Local Lagrangian balance laws
 * Topics: Mass and momentume balancs, first and second laws in Lagrangian form
