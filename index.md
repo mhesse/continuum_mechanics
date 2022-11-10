@@ -124,15 +124,15 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 
 ### Lecture 20 (Nov 3): Local Lagrangian balance laws
 * Topics: Mass and momentume balancs, first and second laws in Lagrangian form
-* Lecture: 
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture20.pdf)
 <!---* [[pdf]](fall2021/GEO_371T_Lecture_19_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/tY6sSJL-E-cQ7hvAnIJ10m8lP8mTFiwXl2f8y_BazKr-jSV_a78YcvoL549BsjNa.7hBO6D7PPbVGw4y-)--->
 <!---* * Notes: [[pdf]](fall2021/Balance_laws_in_Lagrangian_form_2021.pdf)--->
 
 ## Topic V: Constitutive theory
 
-### Lecture 21 (Nov 8): Frame-indifference and objectivity
+### Lecture 21 (Nov 8): Fourth-order tensors
 * Topics: Material frame indifference, galilean transformations
-* Lecture:
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture21.pdf)
 <!---* [[pdf]](fall2021/GEO_371T_Lecture_20_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/ZVGCKcPgNPjRpY0QQAd-9Hf4tFrsx-UNivvG0c2GrhSNX8fomOSULwzBHR4UxUgU.Lnz1_pHEYmP9DRtL)--->
 <!---* * Notes: [[pdf](fall2021/Objectivity.pdf)--->
 
