@@ -124,17 +124,17 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 
 ### Lecture 20 (Nov 3): Local Lagrangian balance laws
 * Topics: Mass and momentum balancs, first and second laws in Lagrangian form
-* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture20.pdf)
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture20.pdf) [[rec]](https://utexas.zoom.us/rec/share/5IOaxzjCciqEV6M3Tp4OScrYo6BzFLGSbsIk5GRvkgN2x5_RcRel0IhvWmdERNlI.O54cQUpTVeWnoznQ)
 * Notes: [[pdf]](fall2022/Balance_laws_in_Lagrangian_form_2021.pdf)
 
 ## Topic V: Constitutive theory
 
 ### Lecture 21 (Nov 8): Fourth-order tensors
-* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture21.pdf)
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture21.pdf) [[rec]](https://utexas.zoom.us/rec/share/flkrA3DoS_4ZjXlCnlgKnTWe7dUeZ_9Yfy9SzM3dcOg_9uVSSP__xC41xjvyE5QR.neELBV5_4Aoct5Bb)
 * Notes: [[pdf]](fall2022/Fourth_order_tensors.pdf)
 
 ### Lecture 22 (Nov 10): Objectivity and Representation Theorem
-* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture22.pdf)
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture22.pdf) [[rec]](https://utexas.zoom.us/rec/share/1Uq-BYr8wuFBI6ee4GGm-0RkPfd6XRHh892ZlD9XoEcLxO081ZeobkCv0h0tsYZj.8V8W1Z7OM91-oq3L)
 * Notes: [[Notes]](fall2022/Constitutive_Theory_Intro.pdf) 
 
 ## Topic VI: Fluid Mechanics
