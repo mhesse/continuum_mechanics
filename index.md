@@ -130,12 +130,10 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 ## Topic V: Constitutive theory
 
 ### Lecture 21 (Nov 8): Fourth-order tensors
-* Topics: Material frame indifference, galilean transformations
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture21.pdf)
 * Notes: [[pdf]](fall2022/Fourth_order_tensors.pdf)
 
 ### Lecture 22 (Nov 10): Objectivity and Representation Theorem
-* Topics: Isotropic functions, 4-th order tensors, material constraints
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture22.pdf)
 * Notes: [[Notes]](fall2022/Constitutive_Theory_Intro.pdf) 
 
