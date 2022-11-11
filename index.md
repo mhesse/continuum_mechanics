@@ -136,11 +136,10 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 <!---* [[pdf]](fall2021/GEO_371T_Lecture_20_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/ZVGCKcPgNPjRpY0QQAd-9Hf4tFrsx-UNivvG0c2GrhSNX8fomOSULwzBHR4UxUgU.Lnz1_pHEYmP9DRtL)--->
 <!---* * Notes: [[pdf](fall2021/Objectivity.pdf)--->
 
-### Lecture 22 (Nov 10): Isotropic tensor functions
+### Lecture 22 (Nov 10): Objectivity and Representation Theorem
 * Topics: Isotropic functions, 4-th order tensors, material constraints
-* Lecture: 
-<!---* [[pdf]](fall2021/GEO_371T_Lecture_21_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/C9PpBHqfGlL33Dy7nLLm05E2zmxHjzj2DV2BR_NxplURlKoIeiCzfFQiNkrL178m.NiXfvZPHKn05WA4N)--->
-<!---* * Notes: [[Isotropic functions]](fall2021/Isotopic_tensor_functions_2021.pdf) [[4th order tensors]](fall2021/Fourth_order_tensors.pdf) [[Material constraints]](fall2021/Constitutive_theory.pdf)--->
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture22.pdf)
+* Notes: [[Notes]](fall2022/Constitutive_Theory_Intro.pdf) 
 
 ## Topic VI: Fluid Mechanics
 
