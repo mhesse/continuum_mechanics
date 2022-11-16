@@ -142,7 +142,7 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 ### Lecture 23 (Nov 15): Ideal fluids
 * Topic: Material constraints, Bernoulli, Vorticity equation
 * Lecture: sorry no write up! [[rec]](https://utexas.zoom.us/rec/share/hYEwv_sghRNRruGzQM9kCbPKlN_RKbObNCg8reVaRQX4jKRP_GJWrlqzfbnVV_P2.uT92pgrEpTOZ63Nn)
-* Notes: [[Constraints]](fall2022/Constitutive_theory_constraints.pdf) [[Ideal Fluids]](Ideal_Fluids.pdf)
+* Notes: [[Constraints]](fall2022/Constitutive_theory_constraints.pdf) [[Ideal Fluids]](fall2022/Ideal_Fluids.pdf)
 
 ### Lecture 24 (Nov 17): Newtonian fluids
 * Topics: Newtonian stress, Navier-Stokes Equation, Stokes Equation, Kinetic energy 
