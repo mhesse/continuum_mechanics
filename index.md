@@ -140,9 +140,8 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 ## Topic VI: Fluid Mechanics
 
 ### Lecture 23 (Nov 15): Ideal fluids
-* Topic: Frame indifference of ideal fluid model, Bernoulli, Vorticity equation
-* Lecture: 
-<!---* [[pdf]](fall2021/GEO_371T_Lecture_22_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/tY6sSJL-E-cQ7hvAnIJ10m8lP8mTFiwXl2f8y_BazKr-jSV_a78YcvoL549BsjNa.7hBO6D7PPbVGw4y-)--->
+* Topic: Material constraints, Bernoulli, Vorticity equation
+* Lecture: sorry no write up! [[rec]](https://utexas.zoom.us/rec/share/hYEwv_sghRNRruGzQM9kCbPKlN_RKbObNCg8reVaRQX4jKRP_GJWrlqzfbnVV_P2.uT92pgrEpTOZ63Nn)
 <!---* * Notes: [[pfd]](fall2021/Ideal_Fluids.pdf)--->
 
 ### Lecture 24 (Nov 17): Newtonian fluids
