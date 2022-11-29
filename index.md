@@ -146,7 +146,7 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 
 ### Lecture 24 (Nov 17): Newtonian fluids
 * Topics: Newtonian stress, Navier-Stokes Equation, Stokes Equation, Kinetic energy 
-* Lecture: 
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture24.pdf) [[rec]]
 <!---* [[pdf]](fall2021/GEO_371T_Lecture_23_2021.pdf), sorry forgot to reccord!--->
 <!---* * Notes: [[pdf]](fall2021/Newtonian_Fluids.pdf)--->
 
