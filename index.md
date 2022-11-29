@@ -152,8 +152,7 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 
 ### Lecture 25 (Nov 29): Fluids special topic: Power-law creep
 * Topics: Solid state creep
-* Lecture: 
-<!---* [[pdf]](fall2021/GEO_371T_Lecture_24_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/mJpmQ02LHCgs_z2-xbQdop7kvi3at8vX8oVQ96IVD8Wi9JNWvTaF-hEUMbvheLMo.GD-s5NmfvlD_7VAc)--->
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture24.pdf) [[rec]]
 <!---* * Notes: [[pdf]](fall2021/Power-law_creep.pdf)--->
 
 ## Topic VI: Solid Mechanics
