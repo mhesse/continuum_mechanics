@@ -140,7 +140,6 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 ## Topic VI: Fluid Mechanics
 
 ### Lecture 23 (Nov 15): Ideal fluids
-* Topic: Material constraints, Bernoulli, Vorticity equation
 * Lecture: sorry no write up! [[rec]](https://utexas.zoom.us/rec/share/hYEwv_sghRNRruGzQM9kCbPKlN_RKbObNCg8reVaRQX4jKRP_GJWrlqzfbnVV_P2.uT92pgrEpTOZ63Nn)
 * Notes: [[Constraints]](fall2022/Constitutive_theory_constraints.pdf) [[Ideal Fluids]](fall2022/Ideal_Fluids.pdf)
 
@@ -149,7 +148,6 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Notes: [[pdf]](fall2022/Newtonian_Fluids_2022.pdf)
 
 ### Lecture 25 (Nov 29): Stokes flow 
-* Topics: Solid state creep
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture24.pdf) [[rec]]
 * Notes: [[pdf]](fall2022/Power-law_creep.pdf)
 
