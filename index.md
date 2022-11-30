@@ -146,7 +146,7 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 
 ### Lecture 24 (Nov 17): Newtonian fluids 
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture24.pdf) [[rec]](https://utexas.zoom.us/rec/share/MyqjUm4ebVsIj6R3m7tHpFGaLu9rTQiqoqMwBD4LMh2zFALwiiCgbwmIStkcM0tl.tzUOv1yWIe7pv_kA)
-* Notes: [[pdf]](fall2021/Newtonian_Fluids.pdf)
+* Notes: [[pdf]](fall2022/Newtonian_Fluids_2022.pdf)
 
 ### Lecture 25 (Nov 29): Stokes flow 
 * Topics: Solid state creep
