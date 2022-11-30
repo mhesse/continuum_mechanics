@@ -144,36 +144,22 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Lecture: sorry no write up! [[rec]](https://utexas.zoom.us/rec/share/hYEwv_sghRNRruGzQM9kCbPKlN_RKbObNCg8reVaRQX4jKRP_GJWrlqzfbnVV_P2.uT92pgrEpTOZ63Nn)
 * Notes: [[Constraints]](fall2022/Constitutive_theory_constraints.pdf) [[Ideal Fluids]](fall2022/Ideal_Fluids.pdf)
 
-### Lecture 24 (Nov 17): Newtonian fluids
-* Topics: Newtonian stress, Navier-Stokes Equation, Stokes Equation, Kinetic energy 
-* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture24.pdf) [[rec]]
-<!---* [[pdf]](fall2021/GEO_371T_Lecture_23_2021.pdf), sorry forgot to reccord!--->
-<!---* * Notes: [[pdf]](fall2021/Newtonian_Fluids.pdf)--->
-
-### Lecture 25 (Nov 29): Fluids special topic: Power-law creep
-* Topics: Solid state creep
+### Lecture 24 (Nov 17): Newtonian fluids 
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture24.pdf) [[rec]](https://utexas.zoom.us/rec/share/MyqjUm4ebVsIj6R3m7tHpFGaLu9rTQiqoqMwBD4LMh2zFALwiiCgbwmIStkcM0tl.tzUOv1yWIe7pv_kA)
+* Notes: [[pdf]](fall2021/Newtonian_Fluids.pdf)
+
+### Lecture 25 (Nov 29): Stokes flow 
+* Topics: Solid state creep
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture24.pdf) [[rec]]
 * Notes: [[pdf]](fall2022/Power-law_creep.pdf)
 
-## Topic VI: Solid Mechanics
 
-### Lecture 26 (Dec 1): Elastic stress response
+### Lecture 26 (Dec 1): Fluids special topic: Power-law creep
 * Topics: Elastic Solid, stress response function, isotropic material 
 * Lecture: 
 <!---* [[pdf]](fall2021/GEO_371T_Lecture_25_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/CkFwEqhnHZFKRu6vjNwhb8maHwn6wbWHF8mnktm11JxC7ytBaBCLuY-4IEpUT2ao.m00F1iGRX0A1VkTb)--->
 <!---* * Notes: [[pdf]](fall2021/Elastic_Solids.pdf)--->
 
-### Lecture XX (): Hyperelastic solids
-* Topis: Strain enegy density, Mechanic energy inequality, common models
-* Lecture: 
-<!---* [[pdf]](fall2021/GEO_371T_Lecture_26_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/NjaWtNr7EwVVLyhRkswCOVhUQ8P-VZ2ap_wxJJkypAmYNVRr7TV1iidJluzEfMBu.MkXWNU1ArlrRXXOw)--->
-<!---* * Notes: [[pdf]](fall2021/Hyperelastic_Solids.pdf)--->
-
-### Lecture XX (): Linear elastic solids
-* Topics: Linearization, Elasticity tensor, Linear elastic solids
-* Lecture:
-<!---* [[pdf]](fall2021/GEO_371T_Lecture_27_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/iAADEuDNLTaWmU_kNUXgxYuwLoTmRiOl8rHUwYS4pZ9fI_pKZRK6_kU0zB6cTeuj.1dDfgOsZutb98pUg)--->
-<!---* * Notes: [[pdf]](fall2021/Linear_Elasticity.pdf)--->
 
 
 <!---* ## So Long, and Thanks for All the Fish!--->
