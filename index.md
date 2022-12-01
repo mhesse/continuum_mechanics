@@ -148,8 +148,8 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Notes: [[pdf]](fall2022/Newtonian_Fluids_2022.pdf)
 
 ### Lecture 25 (Nov 29): Stokes flow 
-* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture24.pdf) [[rec]]
-* Notes: [[pdf]](fall2022/Power-law_creep.pdf)
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture25.pdf) [[rec]]
+* Notes: [[pdf]](fall2022/Stokes_Equation.pdf)
 
 
 ### Lecture 26 (Dec 1): Fluids special topic: Power-law creep
