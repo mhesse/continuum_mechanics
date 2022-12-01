@@ -152,12 +152,11 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Notes: [[pdf]](fall2022/Stokes_Equation.pdf)
 
 
-### Lecture 26 (Dec 1): Fluids special topic: Power-law creep
+### Lecture 26 (Dec 1): Power-law creep
 * Topics: Elastic Solid, stress response function, isotropic material 
-* Lecture: 
-<!---* [[pdf]](fall2021/GEO_371T_Lecture_25_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/CkFwEqhnHZFKRu6vjNwhb8maHwn6wbWHF8mnktm11JxC7ytBaBCLuY-4IEpUT2ao.m00F1iGRX0A1VkTb)--->
-<!---* * Notes: [[pdf]](fall2021/Elastic_Solids.pdf)--->
+* Lecture: [[pdf]](fall2022/GEO_371T_Lecture_26_2021.pdf) [[rec]](https://utexas.zoom.us/rec/share/T_WjPc1aN1Yovque9YNLudGdvEt4EtPNY--vW-1suWWKwWa3eNMqX_TnoDKvYJFv.HveTvE-eXA4mjiiL)
+* Notes: [[pdf]](fall2021/Elastic_Solids.pdf)
 
 
 
-<!---* ## So Long, and Thanks for All the Fish!--->
+* ## So Long, and Thanks for All the Fish!
