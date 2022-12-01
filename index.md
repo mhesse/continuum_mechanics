@@ -148,7 +148,7 @@ opics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Notes: [[pdf]](fall2022/Newtonian_Fluids_2022.pdf)
 
 ### Lecture 25 (Nov 29): Stokes flow 
-* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture25.pdf) [[rec]]
+* Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture25.pdf) [[rec]](https://utexas.zoom.us/rec/share/Y2ed_OOkLXH_iGtBWgrRr25LqsvgmNyat1eAWuc7LsrLEJ_vKPgL_WpZbi2fSaSJ.jeCDaXibbd3cL-H8)
 * Notes: [[pdf]](fall2022/Stokes_Equation.pdf)
 
 
