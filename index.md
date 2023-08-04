@@ -5,8 +5,8 @@ Continuum Mechanics is a new upper division undergraduate/beginning graduate cou
 Previous versions of this course: [Fall 2021](Fall2021.md), [Fall 2022](Fall2022.md)
 
 ### Class room
-* Class Time: TTH 2:00 p.m.-3:30 p.m.
-* Class Room: EPS 1.126
+* Class Time: TTH 9:30 am-11:00 am
+* Class Room: EPS 4.104 
 * Class Zoom: [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09) - Class (password in email or on [Canvas](https://utexas.instructure.com/courses/1343273))
 
 ### Office hours
