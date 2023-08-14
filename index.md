@@ -14,7 +14,7 @@ Previous versions of this course: [Fall 2021](Fall2021.md), [Fall 2022](Fall2022
 TBD 
 <!--- Mon + Wed 2-3pm in room JGB 2.104B (new!) in the Student Service Center, close to Luck Lab Coffee [[Zoom ID 921 0937 9742]](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09)--->
 
-Additional zoom office hours with Afzal Tue 11-noon [[Zoom ID 378 6912 461]](https://utexas.zoom.us/j/3786912461)
+<!--- Additional zoom office hours with Afzal Tue 11-noon [[Zoom ID 378 6912 461]](https://utexas.zoom.us/j/3786912461)--->
 
 ### Additional course websites:
 * [Piazza](https://piazza.com/class/l73vccyyvk96km/) - Discussion board
