@@ -18,7 +18,7 @@ TBD
 * [Some light entertainment for dark hours](https://www.ted.com/talks/eduardo_saenz_de_cabezon_math_is_forever?language=en)
 
 ### Additional course websites:
-* [Piazza](https://piazza.com/class/l73vccyyvk96km/) - Discussion board
+* [Piazza](https://piazza.com/class/lllfhh8uecg1ec/) - Discussion board
 
 ### Relevant textbooks
 We will most closely follow:
