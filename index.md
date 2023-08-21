@@ -16,6 +16,7 @@ TBD
 
 <!--- Additional zoom office hours with Afzal Tue 11-noon [[Zoom ID 378 6912 461]](https://utexas.zoom.us/j/3786912461)--->
 * [Some light entertainment for dark hours](https://www.ted.com/talks/eduardo_saenz_de_cabezon_math_is_forever?language=en)
+
 ### Additional course websites:
 * [Piazza](https://piazza.com/class/l73vccyyvk96km/) - Discussion board
 
