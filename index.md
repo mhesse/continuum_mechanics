@@ -41,21 +41,23 @@ Other useful books are:
 * [Index notation](fall2022/Index_notation.pdf)
 
 ### Lecture 2 (Aug 25): Continuum Mass and Force Concepts
-Topics: Tensor representation and basis, dyadic product, trace, transpose, determinant, scalar product.
+Topics: Body and surface forces, Hydrostatic equilibrium, Isostacy
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture2.pdf) [[rec]](https://utexas.zoom.us/rec/share/f_6bDnh9rg7FNpOXtifBpp__fiCzTxCQ4PZvnXDjuM5B73VhYJTzFCSOl83-7LGz.UJk0DRjr2EP4mtdL)
 * Notes: [Tensor Intro](fall2022/Tensor_Intro.pdf)
 
 ### Lecture 3 (Aug 30): Introduction to Tensors
-Topics: Orthogonal tensors, change of basis, spectral decomposition, polar decomposition.
+Topics: Tensor representation and basis, dyadic product, trace, transpose, determinant, scalar product.
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture3.pdf) [[rec]](https://utexas.zoom.us/rec/share/NAMC5eGB3jbJ1b25AJCwMzl3XiB1C5L8SndWYHc5GOxCNhWrsmUlCPIuUwWe__8E.g6El_p4w6Y5xBKAR)
 * Notes: [Tensor Algebra Intro](fall2022/Tensor_Algebra_Intro.pdf)
 
 ### Lecture 4 (Sep 1): Tensor algebra and properties
-Topics: Mass and force, Traction, Action & Reaction, Cauchy's principle
+Topics: Orthogonal tensors, change of basis, spectral decomposition, polar decomposition.
+
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture4.pdf) [[rec]](https://utexas.zoom.us/rec/share/lTKxfuJh8qh_MjYaLClv_u8SScNdIM8CJKWFndtJ9NsIKr0CEyQTmivJNa-hgV5t.FWSQbJx1HiNA7qxS)
 * Notes: [[Cauchy stress]](fall2022/Cauchy_stress_tensor.pdf)
 
 ### Lecture 5 (Sep 6): Cauchy stress tensor
+Topics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 * Lecture: [[pdf]](fall2022/GEO325C_2022_Lecture5.pdf) [[rec]](https://utexas.zoom.us/rec/share/AHcQiPElrlapg-gQHnjUKL9YevmOZgJw-3tRaqAStSXHExmwnXK6sIddpgfo85JC.amD0Os1J0oQNItW0)
 * Notes: [Stress examples](fall2022/Stress_applications.pdf)
 
