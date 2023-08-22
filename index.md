@@ -35,7 +35,7 @@ Other useful books are:
 ## Topic I: Tensors and Stress
 ### Lecture 1 (Aug 22): Introduction and Review
 * Topics: Introduction to the class, review of vectors, index notation
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture1.pdf) [[rec]]
+* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture1.pdf) [[rec]](https://utexas.zoom.us/rec/share/4cB783e8FtEP3v4IbcHE9Tprr7nzr5sJyT9G4zU8Xmc7Htu15z_wYFYOjtJLRYYT.SwbwBdd-pcJDNu11)
 * [Introduction to course](fall2023/ContinuumMechanics_intro_2023.pdf)
 * [Review of vectors](fall2023/Review_of_vectors.pdf)
 * [Index notation](fall2022/Index_notation.pdf)
