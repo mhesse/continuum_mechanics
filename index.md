@@ -33,19 +33,19 @@ Other useful books are:
 
 
 ## Topic I: Tensors and Stress
-### Lecture 1 (Aug 23): Introduction and Review
+### Lecture 1 (Aug 22): Introduction and Review
 * Topics: Introduction to the class, review of vectors, index notation
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture1.pdf) [[rec]]
 * [Introduction to course](fall2023/ContinuumMechanics_intro_2023.pdf)
 * [Review of vectors](fall2023/Review_of_vectors.pdf)
 * [Index notation](fall2022/Index_notation.pdf)
 
-### Lecture 2 (Aug 25): Continuum Mass and Force Concepts
+### Lecture 2 (Aug 24): Continuum Mass and Force Concepts
 Topics: Body and surface forces, Hydrostatic equilibrium, Isostacy
 * Lecture: [[pdf]] [[rec]]
 * Notes: [Force Notes](fall2023/Continuum_Mass_Force_Concepts_2023.pdf)
 
-### Lecture 3 (Aug 30): Introduction to Tensors
+<!---*### Lecture 3 (Aug 30): Introduction to Tensors
 Topics: Tensor representation and basis, dyadic product, trace, transpose, determinant, scalar product.
 * Lecture: [[pdf]] [[rec]]
 * Notes: [Tensor Algebra Intro](fall2022/Tensor_Algebra_Intro.pdf)
@@ -161,4 +161,4 @@ Topics: Mass and force, Traction, Action & Reaction, Cauchy's principle
 
 
 
-## So Long, and Thanks for All the Fish!
+## So Long, and Thanks for All the Fish!--->
