@@ -7,7 +7,7 @@ Previous versions of this course: [Fall 2021](Fall2021.md), [Fall 2022](Fall2022
 ### Class room
 * Class Time: TTH 9:30 am-11:00 am
 * Class Room: EPS 4.104 
-* Class Zoom: [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09) - Class (password in email or on [Canvas](https://utexas.instructure.com/courses/1343273))
+* Class Zoom: [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09) - Class (password in email or on [Canvas]([https://utexas.instructure.com/courses/1343273](https://utexas.instructure.com/courses/1370600)))
 
 ### Office hours (TBD)
 * [[poll]](https://www.when2meet.com/?20977824-fQysj)
