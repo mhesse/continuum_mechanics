@@ -43,7 +43,7 @@ Other useful books are:
 ### Lecture 2 (Aug 25): Continuum Mass and Force Concepts
 Topics: Body and surface forces, Hydrostatic equilibrium, Isostacy
 * Lecture: [[pdf]] [[rec]]
-* Notes: [Tensor Intro](fall2023/Continuum_Mass_Force_Concepts_2023.pdf)
+* Notes: [Force Notes](fall2023/Continuum_Mass_Force_Concepts_2023.pdf)
 
 ### Lecture 3 (Aug 30): Introduction to Tensors
 Topics: Tensor representation and basis, dyadic product, trace, transpose, determinant, scalar product.
