@@ -9,8 +9,8 @@ Previous versions of this course: [Fall 2021](Fall2021.md), [Fall 2022](Fall2022
 * Class Room: EPS 4.104 
 * Class Zoom: [Zoom ID 921 0937 9742](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09) - Class (password in email or on [Canvas](https://utexas.instructure.com/courses/1343273))
 
-### Office hours
-<!--- [[poll]](https://www.when2meet.com/?16490033-Gt8Iw) --->
+### Office hours (TBD)
+* [[poll]](https://www.when2meet.com/?20977824-fQysj)
 TBD 
 <!--- Mon + Wed 2-3pm in room JGB 2.104B (new!) in the Student Service Center, close to Luck Lab Coffee [[Zoom ID 921 0937 9742]](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09)--->
 
