@@ -42,7 +42,7 @@ Other useful books are:
 
 ### Lecture 2 (Aug 24): Continuum Mass and Force Concepts
 Topics: Body and surface forces, Hydrostatic equilibrium, Isostacy
-* Lecture: [[pdf]] [[rec]]
+* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture2.pdf) [[rec]](https://utexas.zoom.us/rec/share/cf0Zkxcmri1rbO_cpyug4cEvmT-9SlrpV8caw83q5DmJs1oiqg15D8IlrEfKORma.Bt-F-a6JcHlWWClu)
 * Notes: [Force Notes](fall2023/Continuum_Mass_Force_Concepts_2023.pdf), [Isostacy](fall2023/Isostacy.pdf)
 
 
