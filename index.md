@@ -45,4 +45,19 @@ Topics: Body and surface forces, Hydrostatic equilibrium, Isostacy
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture2.pdf) [[rec]](https://utexas.zoom.us/rec/share/cf0Zkxcmri1rbO_cpyug4cEvmT-9SlrpV8caw83q5DmJs1oiqg15D8IlrEfKORma.Bt-F-a6JcHlWWClu)
 * Notes: [Force Notes](fall2023/Continuum_Mass_Force_Concepts_2023.pdf), [Isostacy](fall2023/Isostacy.pdf)
 
-### Lecture 3:
+### Lecture 3 (Aug 29): Isostacy and index notation
+Topics: Application of hydrostatic force balance to Isostacy, finish index notation
+
+### Lecture 4 (Aug 31): Introduction to Tensors
+Topics: Tensor representation and basis, dyadic product, trace, transpose, determinant, scalar product.
+
+### Lecture 5: Cauchy stress tensor
+Topics: Traction, Action & Reaction, Cauchy's principle, Stress examples
+
+### Lecture 6: Tensor algebra
+
+### Lecture 7: Rotations and change of basis
+
+### Lecture 8: Normal and Shear Stress
+
+### Lecture 9: Mohr circle
