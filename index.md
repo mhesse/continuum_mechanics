@@ -47,6 +47,8 @@ Topics: Body and surface forces, Hydrostatic equilibrium, Isostacy
 
 ### Lecture 3 (Aug 29): Isostacy and index notation
 Topics: Application of hydrostatic force balance to Isostacy, finish index notation
+* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture3.pdf) [[rec]](https://utexas.zoom.us/rec/share/8dv1qLWRvA3udoEMjKc_zQeInS0LC19NB-NLmfD3zGJnyn4Kb5QbIZtCIZGVru7Q.W3-89KGTStYgCx9q)
+* Notes: [Isostacy](fall2023/Isostacy.pdf)
 
 ### Lecture 4 (Aug 31): Introduction to Tensors
 Topics: Tensor representation and basis, dyadic product, trace, transpose, determinant, scalar product.
