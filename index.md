@@ -52,7 +52,7 @@ Topics: Application of hydrostatic force balance
 
 ### Lecture 4 (Aug 31): Introduction to Tensors
 Topics: Tensor representation and basis, dyadic product, trace, transpose, determinant, scalar product.
-* Notes:
+* Notes: [Tensor Intro](fall2023/Tensor_Intro_2023.pdf)
 
 ### Lecture 5: Cauchy stress tensor
 Topics: Traction, Action & Reaction, Cauchy's principle, Stress examples
