@@ -52,6 +52,7 @@ Topics: Application of hydrostatic force balance to Isostacy, finish index notat
 
 ### Lecture 4 (Aug 31): Introduction to Tensors
 Topics: Tensor representation and basis, dyadic product, trace, transpose, determinant, scalar product.
+* Notes:
 
 ### Lecture 5: Cauchy stress tensor
 Topics: Traction, Action & Reaction, Cauchy's principle, Stress examples
