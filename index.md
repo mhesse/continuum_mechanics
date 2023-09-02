@@ -49,7 +49,7 @@ Topics: Application of hydrostatic force balance
 * Notes: [Isostacy](fall2023/Isostacy.pdf)
 
 ### Lecture 4 (Aug 31): Introduction to Tensors
-Topics: Tensor representation and basis, dyadic product, trace, transpose, determinant, scalar product.
+Topics: Tensor representation and basis, dyadic product, trace, transpose.
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture4.pdf) [[rec]](https://utexas.zoom.us/rec/share/8dv1qLWRvA3udoEMjKc_zQeInS0LC19NB-NLmfD3zGJnyn4Kb5QbIZtCIZGVru7Q.W3-89KGTStYgCx9q)
 * Notes: [Tensor Intro](fall2023/Tensor_Intro_2023.pdf)
 
