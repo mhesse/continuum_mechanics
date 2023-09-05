@@ -61,8 +61,12 @@ Topics: Traction, Action & Reaction, Cauchy's principle
 ### Lecture 6: Stress examples
 Topics: Normal and shear stress, Projections, simpe stress states
 
-### Lecture 7: Rotations and change of basis
+### Lecture 7: Rotations, change of basis, eigen problem
 
-### Lecture 8: Normal and Shear Stress
+### Lecture 8: Principal stresses
 
 ### Lecture 9: Mohr circle
+
+### Lecture 10: Tensor calculus
+
+### Lecture 11: Equilibroum Equations
