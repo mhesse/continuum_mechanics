@@ -57,7 +57,8 @@ Topics: Tensor representation and basis, dyadic product, trace, transpose.
 Topics: Traction, Action & Reaction, Cauchy's principle
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture5.pdf) [[rec]](https://utexas.zoom.us/rec/share/-d7MGRDKQY342huSN-vCctKaZIgXTn6RGVAez6T3f6wNmbFu417xglukRtzRy0SV.QuVBR4_ZDcGZqs1e)
 * Notes: [Cauchy stress tensor]
-### Lecture 6: Tensor algebra
+  
+### Lecture 6: Stress examples
 
 ### Lecture 7: Rotations and change of basis
 
