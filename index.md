@@ -59,6 +59,7 @@ Topics: Traction, Action & Reaction, Cauchy's principle
 * Notes: [Cauchy stress tensor]
   
 ### Lecture 6: Stress examples
+Topics: Normal and shear stress, Projections, simpe stress states
 
 ### Lecture 7: Rotations and change of basis
 
