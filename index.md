@@ -56,7 +56,7 @@ Topics: Tensor representation and basis, dyadic product, trace, transpose.
 ### Lecture 5: Cauchy stress tensor
 Topics: Traction, Action & Reaction, Cauchy's principle
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture5.pdf) [[rec]](https://utexas.zoom.us/rec/share/-d7MGRDKQY342huSN-vCctKaZIgXTn6RGVAez6T3f6wNmbFu417xglukRtzRy0SV.QuVBR4_ZDcGZqs1e)
-* Notes: [Cauchy stress tensor]
+* Notes: [Cauchy stress tensor](fall2023/Cauchy_stress_tensor_2023.pdf)
   
 ### Lecture 6: Stress examples
 Topics: Normal and shear stress, Projections, simpe stress states
