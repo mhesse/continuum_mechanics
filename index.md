@@ -60,7 +60,8 @@ Topics: Traction, Action & Reaction, Cauchy's principle
   
 ### Lecture 6: Stress examples
 Topics: Normal and shear stress, Projections, simpe stress states
-
+* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture6.pdf) [[rec]](https://utexas.zoom.us/rec/share/b972z2DaD-pxLHFrxotls0L7ntvPjm72AcY0RsU3I-7gHBrFYIgtlWx5tTz8gsN7.GOJxfkqY2N3HNoHJ)
+* Notes: [Simple stress states](fall2023/More_on_stress.pdf)
 ### Lecture 7: Rotations, change of basis, eigen problem
 
 ### Lecture 8: Principal stresses
