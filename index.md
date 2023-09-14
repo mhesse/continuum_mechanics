@@ -68,10 +68,12 @@ Topics: Orthogonal tensors, Euler representation
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture7.pdf) [[rec]](https://utexas.zoom.us/rec/share/lj_k93kFw6Zz1id9ceB9Unk5Bt6oT9mjeDgXPWXe5dkk8P5hiKRM8xwQUfzj-1-0.xxOX4fiV1FrH8sEb)
 * Notes: [Rotations](fall2023/Rotations.pdf)
 
-### Lecture 8: Principal stresses
+### Lecture 8: Change in basis and spectral decomposition
 
-### Lecture 9: Mohr circle
+### Lecture 9: Principal stresses
 
-### Lecture 10: Tensor calculus
+### Lecture 10: Mohr circle
 
-### Lecture 11: Equilibroum Equations
+### Lecture 11: Tensor calculus
+
+### Lecture 12: Equilibroum Equations
