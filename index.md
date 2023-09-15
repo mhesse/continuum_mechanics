@@ -71,7 +71,7 @@ Topics: Orthogonal tensors, Euler representation
 ### Lecture 8: Change in basis and spectral decomposition
 Topics: Change in basis tensor, eigen problem, spectral decomposition, invariants
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture8.pdf) [[rec]](https://utexas.zoom.us/rec/share/wAnco-erT2fSG8-o01dOcd2nzJcEreM7zNJgGX-Z4CUNV4Flja0jAqE-nSNkMKG3.6rIaSn_0IIXq6T09)
-* Notes: 
+* Notes: [Change of basis](fall2023/Change_of_Basis.pdf)
 
 ### Lecture 9: Principal stresses
 
