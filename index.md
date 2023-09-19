@@ -73,7 +73,10 @@ Topics: Change in basis tensor, eigen problem, spectral decomposition, invariant
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture8.pdf) [[rec]](https://utexas.zoom.us/rec/share/wAnco-erT2fSG8-o01dOcd2nzJcEreM7zNJgGX-Z4CUNV4Flja0jAqE-nSNkMKG3.6rIaSn_0IIXq6T09)
 * Notes: [Change of basis](fall2023/Change_of_Basis.pdf)
 
-### Lecture 9: Principal stresses
+### Lecture 9: Extremal stress values
+Topics: Principal stresses, constrained optimization
+* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture9.pdf) [[rec]](https://utexas.zoom.us/rec/share/-nqzQu8WY5O_OtO3hPmXtByGTp4AHmN5stKbd4oqdTQeU3MXww6ZfZhw6in8BLRa.izYNxR1RExYNmsO4)
+* Notes: [Principle stresse](fall2023/Normal_and_shear_stress_2022.pdf)
 
 ### Lecture 10: Mohr circle
 
