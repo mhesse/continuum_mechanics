@@ -78,8 +78,11 @@ Topics: Principal stresses, constrained optimization
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture9.pdf) [[rec]](https://utexas.zoom.us/rec/share/-nqzQu8WY5O_OtO3hPmXtByGTp4AHmN5stKbd4oqdTQeU3MXww6ZfZhw6in8BLRa.izYNxR1RExYNmsO4)
 * Notes: [Principle stresses](fall2023/Normal_and_shear_stress_2022.pdf)
 
-### Lecture 10: Mohr circle
-
+### Lecture 10: Mohr circle and failure
+Topics: 2D and 3D Mohr circle
+* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture10.pdf) [[rec]](https://utexas.zoom.us/rec/share/OYdm0Cb0lOKmjyBcqDhqepvCaUMfQhacIwO4av48G9naPQ3FEh0g9ehds5sBmbbl.uXfVQnQ0pTXSXNnN)
+* Notes: [Mohr circle](fall2023/Mohr_Circle_and_Failure_2022.pdf)
+  
 ### Lecture 11: Tensor calculus
 
 ### Lecture 12: Equilibroum Equations
