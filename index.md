@@ -2,7 +2,7 @@
 
 Continuum Mechanics is a new upper division undergraduate/beginning graduate course focussed on developing the foundations of solid and fluid mechanics and thermodynamics of continua, and their application to geophysical and geological models such as mantle convection, ice sheet flow, and geophysical fluid dynamics. The emphasis is on a rigorous quantitative three-dimensional description, beginning with tensor analysis, forces, and stresses, and kinematics, motion, and strain; moving to the basic balance (i.e. conservation) laws of mass, momentum, and energy as well as constitutive relations for fluid and solid media; and ending with the particularization of these laws and relations to the governing equations of oceanography, seismology, glaciology, and geodynamics.
 
-Previous versions of this course: [Fall 2021](Fall2021.md), [Fall 2022](Fall2022.md)
+Previous versions of this course: [Fall 2021](Fall2021.md), [Fall 2022](Fall2022.md) 
 
 ### Class room
 * Class Time: TTH 9:30 am-11:00 am
