@@ -83,6 +83,10 @@ Topics: 2D and 3D Mohr circle
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture10.pdf) [[rec]](https://utexas.zoom.us/rec/share/OYdm0Cb0lOKmjyBcqDhqepvCaUMfQhacIwO4av48G9naPQ3FEh0g9ehds5sBmbbl.uXfVQnQ0pTXSXNnN)
 * Notes: [Mohr circle](fall2023/Mohr_Circle_and_Failure_2022.pdf)
   
-### Lecture 11: Tensor calculus
+### Lecture 11: Computing fault stresses
+Topics: Coordinate systems, Fault normals, stress 
+* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture11.pdf) [[rec]](https://utexas.zoom.us/rec/share/2WCx3NwT00M_-Cz6cWxx3Vi1clZNbml5uDS943jfNMnNzz_fTtutZNMdjNaxkIJ-.aPeG2B39xvF7k1Be)https://utexas.zoom.us/rec/share/2WCx3NwT00M_-Cz6cWxx3Vi1clZNbml5uDS943jfNMnNzz_fTtutZNMdjNaxkIJ-.aPeG2B39xvF7k1Be
+* Notes:
 
-### Lecture 12: Equilibroum Equations
+### Lecture 12: Tensor Calculus
+### Lecture 13: Equilibroum Equations
