@@ -91,6 +91,6 @@ Topics: Coordinate systems, Fault normals, stress
 ### Lecture 12: Tensor Calculus
 Topics: Divergence, Gradient, Curl
 * Lecture: [[pdf]]
-* Notes: [Tensor calc](fall2023/Tensor_calculus_2022.pdf)
+* Notes: [Tensor calc](fall2023/Tensor_calculus_2022.pdf) 
 
 ### Lecture 13: Equilibroum Equations
