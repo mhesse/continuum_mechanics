@@ -90,7 +90,7 @@ Topics: Coordinate systems, Fault normals, stress
 
 ### Lecture 12: Tensor Calculus
 Topics: Divergence, Gradient, Curl
-* Lecture: [[pdf]]
+* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture12.pdf) [[rec]](https://utexas.zoom.us/rec/share/6NWgGDgR99VbNxlRk_qCe99TvFOuKYDoTHNSc6b6FXtOdtpWNiyCnY_Dtgg0avG2.MUO6tAN8Z6tqxZwq)
 * Notes: [Tensor calc](fall2023/Tensor_calculus_2022.pdf) 
 
-### Lecture 13: Equilibroum Equations
+### Lecture 13: Equilibrium Equations
