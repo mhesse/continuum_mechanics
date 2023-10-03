@@ -88,9 +88,14 @@ Topics: Coordinate systems, Fault normals, stress
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture11.pdf) [[rec]](https://utexas.zoom.us/rec/share/2WCx3NwT00M_-Cz6cWxx3Vi1clZNbml5uDS943jfNMnNzz_fTtutZNMdjNaxkIJ-.aPeG2B39xvF7k1Be)
 * Notes: [Fault orientation](fall2023/Strike_Dip.pdf), Matlab Fault Orientation [[script]](fall2023/demo_Nankai_StressOnFault.mlx) [[pdf]](fall2023/demo_Nankai_StressOnFault.pdf)
 
-### Lecture 12: Tensor Calculus
-Topics: Divergence, Gradient, Curl
+### Lecture 12: Gradient and Divergence
+Topics: Divergence, Gradient
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture12.pdf) [[rec]](https://utexas.zoom.us/rec/share/6NWgGDgR99VbNxlRk_qCe99TvFOuKYDoTHNSc6b6FXtOdtpWNiyCnY_Dtgg0avG2.MUO6tAN8Z6tqxZwq)
 * Notes: [Tensor calc](fall2023/Tensor_calculus_2022.pdf) 
 
-### Lecture 13: Equilibrium Equations
+### Lecture 13: Integral theorems
+Topics: Curl, Divergence and Stokes theorems
+* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture13.pdf) [[rec]](https://utexas.zoom.us/rec/share/1T9jyO7ZfxkGGONnSB2VkaEmcvzG9-kRMaLxMWamm361BxG4Yk-bU_LUsz-u78J1.OD8h-FM5BCxwmZhE)https://utexas.zoom.us/rec/share/1T9jyO7ZfxkGGONnSB2VkaEmcvzG9-kRMaLxMWamm361BxG4Yk-bU_LUsz-u78J1.OD8h-FM5BCxwmZhE)
+* Notes:
+
+### Lecture 14: Equilibrium Equations
