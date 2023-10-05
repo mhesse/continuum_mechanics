@@ -94,8 +94,11 @@ Topics: Divergence, Gradient
 * Notes: [Tensor calc](fall2023/Tensor_calculus_2022.pdf) 
 
 ### Lecture 13: Integral theorems
-Topics: Curl, Divergence and Stokes theorems
+Topics: Curl, Laplacian Divergence and Stokes theorems, Poisson's equation for gravity
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture13.pdf) [[rec]](https://utexas.zoom.us/rec/share/1T9jyO7ZfxkGGONnSB2VkaEmcvzG9-kRMaLxMWamm361BxG4Yk-bU_LUsz-u78J1.OD8h-FM5BCxwmZhE)
 * Notes:
 
 ### Lecture 14: Equilibrium Equations
+Topics: Equilibrum equations, symmetry of stress tensor, hydrostatic shapes, Figure of the Earth
+* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture14.pdf) [[rec]](https://utexas.zoom.us/rec/share/tstGnggIf8i92OTF8EDxaok_0A8WsyDQlfUS58hldrVXtGizfVDvkKtgWpbTyY8l.BbymRwBxieM6YFi4)
+* Notes: [Figure of the Earth]()
