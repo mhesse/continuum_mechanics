@@ -102,3 +102,27 @@ Topics: Curl, Laplacian Divergence and Stokes theorems, Poisson's equation for g
 Topics: Equilibrum equations, symmetry of stress tensor, hydrostatic shapes, Figure of the Earth
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture14.pdf) [[rec]](https://utexas.zoom.us/rec/share/tstGnggIf8i92OTF8EDxaok_0A8WsyDQlfUS58hldrVXtGizfVDvkKtgWpbTyY8l.BbymRwBxieM6YFi4)
 * Notes: [Figure of the Earth]()
+
+## Topic II: Kinematics and Strain
+
+### Lecture 15 (Sep 29): Deformation Map and Gradient
+* Lecture: [[pdf]] [[rec]]
+* Notes: [[pdf]](fall2022/Deformation_map_and_gradient_2022.pdf)
+
+### Lecture 16 (Oct 4): Analysis of local deformation
+* Lecture: [[pdf]] [[rec]]
+* Notes: [[pdf]](fall2022/Analysis_of_local_deformation_2022.pdf)
+
+### Lecture 17 (Oct 6): Cauchy-Green Strain Tensor
+* Lecture: [[pdf]] [[rec]]
+* Notes: [[pdf]](fall2022/Cauchy-Green_strain_tensor_2022.pdf)
+
+### Lecture 18 (Oct 11): Infinitesimal strain
+* Lecture: [[pdf]] [[rec]]
+* Notes: [[pdf]](fall2022/Infinitesimal_strain_tensor_2021.pdf)
+
+### Lecture 19 (Oct 13): Motion and Material Derivative
+* Lecture: [[pdf]] [[rec]]
+* Notes: [[pdf]](fall2022/Motions_2021.pdf)
+
+### Lecture 20 (Oct 18): Rates of deformation & Reynolds Transport Theorem
