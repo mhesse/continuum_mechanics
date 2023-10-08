@@ -106,6 +106,7 @@ Topics: Equilibrum equations, symmetry of stress tensor, hydrostatic shapes, Fig
 ## Topic II: Kinematics and Strain
 
 ### Lecture 15 (Sep 29): Deformation Map and Gradient
+% Topics: Deformation
 * Lecture: [[pdf]] [[rec]]
 * Notes: [[pdf]](fall2022/Deformation_map_and_gradient_2022.pdf)
 
