@@ -101,7 +101,7 @@ Topics: Curl, Laplacian Divergence and Stokes theorems, Poisson's equation for g
 ### Lecture 14: Equilibrium Equations
 Topics: Equilibrum equations, symmetry of stress tensor, hydrostatic shapes, Figure of the Earth
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture14.pdf) [[rec]](https://utexas.zoom.us/rec/share/tstGnggIf8i92OTF8EDxaok_0A8WsyDQlfUS58hldrVXtGizfVDvkKtgWpbTyY8l.BbymRwBxieM6YFi4)
-* Notes: [Figure of the Earth]()
+* Notes: [Figure of the Earth](fall2023/FigureEarth.pdf)
 
 ## Topic II: Kinematics and Strain
 
