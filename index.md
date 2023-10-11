@@ -112,7 +112,7 @@ Topics: Equilibrum equations, symmetry of stress tensor, hydrostatic shapes, Fig
 
 ### Lecture 16 (Oct 4): Analysis of local deformation
 * Lecture: [[pdf]] [[rec]]
-* Notes: [[pdf]](fall2022/Analysis_of_local_deformation_2022.pdf)
+* Notes: [[pdf]](fall2023/Analysis_of_local_deformation_2023.pdf)
 
 ### Lecture 17 (Oct 6): Cauchy-Green Strain Tensor
 * Lecture: [[pdf]] [[rec]]
