@@ -95,7 +95,7 @@ Topics: Divergence, Gradient
 
 ### Lecture 13: Integral theorems
 Topics: Curl, Laplacian Divergence and Stokes theorems, Poisson's equation for gravity
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture13.pdf) [[rec]](https://utexas.zoom.us/rec/share/1T9jyO7ZfxkGGONnSB2VkaEmcvzG9-kRMaLxMWamm361BxG4Yk-bU_LUsz-u78J1.OD8h-FM5BCxwmZhE)
+* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture13.pdf) [[rec]](https://utexas.zoom.us/rec/share/1T9jyO7ZfxkGGONnSB2VkaEmcvzG9-kRMaLxMWamm361BxG4Yk-bU_LUsz-u78J1.OD8h-FM5BCxwmZhE) 
 * Notes:
 
 ### Lecture 14: Equilibrium Equations
