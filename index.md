@@ -111,7 +111,7 @@ Topics: Equilibrum equations, symmetry of stress tensor, hydrostatic shapes, Fig
 * Notes: [[pdf]](fall2023/Deformation_map_and_gradient_2023.pdf)
 
 ### Lecture 16 (Oct 4): Analysis of local deformation
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture16.pdf) [[rec]]
+* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture16.pdf) [[rec]](https://utexas.zoom.us/rec/share/st7ruOqUaAWJudVgtKsy-U1OP5g_PnxjMtM9owl2XYP8YpdJCpBCCfVTXtFnNcFj.LV2PGNWkHYKUBq7K) 
 * Notes: [[pdf]](fall2023/Analysis_of_local_deformation_2023.pdf)
 
 ### Lecture 17 (Oct 6): Cauchy-Green Strain Tensor
