@@ -115,7 +115,7 @@ Topics: Equilibrum equations, symmetry of stress tensor, hydrostatic shapes, Fig
 * Notes: [[pdf]](fall2023/Analysis_of_local_deformation_2023.pdf)
 
 ### Lecture 17 (Oct 6): Cauchy-Green Strain Tensor
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture17.pdf) [[rec]]
+* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture17.pdf) [[rec]](https://utexas.zoom.us/rec/share/UUmZCbQdiGLpeJUWeHbkxHQvm_wa_J1kJwNStIjQVObb6Eq3cPZ52w6k5X2fharY.i32QpY5loSqHa5VC)
 * Notes: [[pdf]](fall2023/Cauchy-Green_strain_tensor_2023.pdf)
 
 ### Lecture 18 (Oct 11): Infinitesimal strain
