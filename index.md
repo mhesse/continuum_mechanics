@@ -105,25 +105,25 @@ Topics: Equilibrum equations, symmetry of stress tensor, hydrostatic shapes, Fig
 
 ## Topic II: Kinematics and Strain
 
-### Lecture 15 (Sep 29): Deformation Map and Gradient
+### Lecture 15: Deformation Map and Gradient
 Topics: Deformation map and gradient; change of material lines, volumes and areas
 * Lecture: no lecture notes, sorry! [[rec]](https://utexas.zoom.us/rec/share/sp93VsYTQrztljngtp0vM2oCnu-s6MRZQfoHQaNHxe_hHLq6G6BWOX8VODwkRz-4.8LXVdcQnqUyIcvNa)
 * Notes: [[pdf]](fall2023/Deformation_map_and_gradient_2023.pdf)
 
-### Lecture 16 (Oct 4): Analysis of local deformation
+### Lecture 16: Analysis of local deformation
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture16.pdf) [[rec]](https://utexas.zoom.us/rec/share/st7ruOqUaAWJudVgtKsy-U1OP5g_PnxjMtM9owl2XYP8YpdJCpBCCfVTXtFnNcFj.LV2PGNWkHYKUBq7K) 
 * Notes: [[pdf]](fall2023/Analysis_of_local_deformation_2023.pdf)
 
-### Lecture 17 (Oct 6): Cauchy-Green Strain Tensor
+### Lecture 17: Cauchy-Green Strain Tensor
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture17.pdf) [[rec]](https://utexas.zoom.us/rec/share/UUmZCbQdiGLpeJUWeHbkxHQvm_wa_J1kJwNStIjQVObb6Eq3cPZ52w6k5X2fharY.i32QpY5loSqHa5VC)
 * Notes: [[pdf]](fall2023/Cauchy-Green_strain_tensor_2023.pdf)
 
-### Lecture 18 (Oct 11): Infinitesimal strain
+### Lecture 18: Infinitesimal strain
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture17.pdf) [[rec]](https://utexas.zoom.us/rec/share/UUmZCbQdiGLpeJUWeHbkxHQvm_wa_J1kJwNStIjQVObb6Eq3cPZ52w6k5X2fharY.i32QpY5loSqHa5VC)
 * Notes: [[pdf]](fall2022/Infinitesimal_strain_tensor_2021.pdf)
 
-### Lecture 19 (Oct 13): Motion and Material Derivative
+### Lecture 19: Motion and Material Derivative
 * Lecture: [[pdf]] [[rec]]
 * Notes: [[pdf]](fall2022/Motions_2021.pdf)
 
-### Lecture 20 (Oct 18): Rates of deformation & Reynolds Transport Theorem
+### Lecture 20: Rates of deformation & Reynolds Transport Theorem
