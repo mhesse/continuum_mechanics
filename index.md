@@ -106,7 +106,7 @@ Topics: Equilibrum equations, symmetry of stress tensor, hydrostatic shapes, Fig
 ## Topic II: Kinematics and Strain
 
 ### Lecture 15 (Sep 29): Deformation Map and Gradient
-% Topics: Deformation map and gradient; change of material lines, volumes and areas
+Topics: Deformation map and gradient; change of material lines, volumes and areas
 * Lecture: no lecture notes, sorry! [[rec]](https://utexas.zoom.us/rec/share/sp93VsYTQrztljngtp0vM2oCnu-s6MRZQfoHQaNHxe_hHLq6G6BWOX8VODwkRz-4.8LXVdcQnqUyIcvNa)
 * Notes: [[pdf]](fall2023/Deformation_map_and_gradient_2023.pdf)
 
@@ -119,7 +119,7 @@ Topics: Equilibrum equations, symmetry of stress tensor, hydrostatic shapes, Fig
 * Notes: [[pdf]](fall2023/Cauchy-Green_strain_tensor_2023.pdf)
 
 ### Lecture 18 (Oct 11): Infinitesimal strain
-* Lecture: [[pdf]] [[rec]]
+* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture17.pdf) [[rec]](https://utexas.zoom.us/rec/share/UUmZCbQdiGLpeJUWeHbkxHQvm_wa_J1kJwNStIjQVObb6Eq3cPZ52w6k5X2fharY.i32QpY5loSqHa5VC)
 * Notes: [[pdf]](fall2022/Infinitesimal_strain_tensor_2021.pdf)
 
 ### Lecture 19 (Oct 13): Motion and Material Derivative
