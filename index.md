@@ -127,3 +127,17 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Notes: [[pdf]](fall2022/Motions_2021.pdf)
 
 ### Lecture 20: Rates of deformation & Reynolds Transport Theorem
+
+## Topic III: Balance Laws and Constitutive Theory
+### Lecture 21: Balance laws in integral form
+### Lecture 22: Local Eulerian balance laws
+### Lecture 23: Objectivity and Representation Theorem
+
+## Topic IV: Applications
+### Lecture 24: Ideal fluids
+### Lecture 25: Newtonian fluids
+### Lecture 26: Stokes flow
+### Lecture 27: Power-law creep
+
+
+
