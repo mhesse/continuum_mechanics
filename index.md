@@ -119,15 +119,17 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Notes: [[pdf]](fall2023/Cauchy-Green_strain_tensor_2023.pdf)
 
 ### Lecture 18: Infinitesimal strain
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture17.pdf) [[rec]](https://utexas.zoom.us/rec/share/UUmZCbQdiGLpeJUWeHbkxHQvm_wa_J1kJwNStIjQVObb6Eq3cPZ52w6k5X2fharY.i32QpY5loSqHa5VC)
+* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture18.pdf) [[rec]](https://utexas.zoom.us/rec/share/UUmZCbQdiGLpeJUWeHbkxHQvm_wa_J1kJwNStIjQVObb6Eq3cPZ52w6k5X2fharY.i32QpY5loSqHa5VC)
 * Notes: [[pdf]](fall2022/Infinitesimal_strain_tensor_2021.pdf)
 
 ### Lecture 19: Motion and Material Derivative
-* Lecture: [[pdf]] [[rec]]
+* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture19.pdf) [[rec]]
 * Notes: [[pdf]](fall2022/Motions_2021.pdf)
 
 ### Lecture 20: Rates of deformation & Reynolds Transport Theorem
-
+* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture20.pdf), [[rec]](https://utexas.zoom.us/rec/share/w9gSE4KI4GFrk5sQpoNjQrhYNq7Fib9SePcD7_0vg7ZpmDS4FstntV7XEXfV7mZR.xCFx3I7uWp4S4ifX)
+* Notes: [Rates]()
+  
 ## Topic III: Balance Laws and Constitutive Theory
 ### Lecture 21: Balance laws in integral form
 ### Lecture 22: Local Eulerian balance laws
