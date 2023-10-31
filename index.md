@@ -131,8 +131,12 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Notes: [Rates]()
   
 ## Topic III: Balance Laws and Constitutive Theory
-### Lecture 21: Balance laws in integral form
-### Lecture 22: Local Eulerian balance laws
+### Lecture 21: Local Eulerian balance laws
+* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture21.pdf), [[rec]](https://utexas.zoom.us/rec/share/4R6SWKhsQC14KhdzS82g_6WmPLhbsqPVyOv4qBTeqLnqFSV59zQViUnCV22n6PyJ.bNBuDvfdCexEO3zK)
+* Notes:
+
+### Lecture 22: Energy balance and entropy inequality
+
 ### Lecture 23: Objectivity and Representation Theorem
 
 ## Topic IV: Applications
