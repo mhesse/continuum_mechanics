@@ -76,7 +76,7 @@ Topics: Change in basis tensor, eigen problem, spectral decomposition, invariant
 ### Lecture 9: Extremal stress values
 Topics: Principal stresses, constrained optimization
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture9.pdf) [[rec]](https://utexas.zoom.us/rec/share/-nqzQu8WY5O_OtO3hPmXtByGTp4AHmN5stKbd4oqdTQeU3MXww6ZfZhw6in8BLRa.izYNxR1RExYNmsO4)
-* Notes: [Principle stresses](fall2023/Normal_and_shear_stress_2022.pdf)
+* Notes: [Principal stresses](fall2023/Normal_and_shear_stress_2022.pdf)
 
 ### Lecture 10: Mohr circle and failure
 Topics: 2D and 3D Mohr circle
@@ -133,7 +133,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 ## Topic III: Balance Laws and Constitutive Theory
 ### Lecture 21: Local Eulerian balance laws
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture21.pdf), [[rec]](https://utexas.zoom.us/rec/share/4R6SWKhsQC14KhdzS82g_6WmPLhbsqPVyOv4qBTeqLnqFSV59zQViUnCV22n6PyJ.bNBuDvfdCexEO3zK)
-* Notes:
+* Notes: [Balance laws](fall2023/Balance_laws_local_Eulerian_form_2023.pdf)
 
 ### Lecture 22: Energy balance and entropy inequality
 
