@@ -136,6 +136,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Notes: [Balance laws](fall2023/Balance_laws_local_Eulerian_form_2023.pdf)
 
 ### Lecture 22: Energy balance and entropy inequality
+* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture22.pdf), [[rec]]
 
 ### Lecture 23: Objectivity and Representation Theorem
 
