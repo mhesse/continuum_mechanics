@@ -141,7 +141,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 
 ### Lecture 23: Constitutive Theory: Objectivity
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture23.pdf) [[rec]](https://utexas.zoom.us/rec/share/lRS_kDx4qlVgswPpaWn6DZoqzeW-8M9HponvMLbWJfTlloGKzyNZR_tseO3UiB12.7yYExsFjrLv4pZLW)
-* Notes: [Objective](fall2023/)
+* Notes: [Objective](fall2023/Constitutive_Theory_objectivity.pdf)
 
 ## Topic IV: Applications
 ### Lecture 24: Ideal fluids
