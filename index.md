@@ -128,7 +128,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 
 ### Lecture 20: Rates of deformation & Reynolds Transport Theorem
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture20.pdf), [[rec]](https://utexas.zoom.us/rec/share/w9gSE4KI4GFrk5sQpoNjQrhYNq7Fib9SePcD7_0vg7ZpmDS4FstntV7XEXfV7mZR.xCFx3I7uWp4S4ifX)
-* Notes: [Rates]()
+* Notes: [Rates](fall2023/)
   
 ## Topic III: Balance Laws and Constitutive Theory
 ### Lecture 21: Local Eulerian balance laws
