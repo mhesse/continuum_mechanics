@@ -143,6 +143,9 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture23.pdf) [[rec]](https://utexas.zoom.us/rec/share/lRS_kDx4qlVgswPpaWn6DZoqzeW-8M9HponvMLbWJfTlloGKzyNZR_tseO3UiB12.7yYExsFjrLv4pZLW)
 * Notes: [Objective](fall2023/Constitutive_Theory_objectivity.pdf)
 
+### Lecture 24: Constitutive Theory: Representation Theorem
+* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture24.pdf) [[rec]](https://utexas.zoom.us/rec/share/3KE002f9Z1qafORiUJ6nqhRUxRf6y3EiKHTzhqSs4LpGuwC4hHCs34vDia7UKbnQ.oJys5MxyDPoIwzQB)
+
 ## Topic IV: Applications
 ### Lecture 24: Ideal fluids
 ### Lecture 25: Newtonian fluids
