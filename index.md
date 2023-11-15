@@ -149,6 +149,10 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 
 ## Topic IV: Applications
 ### Lecture 24: Ideal fluids
+* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture25.pdf) [[rec]](https://utexas.zoom.us/rec/share/r0Hxc71n81oyKAPGeSi7iYJgoa8JkR2wm9c8LVf4KLgZWof0MI0RtmMIMIVM4p2c.eseo8g_haU3DPagL)
+* Notes: [Ideal Fluids](fall2023/Ideal_Fluids.pdf)
+
+ 
 ### Lecture 25: Newtonian fluids
 ### Lecture 26: Stokes flow
 ### Lecture 27: Power-law creep
