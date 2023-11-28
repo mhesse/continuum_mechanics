@@ -157,7 +157,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Notes: [Navier-Stokes](fall2023/Newtonian_Fluids_2023.pdf)
 
 ### Lecture 26: Stokes flow
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture27.pdf) [[rec]]()
+* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture27.pdf) [[rec]](https://utexas.zoom.us/rec/share/eWDzCG4W-sbeqtlgymG1tK19EfD2dd-sxJJi8cQsnwxkgupi2bsrsjv8XulfumDQ.dBgxHQB9AW2d1ZCu)
 * Notes: [Stokes](fall2023/Stokes_Equation2023.pdf), [Temperature-dependent viscosity](fall2023/Variable_Viscosity_Stokes.pdf)
   
 ### Lecture 27: Power-law creep
