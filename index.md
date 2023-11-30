@@ -164,6 +164,6 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture28.pdf) [[rec]](https://utexas.zoom.us/rec/share/d6S8cMpLnY5-LDJ94IXDsbgMUMXvbT63qc2AfdaT3chImS3tQZTCxhG8oEQonUFW.olRxm1jgE5mK3wmH)
 * Notes: [Temperature-dependent viscosity](fall2023/Variable_Viscosity_Stokes.pdf)
 
-# So Long, and Thanks for All the Fish
+## So Long, and Thanks for All the Fish
 
 
