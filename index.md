@@ -148,19 +148,19 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Notes: [Representation](fall2023/Constitutive_Theory_2023.pdf)
 
 ## Topic IV: Applications
-### Lecture 24: Ideal fluids
+### Lecture 25: Ideal fluids
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture25.pdf) [[rec]](https://utexas.zoom.us/rec/share/r0Hxc71n81oyKAPGeSi7iYJgoa8JkR2wm9c8LVf4KLgZWof0MI0RtmMIMIVM4p2c.eseo8g_haU3DPagL)
 * Notes: [Ideal Fluids](fall2023/Ideal_Fluids.pdf)
 
-### Lecture 25: Newtonian fluids
+### Lecture 26: Newtonian fluids
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture26.pdf) [[rec]](https://utexas.zoom.us/rec/share/dIItt91cVNt2WboPHqUXFRvcBF3pJr9KdNnUAVRWYaASqNq_aKI51IcTLL21WrUM.v3ALm0adT0kqnFXu)
 * Notes: [Navier-Stokes](fall2023/Newtonian_Fluids_2023.pdf)
 
-### Lecture 26: Stokes flow
+### Lecture 27: Stokes flow
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture27.pdf) [[rec]](https://utexas.zoom.us/rec/share/eWDzCG4W-sbeqtlgymG1tK19EfD2dd-sxJJi8cQsnwxkgupi2bsrsjv8XulfumDQ.dBgxHQB9AW2d1ZCu)
 * Notes: [Stokes](fall2023/Stokes_Equation2023.pdf), [Temperature-dependent viscosity](fall2023/Variable_Viscosity_Stokes.pdf)
   
-### Lecture 27: Power-law creep
+### Lecture 28: Power-law creep
 
 
 
