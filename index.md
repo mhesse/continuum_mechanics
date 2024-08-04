@@ -31,12 +31,12 @@ Other useful books are:
 
 
 ## Topic I: Tensors and Stress
-### Lecture 1 (Aug 22): Introduction and Review
+### Lecture 1 (Aug 22): Vector Review and Index Notation
 * Topics: Introduction to the class, review of vectors, index notation
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture1.pdf) [[rec]](https://utexas.zoom.us/rec/share/4cB783e8FtEP3v4IbcHE9Tprr7nzr5sJyT9G4zU8Xmc7Htu15z_wYFYOjtJLRYYT.SwbwBdd-pcJDNu11)
+* Lecture: [[pdf]]
 * [Introduction to course](fall2023/ContinuumMechanics_intro_2023.pdf)
-* [Review of vectors](fall2023/Review_of_vectors.pdf)
-* [Index notation](fall2022/Index_notation.pdf)
+* [Vectors and Index Notation](fall2024/Review_of_vectors.pdf)
+
 
 ### Lecture 2 (Aug 24): Continuum Mass and Force Concepts
 Topics: Body and surface forces, Hydrostatic equilibrium, Isostacy
