@@ -35,7 +35,7 @@ Other useful books are:
 * Topics: Introduction to the class, review of vectors, index notation
 * Lecture: [[pdf]]
 * [Introduction to course](fall2023/ContinuumMechanics_intro_2023.pdf)
-* [Vectors and Index Notation](fall2024/Review_of_vectors.pdf)
+* [Vectors and Index Notation](fall2024/Vectors_IndexNotation.pdf.pdf)
 
 
 ### Lecture 2 (Aug 24): Continuum Mass and Force Concepts
