@@ -110,28 +110,29 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Notes: [Rates](fall2023/Rate_of_strain_and_spin_2021.pdf), [Reynolds Transport Theorem](fall2023/Reynolds_Transport_Theorem_2021.pdf)
   
 ## Topic IV: Constitutive Theory and Balance Laws
-### Lecture 19: Constitutive laws
+### Lecture 19: Constitutive laws I - Objectivity and Galilean transformations
+### Lecture 20: Constitutive laws I - Representation theorem
 
-### Lecture 20: Local Eulerian balance laws
+### Lecture 21: Local Eulerian balance laws
 * Notes: [Balance laws](fall2023/Balance_laws_local_Eulerian_form_2023.pdf)
 
-### Lecture 21: Energy balance
+### Lecture 22: Energy balance
 * Notes: [Energy balance]
 
 
 ## Topic V: Applications
-### Lecture 22: Fluids I - Navier Stokes
+### Lecture 23: Fluids I - Navier Stokes
 * Notes: [Navier-Stokes](fall2023/Newtonian_Fluids_2023.pdf)
 
-### Lecture 23: Fluids II - Creeping Flows
+### Lecture 24: Fluids II - Creeping Flows
 * Notes: [Stokes Equation](fall2023/Stokes_Equation2023.pdf)
   
-### Lecture 24: Power-law creep
+### Lecture 25: Power-law creep
 * Notes: [Temperature-dependent viscosity](fall2023/Variable_Viscosity_Stokes.pdf)
 
-### Lecture 25: Linear elasticity
+### Lecture 26: Linear elasticity
 
-### Lecture 26: Static problems
+### Lecture 27: Static problems
 
 ### Lecture 27: Elastic waves
 
