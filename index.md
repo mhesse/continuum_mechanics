@@ -61,59 +61,48 @@ Topics: Orthogonal tensors, Euler representation
 
 ### Lecture 7: Change in basis
 Topics: Change in basis tensor, eigen problem, spectral decomposition, invariants
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture8.pdf) [[rec]](https://utexas.zoom.us/rec/share/wAnco-erT2fSG8-o01dOcd2nzJcEreM7zNJgGX-Z4CUNV4Flja0jAqE-nSNkMKG3.6rIaSn_0IIXq6T09)
 * Notes: [Change of basis](fall2023/Change_of_Basis.pdf)
 
 ### Lecture 8: Extremal stress and Mohr circle
 Topics: Principal stresses, 3D Mohr circle
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture9.pdf) [[rec]](https://utexas.zoom.us/rec/share/-nqzQu8WY5O_OtO3hPmXtByGTp4AHmN5stKbd4oqdTQeU3MXww6ZfZhw6in8BLRa.izYNxR1RExYNmsO4)
-* Notes: [Principal stresses](fall2023/Normal_and_shear_stress_2022.pdf)
-
-### Lecture 9: Stress on faults
-Topics: 2D and 
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture10.pdf) [[rec]](https://utexas.zoom.us/rec/share/OYdm0Cb0lOKmjyBcqDhqepvCaUMfQhacIwO4av48G9naPQ3FEh0g9ehds5sBmbbl.uXfVQnQ0pTXSXNnN)
-* Notes: [Mohr circle](fall2023/Mohr_Circle_and_Failure_2022.pdf)
+* Notes: [Principal stresses](fall2023/Normal_and_shear_stress_2022.pdf) [Mohr circle](fall2023/Mohr_Circle_and_Failure_2022.pdf)
   
-### Lecture 10: Computing fault stresses
+### Lecture 9: Computing fault stresses
 Topics: Coordinate systems, Fault normals, stress 
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture11.pdf) [[rec]](https://utexas.zoom.us/rec/share/2WCx3NwT00M_-Cz6cWxx3Vi1clZNbml5uDS943jfNMnNzz_fTtutZNMdjNaxkIJ-.aPeG2B39xvF7k1Be)
 * Notes: [Fault orientation](fall2023/Strike_Dip.pdf), Matlab Fault Orientation [[script]](fall2023/demo_Nankai_StressOnFault.mlx) [[pdf]](fall2023/demo_Nankai_StressOnFault.pdf)
 
-### Lecture 11: Gradient and Divergence
+### Lecture 10: Gradient and Divergence
 Topics: Divergence, Gradient
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture12.pdf) [[rec]](https://utexas.zoom.us/rec/share/6NWgGDgR99VbNxlRk_qCe99TvFOuKYDoTHNSc6b6FXtOdtpWNiyCnY_Dtgg0avG2.MUO6tAN8Z6tqxZwq)
 * Notes: [Tensor calc](fall2023/Tensor_calculus_2022.pdf) 
 
-### Lecture 12: Integral theorems
+### Lecture 11: Integral theorems
 Topics: Curl, Laplacian Divergence and Stokes theorems, Poisson's equation for gravity
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture13.pdf) [[rec]](https://utexas.zoom.us/rec/share/1T9jyO7ZfxkGGONnSB2VkaEmcvzG9-kRMaLxMWamm361BxG4Yk-bU_LUsz-u78J1.OD8h-FM5BCxwmZhE) 
 * Notes:
 
-### Lecture 13: Equilibrium Equations
+### Lecture 12: Equilibrium Equations
 Topics: Equilibrum equations, symmetry of stress tensor, hydrostatic shapes, Figure of the Earth
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture14.pdf) [[rec]](https://utexas.zoom.us/rec/share/tstGnggIf8i92OTF8EDxaok_0A8WsyDQlfUS58hldrVXtGizfVDvkKtgWpbTyY8l.BbymRwBxieM6YFi4)
 * Notes: [Figure of the Earth](fall2023/FigureEarth.pdf)
 
-### Lecture 14: Midterm Exam
+### Lecture 13: Midterm Exam
 
 ## Topic III: Kinematics and Strain
 
-### Lecture 15: Deformation Map and Gradient 
+### Lecture 14: Deformation Map and Gradient 
 Topics: Deformation map and gradient; change of material lines, volumes and areas
-* Lecture: no lecture notes, sorry! [[rec]](https://utexas.zoom.us/rec/share/sp93VsYTQrztljngtp0vM2oCnu-s6MRZQfoHQaNHxe_hHLq6G6BWOX8VODwkRz-4.8LXVdcQnqUyIcvNa)
 * Notes: [[pdf]](fall2023/Deformation_map_and_gradient_2023.pdf)
 
-### Lecture 16: Analysis of local deformation
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture16.pdf) [[rec]](https://utexas.zoom.us/rec/share/st7ruOqUaAWJudVgtKsy-U1OP5g_PnxjMtM9owl2XYP8YpdJCpBCCfVTXtFnNcFj.LV2PGNWkHYKUBq7K) 
-* Notes: [[pdf]](fall2023/Analysis_of_local_deformation_2023.pdf)
+### Lecture 15: Cauchy-Green Strain Tensor
+* Notes: [Local Deformation](fall2023/Analysis_of_local_deformation_2023.pdf) [Cauchy-Gresn Strain Tensor](fall2023/Cauchy-Green_strain_tensor_2023.pdf)
 
-### Lecture 17: Cauchy-Green Strain Tensor
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture17.pdf) [[rec]](https://utexas.zoom.us/rec/share/UUmZCbQdiGLpeJUWeHbkxHQvm_wa_J1kJwNStIjQVObb6Eq3cPZ52w6k5X2fharY.i32QpY5loSqHa5VC)
-* Notes: [[pdf]](fall2023/Cauchy-Green_strain_tensor_2023.pdf)
+### Lecture 16: Infinitesimal strain
+* Notes: [Infinitesimal strain](fall2022/Infinitesimal_strain_tensor_2021.pdf)
 
-### Lecture 18: Infinitesimal strain
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture18.pdf) [[rec]](https://utexas.zoom.us/rec/share/UUmZCbQdiGLpeJUWeHbkxHQvm_wa_J1kJwNStIjQVObb6Eq3cPZ52w6k5X2fharY.i32QpY5loSqHa5VC)
-* Notes: [[pdf]](fall2022/Infinitesimal_strain_tensor_2021.pdf)
+
+### Lecture 18: 
 
 ### Lecture 19: Motion and Material Derivative
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture19.pdf) [[rec]](https://utexas.zoom.us/rec/share/awEu-eAm9SRXsIt1IF6CaYt8Wx3p0XVJPw5ZYKMCxMNenUjZmXNox4F1r7iE1FK8.X-WgSbU2qWy_0vAs)
