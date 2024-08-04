@@ -101,50 +101,39 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 ### Lecture 16: Infinitesimal strain
 * Notes: [Infinitesimal strain](fall2022/Infinitesimal_strain_tensor_2021.pdf)
 
-
-### Lecture 18: 
-
-### Lecture 19: Motion and Material Derivative
+### Lecture 17: Motion and Material Derivative
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture19.pdf) [[rec]](https://utexas.zoom.us/rec/share/awEu-eAm9SRXsIt1IF6CaYt8Wx3p0XVJPw5ZYKMCxMNenUjZmXNox4F1r7iE1FK8.X-WgSbU2qWy_0vAs)
 * Notes: [[pdf]](fall2022/Motions_2021.pdf)
 
-### Lecture 20: Rates of deformation & Reynolds Transport Theorem
+### Lecture 18: Rates of deformation & Reynolds Transport Theorem
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture20.pdf), [[rec]](https://utexas.zoom.us/rec/share/w9gSE4KI4GFrk5sQpoNjQrhYNq7Fib9SePcD7_0vg7ZpmDS4FstntV7XEXfV7mZR.xCFx3I7uWp4S4ifX)
 * Notes: [Rates](fall2023/Rate_of_strain_and_spin_2021.pdf), [Reynolds Transport Theorem](fall2023/Reynolds_Transport_Theorem_2021.pdf)
   
-## Topic IV: Balance Laws and Constitutive Theory
-### Lecture 21: Local Eulerian balance laws
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture21.pdf), [[rec]](https://utexas.zoom.us/rec/share/4R6SWKhsQC14KhdzS82g_6WmPLhbsqPVyOv4qBTeqLnqFSV59zQViUnCV22n6PyJ.bNBuDvfdCexEO3zK)
+## Topic IV: Constitutive Theory and Balance Laws
+### Lecture 19: Constitutive laws
+
+### Lecture 20: Local Eulerian balance laws
 * Notes: [Balance laws](fall2023/Balance_laws_local_Eulerian_form_2023.pdf)
 
-### Lecture 22: Energy balance
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture22.pdf), [[rec]](https://utexas.zoom.us/rec/share/4R6SWKhsQC14KhdzS82g_6WmPLhbsqPVyOv4qBTeqLnqFSV59zQViUnCV22n6PyJ.bNBuDvfdCexEO3zK)
+### Lecture 21: Energy balance
 * Notes: [Energy balance]
 
-### Lecture 23: Constitutive Theory: Objectivity
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture23.pdf) [[rec]](https://utexas.zoom.us/rec/share/lRS_kDx4qlVgswPpaWn6DZoqzeW-8M9HponvMLbWJfTlloGKzyNZR_tseO3UiB12.7yYExsFjrLv4pZLW)
-* Notes: [Objectivity](fall2023/Constitutive_Theory_objectivity.pdf)
-
-### Lecture 24: Constitutive Theory: Representation Theorem
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture24.pdf) [[rec]](https://utexas.zoom.us/rec/share/3KE002f9Z1qafORiUJ6nqhRUxRf6y3EiKHTzhqSs4LpGuwC4hHCs34vDia7UKbnQ.oJys5MxyDPoIwzQB)
-* Notes: [Representation](fall2023/Constitutive_Theory_2023.pdf)
 
 ## Topic V: Applications
-### Lecture 25: Ideal fluids
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture25.pdf) [[rec]](https://utexas.zoom.us/rec/share/r0Hxc71n81oyKAPGeSi7iYJgoa8JkR2wm9c8LVf4KLgZWof0MI0RtmMIMIVM4p2c.eseo8g_haU3DPagL)
-* Notes: [Ideal Fluids](fall2023/Ideal_Fluids.pdf)
-
-### Lecture 26: Newtonian fluids
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture26.pdf) [[rec]](https://utexas.zoom.us/rec/share/dIItt91cVNt2WboPHqUXFRvcBF3pJr9KdNnUAVRWYaASqNq_aKI51IcTLL21WrUM.v3ALm0adT0kqnFXu)
+### Lecture 22: Fluids I - Navier Stokes
 * Notes: [Navier-Stokes](fall2023/Newtonian_Fluids_2023.pdf)
 
-### Lecture 27: Stokes flow
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture27.pdf) [[rec]](https://utexas.zoom.us/rec/share/eWDzCG4W-sbeqtlgymG1tK19EfD2dd-sxJJi8cQsnwxkgupi2bsrsjv8XulfumDQ.dBgxHQB9AW2d1ZCu)
-* Notes: [Stokes](fall2023/Stokes_Equation2023.pdf)
+### Lecture 23: Fluids II - Creeping Flows
+* Notes: [Stokes Equation](fall2023/Stokes_Equation2023.pdf)
   
-### Lecture 28: Power-law creep
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture28.pdf) [[rec]](https://utexas.zoom.us/rec/share/d6S8cMpLnY5-LDJ94IXDsbgMUMXvbT63qc2AfdaT3chImS3tQZTCxhG8oEQonUFW.olRxm1jgE5mK3wmH)
+### Lecture 24: Power-law creep
 * Notes: [Temperature-dependent viscosity](fall2023/Variable_Viscosity_Stokes.pdf)
+
+### Lecture 25: Linear elasticity
+
+### Lecture 26: Static problems
+
+### Lecture 27: Elastic waves
 
 ## So Long, and Thanks for All the Fish
 
