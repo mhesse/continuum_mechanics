@@ -30,23 +30,21 @@ Other useful books are:
 * [Nonlinear solid mechanics](https://www.wiley.com/en-us/Nonlinear+Solid+Mechanics%3A+A+Continuum+Approach+for+Engineering-p-9780471823193), by Holzapfel
 
 
-## Topic I: Tensors and Stress
+## Topic I: Review
 ### Lecture 1 (Aug 22): Vector Review and Index Notation
 * Topics: Introduction to the class, review of vectors, index notation
-* Lecture: [[pdf]]
-* [Introduction to course](fall2023/ContinuumMechanics_intro_2023.pdf)
-* [Vectors and Index Notation](fall2024/Vectors_IndexNotation.pdf.pdf)
+* Slides: [Introduction to course](fall2023/ContinuumMechanics_intro_2023.pdf)
+* Notes: [Vectors and Index Notation](fall2024/Vectors_IndexNotation.pdf.pdf)
 
-
-### Lecture 2 (Aug 24): Continuum Mass and Force Concepts
+### Lecture 2 (Aug 24): Body and Surface Forces
 Topics: Body and surface forces, Hydrostatic equilibrium, Isostacy
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture2.pdf) [[rec]](https://utexas.zoom.us/rec/share/cf0Zkxcmri1rbO_cpyug4cEvmT-9SlrpV8caw83q5DmJs1oiqg15D8IlrEfKORma.Bt-F-a6JcHlWWClu)
 * Notes: [Force Notes](fall2023/Continuum_Mass_Force_Concepts_2023.pdf)
 
-### Lecture 3 (Aug 29): Isostacy and index notation
+### Lecture 3 (Aug 29): Torque and Moment
 Topics: Application of hydrostatic force balance
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture3.pdf) [[rec]](https://utexas.zoom.us/rec/share/8dv1qLWRvA3udoEMjKc_zQeInS0LC19NB-NLmfD3zGJnyn4Kb5QbIZtCIZGVru7Q.W3-89KGTStYgCx9q)
 * Notes: [Isostacy](fall2023/Isostacy.pdf)
+
+## Topic II: Tensors and Stress
 
 ### Lecture 4 (Aug 31): Introduction to Tensors
 Topics: Tensor representation and basis, dyadic product, trace, transpose.
@@ -103,7 +101,7 @@ Topics: Equilibrum equations, symmetry of stress tensor, hydrostatic shapes, Fig
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture14.pdf) [[rec]](https://utexas.zoom.us/rec/share/tstGnggIf8i92OTF8EDxaok_0A8WsyDQlfUS58hldrVXtGizfVDvkKtgWpbTyY8l.BbymRwBxieM6YFi4)
 * Notes: [Figure of the Earth](fall2023/FigureEarth.pdf)
 
-## Topic II: Kinematics and Strain
+## Topic III: Kinematics and Strain
 
 ### Lecture 15: Deformation Map and Gradient 
 Topics: Deformation map and gradient; change of material lines, volumes and areas
@@ -130,7 +128,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture20.pdf), [[rec]](https://utexas.zoom.us/rec/share/w9gSE4KI4GFrk5sQpoNjQrhYNq7Fib9SePcD7_0vg7ZpmDS4FstntV7XEXfV7mZR.xCFx3I7uWp4S4ifX)
 * Notes: [Rates](fall2023/Rate_of_strain_and_spin_2021.pdf), [Reynolds Transport Theorem](fall2023/Reynolds_Transport_Theorem_2021.pdf)
   
-## Topic III: Balance Laws and Constitutive Theory
+## Topic IV: Balance Laws and Constitutive Theory
 ### Lecture 21: Local Eulerian balance laws
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture21.pdf), [[rec]](https://utexas.zoom.us/rec/share/4R6SWKhsQC14KhdzS82g_6WmPLhbsqPVyOv4qBTeqLnqFSV59zQViUnCV22n6PyJ.bNBuDvfdCexEO3zK)
 * Notes: [Balance laws](fall2023/Balance_laws_local_Eulerian_form_2023.pdf)
@@ -147,7 +145,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture24.pdf) [[rec]](https://utexas.zoom.us/rec/share/3KE002f9Z1qafORiUJ6nqhRUxRf6y3EiKHTzhqSs4LpGuwC4hHCs34vDia7UKbnQ.oJys5MxyDPoIwzQB)
 * Notes: [Representation](fall2023/Constitutive_Theory_2023.pdf)
 
-## Topic IV: Applications
+## Topic V: Applications
 ### Lecture 25: Ideal fluids
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture25.pdf) [[rec]](https://utexas.zoom.us/rec/share/r0Hxc71n81oyKAPGeSi7iYJgoa8JkR2wm9c8LVf4KLgZWof0MI0RtmMIMIVM4p2c.eseo8g_haU3DPagL)
 * Notes: [Ideal Fluids](fall2023/Ideal_Fluids.pdf)
