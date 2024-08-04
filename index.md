@@ -46,7 +46,7 @@ Topics: Application of hydrostatic force balance
 
 ## Topic II: Tensors and Stress
 
-### Lecture 4 (Aug 31): Introduction to Tensors
+### Lecture 4 (Aug 31): Tensor Algebra
 Topics: Tensor representation and basis, dyadic product, trace, transpose.
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture4.pdf) [[rec]](https://utexas.zoom.us/rec/share/8dv1qLWRvA3udoEMjKc_zQeInS0LC19NB-NLmfD3zGJnyn4Kb5QbIZtCIZGVru7Q.W3-89KGTStYgCx9q)
 * Notes: [Tensor Intro](fall2023/Tensor_Intro_2023.pdf)
@@ -56,17 +56,12 @@ Topics: Traction, Action & Reaction, Cauchy's principle
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture5.pdf) [[rec]](https://utexas.zoom.us/rec/share/-d7MGRDKQY342huSN-vCctKaZIgXTn6RGVAez6T3f6wNmbFu417xglukRtzRy0SV.QuVBR4_ZDcGZqs1e)
 * Notes: [Cauchy stress tensor](fall2023/Cauchy_stress_tensor_2023.pdf)
   
-### Lecture 6: Stress examples
-Topics: Normal and shear stress, Projections, simpe stress states
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture6.pdf) [[rec]](https://utexas.zoom.us/rec/share/b972z2DaD-pxLHFrxotls0L7ntvPjm72AcY0RsU3I-7gHBrFYIgtlWx5tTz8gsN7.GOJxfkqY2N3HNoHJ)
-* Notes: [Simple stress states](fall2023/More_on_stress.pdf) 
-  
-### Lecture 7: Rotations
+### Lecture 6: Rotations
 Topics: Orthogonal tensors, Euler representation
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture7.pdf) [[rec]](https://utexas.zoom.us/rec/share/lj_k93kFw6Zz1id9ceB9Unk5Bt6oT9mjeDgXPWXe5dkk8P5hiKRM8xwQUfzj-1-0.xxOX4fiV1FrH8sEb)
 * Notes: [Rotations](fall2023/Rotations.pdf)
 
-### Lecture 8: Change in basis and spectral decomposition
+### Lecture 7: Change in basis
 Topics: Change in basis tensor, eigen problem, spectral decomposition, invariants
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture8.pdf) [[rec]](https://utexas.zoom.us/rec/share/wAnco-erT2fSG8-o01dOcd2nzJcEreM7zNJgGX-Z4CUNV4Flja0jAqE-nSNkMKG3.6rIaSn_0IIXq6T09)
 * Notes: [Change of basis](fall2023/Change_of_Basis.pdf)
