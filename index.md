@@ -38,11 +38,11 @@ Other useful books are:
 
 ### Lecture 2 (Aug 24): Body and surface forces
 Topics: Body and surface forces, Hydrostatic equilibrium, Isostacy
-* Notes: [Force Notes](fall2023/Continuum_Mass_Force_Concepts_2023.pdf)
+* Notes: [Force Notes](fall2023/Continuum_Mass_Force_Concepts_2023.pdf), [Isostacy](fall2023/Isostacy.pdf) 
 
 ### Lecture 3 (Aug 29): Torque and moment
 Topics: Application of hydrostatic force balance
-* Notes: [Isostacy](fall2023/Isostacy.pdf)
+* Notes: 
 
 ## Topic II: Tensors and Stress
 
