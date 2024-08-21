@@ -31,63 +31,63 @@ Other useful books are:
 
 
 ## Topic I: Review
-### Lecture 1 (Aug 22): Vector review and index notation
+### Lecture 1 (Aug 27): Vector review and index notation
 * Topics: Introduction to the class, review of vectors, index notation
 * Slides: [Introduction to course](fall2023/ContinuumMechanics_intro_2023.pdf)
 * Notes: [Vectors and Index Notation](fall2024/Vectors_IndexNotation.pdf.pdf)
 
-### Lecture 2 (Aug 24): Body and surface forces
+### Lecture 2 (Aug 29): Body and surface forces
 Topics: Body and surface forces, Hydrostatic equilibrium, Isostacy
 * Notes: [Force Notes](fall2023/Continuum_Mass_Force_Concepts_2023.pdf), [Isostacy](fall2023/Isostacy.pdf) 
 
-### Lecture 3 (Aug 29): Torque and moment
+### Lecture 3 (Sep 3): Torque and moment
 Topics: Application of hydrostatic force balance
 * Notes: 
 
 ## Topic II: Tensors and Stress
 
-### Lecture 4 (Aug 31): Tensor algebra
+### Lecture 4 (Sep 5): Tensor algebra
 Topics: Tensor representation and basis, dyadic product, trace, transpose.
 * Notes: [Tensor Intro](fall2023/Tensor_Intro_2023.pdf)
 
-### Lecture 5: Cauchy stress tensor
+### Lecture 5 (Sep 9): Cauchy stress tensor
 Topics: Traction, Action & Reaction, Cauchy's principle
 * Notes: [Cauchy stress tensor](fall2023/Cauchy_stress_tensor_2023.pdf)
   
-### Lecture 6: Rotations
+### Lecture 6 (Sep 12): Rotations
 Topics: Orthogonal tensors, Euler representation
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture7.pdf) [[rec]](https://utexas.zoom.us/rec/share/lj_k93kFw6Zz1id9ceB9Unk5Bt6oT9mjeDgXPWXe5dkk8P5hiKRM8xwQUfzj-1-0.xxOX4fiV1FrH8sEb)
 * Notes: [Rotations](fall2023/Rotations.pdf)
 
-### Lecture 7: Change in basis
+### Lecture 7 (Sep 17): Change in basis and spectral decomposition
 Topics: Change in basis tensor, eigen problem, spectral decomposition, invariants
 * Notes: [Change of basis](fall2023/Change_of_Basis.pdf)
 
-### Lecture 8: Extremal stress and Mohr circle
+### Lecture 8 (Sep 19): Extremal stress and Mohr circle
 Topics: Principal stresses, 3D Mohr circle
 * Notes: [Principal stresses](fall2023/Normal_and_shear_stress_2022.pdf) [Mohr circle](fall2023/Mohr_Circle_and_Failure_2022.pdf)
   
-### Lecture 9: Computing fault stresses
+### Lecture 9 (Sep 24): Computing fault stresses
 Topics: Coordinate systems, Fault normals, stress 
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture11.pdf) [[rec]](https://utexas.zoom.us/rec/share/2WCx3NwT00M_-Cz6cWxx3Vi1clZNbml5uDS943jfNMnNzz_fTtutZNMdjNaxkIJ-.aPeG2B39xvF7k1Be)
 * Notes: [Fault orientation](fall2023/Strike_Dip.pdf), Matlab Fault Orientation [[script]](fall2023/demo_Nankai_StressOnFault.mlx) [[pdf]](fall2023/demo_Nankai_StressOnFault.pdf)
 
-### Lecture 10: Gradient and Divergence
+### Lecture 10 (Sep 26): Tensor calculus
 Topics: Divergence, Gradient
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture12.pdf) [[rec]](https://utexas.zoom.us/rec/share/6NWgGDgR99VbNxlRk_qCe99TvFOuKYDoTHNSc6b6FXtOdtpWNiyCnY_Dtgg0avG2.MUO6tAN8Z6tqxZwq)
 * Notes: [Tensor calc](fall2023/Tensor_calculus_2022.pdf) 
 
-### Lecture 11: Integral theorems
+### Lecture 11 (Oct 1): Integral theorems
 Topics: Curl, Laplacian Divergence and Stokes theorems, Poisson's equation for gravity
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture13.pdf) [[rec]](https://utexas.zoom.us/rec/share/1T9jyO7ZfxkGGONnSB2VkaEmcvzG9-kRMaLxMWamm361BxG4Yk-bU_LUsz-u78J1.OD8h-FM5BCxwmZhE) 
 * Notes:
 
-### Lecture 12: Equilibrium Equations
+### Lecture 12 (Oct 3): Equilibrium Equations
 Topics: Equilibrum equations, symmetry of stress tensor, hydrostatic shapes, Figure of the Earth
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture14.pdf) [[rec]](https://utexas.zoom.us/rec/share/tstGnggIf8i92OTF8EDxaok_0A8WsyDQlfUS58hldrVXtGizfVDvkKtgWpbTyY8l.BbymRwBxieM6YFi4)
 * Notes: [Figure of the Earth](fall2023/FigureEarth.pdf)
 
-### Lecture 13: Midterm Exam
+### Lecture 13 (Oct 8): Midterm Exam
 
 ## Topic III: Kinematics and Strain
 
