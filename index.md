@@ -36,12 +36,12 @@ Other useful books are:
 * Slides: [Introduction to course](fall2023/ContinuumMechanics_intro_2023.pdf)
 * Notes: [Vectors and Index Notation](fall2024/Vectors_IndexNotation.pdf.pdf)
 
-### Lecture 2 (Aug 29): Body and surface forces
-Topics: Body and surface forces, Hydrostatic equilibrium, Isostacy
+### Lecture 2 (Aug 29): Linear momentum and force
+Topics: Newton's laws, Body and surface forces, Hydrostatic equilibrium, Isostacy
 * Notes: [Force Notes](fall2023/Continuum_Mass_Force_Concepts_2023.pdf), [Isostacy](fall2023/Isostacy.pdf) 
 
-### Lecture 3 (Sep 3): Torque and moment
-Topics: Application of hydrostatic force balance
+### Lecture 3 (Sep 3): Angular momentum and torque
+Topics: Angular momentum, torque, moment, tipping
 * Notes: 
 
 ## Topic II: Tensors and Stress
