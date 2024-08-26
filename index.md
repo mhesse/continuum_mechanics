@@ -16,7 +16,7 @@ Previous versions of this course: [Fall 2021](Fall2021.md), [Fall 2022](Fall2022
 * [Some light entertainment for dark hours](https://www.ted.com/talks/eduardo_saenz_de_cabezon_math_is_forever?language=en)
 
 ### Additional course websites:
-* [Piazza](https://piazza.com/class/lllfhh8uecg1ec/) - Discussion board
+* [Piazza](https://piazza.com/class/m0bi9mnhp935l) - Discussion board
 
 ### Relevant textbooks
 We will most closely follow:
