@@ -34,8 +34,8 @@ Other useful books are:
 ## Topic I: Review
 ### Lecture 1 (Aug 27): Vector review and index notation
 * Topics: Introduction to the class, review of vectors, index notation
-* Slides: [Introduction to course](fall2023/ContinuumMechanics_intro_2023.pdf)
-* Notes: [Vectors and Index Notation](fall2024/Vectors_IndexNotation.pdf.pdf)
+* Slides: [Introduction to course](fall2024/ContinuumMechanics_intro_2024.pdf)
+* Notes: [Vectors and Index Notation](fall2024/Vectors_IndexNotation.pdf)
 
 ### Lecture 2 (Aug 29): Linear momentum and force
 Topics: Newton's laws, Body and surface forces, Hydrostatic equilibrium, Isostacy
