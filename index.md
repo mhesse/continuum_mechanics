@@ -11,9 +11,9 @@ Previous versions of this course: [Fall 2021](Fall2021.md), [Fall 2022](Fall2022
 * Class unique: 26850/27195
 
 ### Office hours (TBD)
-[[poll]](https://www.when2meet.com/?26050532-hIYTg)
-* TBD (Marc) [[Zoom ID 921 0937 9742]](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09)
-
+* [[Office hours poll]](https://www.when2meet.com/?26050532-hIYTg)
+* Time: TBD (Marc) [[Zoom ID 921 0937 9742]](https://utexas.zoom.us/j/92109379742?pwd=VUd3NFd4ZUtsRS8ycDkvTmsvaldydz09)
+* Location: TBD
 * [Some light entertainment for dark hours](https://www.ted.com/talks/eduardo_saenz_de_cabezon_math_is_forever?language=en)
 
 ### Additional course websites:
