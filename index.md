@@ -50,7 +50,7 @@ Topics: Angular momentum, torque, moment, tipping
 
 ### Lecture 4 (Sep 5): Tensor algebra
 Topics: Tensor representation and basis, dyadic product, trace, transpose.
-* Notes: [Tensor Intro](fall2023/Tensor_Intro_2023.pdf)
+* Notes: [Tensor Intro](fall2024/Tensor_Intro_2024.pdf)
 
 ### Lecture 5 (Sep 9): Cauchy stress tensor
 Topics: Traction, Action & Reaction, Cauchy's principle
