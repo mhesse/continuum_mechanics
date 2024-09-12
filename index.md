@@ -13,7 +13,7 @@ Previous versions of this course: [Fall 2021](Fall2021.md), [Fall 2022](Fall2022
 ### Office hours (TBD)
 * [[Office hours poll]](https://www.when2meet.com/?26050532-hIYTg)
 * Time: Monday noon-1pm, Tuesday 11am-noon
-* Location: TBD
+* Location: JGB 4.216G
 * [Some light entertainment for dark hours](https://www.ted.com/talks/eduardo_saenz_de_cabezon_math_is_forever?language=en)
 
 ### Additional course websites:
