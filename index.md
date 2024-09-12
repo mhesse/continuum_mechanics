@@ -58,7 +58,7 @@ Topics: Traction, Action & Reaction, Cauchy's principle
   
 ### Lecture 6 (Sep 12): Rotations
 Topics: Orthogonal tensors, Euler representation, Fault normals
-* Notes: [Rotations](fall2023/Rotations.pdf), [Fault normals](fall2023/Strike_Dip.pdf)
+* Notes: [Rotations](fall2024/Rotations.pdf), [Fault normals](fall2023/Strike_Dip.pdf)
 
 
 ### Lecture 7 (Sep 17): Change in basis and spectral decomposition
