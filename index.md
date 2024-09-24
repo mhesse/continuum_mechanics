@@ -65,11 +65,11 @@ Topics: Orthogonal tensors, Euler representation, Fault normals
 Topics: Change in basis tensor, eigen problem, spectral decomposition, invariants
 * Notes: [Change of basis](fall2023/Change_of_Basis.pdf)
 
-### Lecture 8 (Sep 19): Extremal stress and Mohr circle
+### Lecture 8 (Sep 19): Normal, shear and prinipal stresses 
 Topics: Principal stresses, 3D Mohr circle
 * Notes: [Principal stresses](fall2024/Normal_and_shear_stress_2024.pdf) 
   
-### Lecture 9 (Sep 24): Computing fault stresses
+### Lecture 9 (Sep 24): Mohr circle
 Topics: Coordinate systems, Fault normals, stress 
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture11.pdf) [[rec]](https://utexas.zoom.us/rec/share/2WCx3NwT00M_-Cz6cWxx3Vi1clZNbml5uDS943jfNMnNzz_fTtutZNMdjNaxkIJ-.aPeG2B39xvF7k1Be)
 * Notes: [Mohr circle](fall2023/Mohr_Circle_and_Failure_2022.pdf) [Fault orientation](fall2023/Strike_Dip.pdf), Matlab Fault Orientation [[script]](fall2023/demo_Nankai_StressOnFault.mlx) [[pdf]](fall2023/demo_Nankai_StressOnFault.pdf)
