@@ -65,8 +65,8 @@ Topics: Orthogonal tensors, Euler representation, Fault normals
 Topics: Change in basis tensor, eigen problem, spectral decomposition, invariants
 * Notes: [Change of basis](fall2023/Change_of_Basis.pdf)
 
-### Lecture 8 (Sep 19): Normal, shear and prinipal stresses 
-Topics: Principal stresses
+### Lecture 8 (Sep 19): Prinipal stresses 
+Topics: Normal and shear stress, principal stresses
 * Notes: [Principal stresses](fall2024/Normal_and_shear_stress_2024.pdf) 
   
 ### Lecture 9 (Sep 24): Mohr circle
