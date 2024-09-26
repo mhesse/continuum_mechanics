@@ -75,9 +75,8 @@ Topics: Mohr circle, maximum shear stress, failure
   
 
 ### Lecture 10 (Sep 26): Tensor calculus
-Topics: Divergence, Gradient
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture12.pdf) [[rec]](https://utexas.zoom.us/rec/share/6NWgGDgR99VbNxlRk_qCe99TvFOuKYDoTHNSc6b6FXtOdtpWNiyCnY_Dtgg0avG2.MUO6tAN8Z6tqxZwq)
-* Notes: [Tensor calc](fall2023/Tensor_calculus_2022.pdf) 
+Topics: Gradient, divergence, Laplacian
+* Notes: [Tensor calc](fall2024/Gradient_Divergence.pdf) 
 
 ### Lecture 11 (Oct 1): Integral theorems
 Topics: Curl, Laplacian Divergence and Stokes theorems, Poisson's equation for gravity
