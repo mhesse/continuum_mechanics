@@ -74,14 +74,13 @@ Topics: Mohr circle, maximum shear stress, failure
 * Notes: [Mohr circle](fall2024/Normal_and_shear_stress_2024.pdf), Nankai Fault Stress Example [[script]](fall2023/demo_Nankai_StressOnFault.mlx) [[pdf]](fall2023/demo_Nankai_StressOnFault.pdf)
   
 
-### Lecture 10 (Sep 26): Tensor calculus
-Topics: Gradient, divergence, Laplacian
-* Notes: [Tensor calc](fall2024/Gradient_Divergence.pdf) 
+### Lecture 10 (Sep 26): Divergence and gradient
+Topics: Gradient, divergence, Laplacian, Poisson's equation for gravity
+* Notes: [Div and Grad](fall2024/Gradient_Divergence.pdf) 
 
 ### Lecture 11 (Oct 1): Integral theorems
-Topics: Curl, Laplacian Divergence and Stokes theorems, Poisson's equation for gravity
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture13.pdf) [[rec]](https://utexas.zoom.us/rec/share/1T9jyO7ZfxkGGONnSB2VkaEmcvzG9-kRMaLxMWamm361BxG4Yk-bU_LUsz-u78J1.OD8h-FM5BCxwmZhE) 
-* Notes:
+Topics: Curl, Divergence and Stokes theorems, Derivatives of tensor functions
+* Notes: [Curl, Gauss, Stokes](fall2024/IntegralTheorems_2024.pdf)
 
 ### Lecture 12 (Oct 3): Equilibrium Equations
 Topics: Equilibrum equations, symmetry of stress tensor, hydrostatic shapes, Figure of the Earth
