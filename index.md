@@ -71,7 +71,7 @@ Topics: Normal and shear stress, principal stresses
   
 ### Lecture 9 (Sep 24): Mohr circle
 Topics: Mohr circle, maximum shear stress, failure 
-* Notes: [Mohr circle](fall2024/Normal_and_shear_stress_2024.pdf), Nankai Fault Stress Example [[script]](fall2023/demo_Nankai_StressOnFault.mlx) [[pdf]](fall2023/demo_Nankai_StressOnFault.pdf)
+* Notes: [Mohr circle](fall2023/Mohr_Circle_and_Failure_2022.pdf), Nankai Fault Stress Example [[script]](fall2023/demo_Nankai_StressOnFault.mlx) [[pdf]](fall2023/demo_Nankai_StressOnFault.pdf)
   
 
 ### Lecture 10 (Sep 26): Divergence and gradient
