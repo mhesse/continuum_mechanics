@@ -87,52 +87,52 @@ Topics: Equilibrum equations, symmetry of stress tensor, hydrostatic shapes, Fig
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture14.pdf) [[rec]](https://utexas.zoom.us/rec/share/tstGnggIf8i92OTF8EDxaok_0A8WsyDQlfUS58hldrVXtGizfVDvkKtgWpbTyY8l.BbymRwBxieM6YFi4)
 * Notes: [Figure of the Earth](fall2023/FigureEarth.pdf)
 
-### Lecture 13 (Oct 8): Midterm Exam
+### Midterm Exam (Oct 8): 
 
 ## Topic III: Kinematics and Strain
 
-### Lecture 14: Deformation Map and Gradient 
+### Lecture 13: Deformation Map and Gradient 
 Topics: Deformation map and gradient; change of material lines, volumes and areas
 * Notes: [[pdf]](fall2023/Deformation_map_and_gradient_2023.pdf)
 
-### Lecture 15: Cauchy-Green Strain Tensor
+### Lecture 14: Cauchy-Green Strain Tensor
 * Notes: [Local Deformation](fall2023/Analysis_of_local_deformation_2023.pdf) [Cauchy-Gresn Strain Tensor](fall2023/Cauchy-Green_strain_tensor_2023.pdf)
 
-### Lecture 16: Infinitesimal strain
+### Lecture 15: Infinitesimal strain
 * Notes: [Infinitesimal strain](fall2022/Infinitesimal_strain_tensor_2021.pdf)
 
-### Lecture 17: Motion and Material Derivative
+### Lecture 16: Motion and Material Derivative
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture19.pdf) [[rec]](https://utexas.zoom.us/rec/share/awEu-eAm9SRXsIt1IF6CaYt8Wx3p0XVJPw5ZYKMCxMNenUjZmXNox4F1r7iE1FK8.X-WgSbU2qWy_0vAs)
 * Notes: [[pdf]](fall2022/Motions_2021.pdf)
 
-### Lecture 18: Rates of deformation & Reynolds Transport Theorem
+### Lecture 17: Rates of deformation & Reynolds Transport Theorem
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture20.pdf), [[rec]](https://utexas.zoom.us/rec/share/w9gSE4KI4GFrk5sQpoNjQrhYNq7Fib9SePcD7_0vg7ZpmDS4FstntV7XEXfV7mZR.xCFx3I7uWp4S4ifX)
 * Notes: [Rates](fall2023/Rate_of_strain_and_spin_2021.pdf), [Reynolds Transport Theorem](fall2023/Reynolds_Transport_Theorem_2021.pdf)
   
 ## Topic IV: Constitutive Theory and Balance Laws
-### Lecture 19: Constitutive laws I - Objectivity and Galilean transformations
-### Lecture 20: Constitutive laws I - Representation theorem
+### Lecture 18: Constitutive laws I - Objectivity and Galilean transformations
+### Lecture 19: Constitutive laws I - Representation theorem
 
-### Lecture 21: Local Eulerian balance laws
+### Lecture 20: Local Eulerian balance laws
 * Notes: [Balance laws](fall2023/Balance_laws_local_Eulerian_form_2023.pdf)
 
-### Lecture 22: Energy balance
+### Lecture 21: Energy balance
 * Notes: [Energy balance]
 
 
 ## Topic V: Applications
-### Lecture 23: Fluids I - Navier Stokes
+### Lecture 22: Fluids I - Navier Stokes
 * Notes: [Navier-Stokes](fall2023/Newtonian_Fluids_2023.pdf)
 
-### Lecture 24: Fluids II - Creeping Flows
+### Lecture 23: Fluids II - Creeping Flows
 * Notes: [Stokes Equation](fall2023/Stokes_Equation2023.pdf)
   
-### Lecture 25: Power-law creep
+### Lecture 24: Power-law creep
 * Notes: [Temperature-dependent viscosity](fall2023/Variable_Viscosity_Stokes.pdf)
 
-### Lecture 26: Linear elasticity
+### Lecture 25: Linear elasticity
 
-### Lecture 27: Static problems
+### Lecture 26: Static problems
 
 ### Lecture 27: Elastic waves
 
