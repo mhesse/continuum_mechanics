@@ -84,8 +84,7 @@ Topics: Curl, Divergence and Stokes theorems, Derivatives of tensor functions
 
 ### Lecture 12 (Oct 3): Equilibrium Equations
 Topics: Equilibrum equations, symmetry of stress tensor, hydrostatic shapes, Figure of the Earth
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture14.pdf) [[rec]](https://utexas.zoom.us/rec/share/tstGnggIf8i92OTF8EDxaok_0A8WsyDQlfUS58hldrVXtGizfVDvkKtgWpbTyY8l.BbymRwBxieM6YFi4)
-* Notes: [Figure of the Earth](fall2023/FigureEarth.pdf)
+* Notes: [Mechanical Equilibrium](spring2024/Mechanical_Equilibrium.pdf), [Figure of the Earth](fall2023/FigureEarth.pdf)
 
 ### Midterm Exam (Oct 8): 
 
