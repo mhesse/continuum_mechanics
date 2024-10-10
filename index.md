@@ -92,7 +92,7 @@ Topics: Equilibrum equations, symmetry of stress tensor, hydrostatic shapes, Fig
 
 ### Lecture 13: Deformation Map and Gradient 
 Topics: Deformation map and gradient; change of material lines, volumes and areas
-* Notes: [[Deformation Map and Gradient]](fall2023/Deformation_map_and_gradient_2023.pdf)
+* Notes: [Deformation Map and Gradient](fall2023/Deformation_map_and_gradient_2023.pdf)
 
 ### Lecture 14: Cauchy-Green Strain Tensor
 * Notes: [Local Deformation](fall2023/Analysis_of_local_deformation_2023.pdf) [Cauchy-Gresn Strain Tensor](fall2023/Cauchy-Green_strain_tensor_2023.pdf)
