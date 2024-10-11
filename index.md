@@ -60,7 +60,6 @@ Topics: Traction, Action & Reaction, Cauchy's principle
 Topics: Orthogonal tensors, Euler representation, Fault normals
 * Notes: [Rotations](fall2024/Rotations.pdf), [Fault normals](fall2023/Strike_Dip.pdf)
 
-
 ### Lecture 7 (Sep 17): Change in basis and spectral decomposition
 Topics: Change in basis tensor, eigen problem, spectral decomposition, invariants
 * Notes: [Change of basis](fall2023/Change_of_Basis.pdf)
@@ -73,7 +72,6 @@ Topics: Normal and shear stress, principal stresses
 Topics: Mohr circle, maximum shear stress, failure 
 * Notes: [Mohr circle](fall2023/Mohr_Circle_and_Failure_2022.pdf), Nankai Fault Stress Example [[script]](fall2023/demo_Nankai_StressOnFault.mlx) [[pdf]](fall2023/demo_Nankai_StressOnFault.pdf)
   
-
 ### Lecture 10 (Sep 26): Divergence and gradient
 Topics: Gradient, divergence, Laplacian, Poisson's equation for gravity
 * Notes: [Div and Grad](fall2024/Gradient_Divergence.pdf) 
@@ -92,7 +90,7 @@ Topics: Equilibrum equations, symmetry of stress tensor, hydrostatic shapes, Fig
 
 ### Lecture 13: Deformation Map and Gradient 
 Topics: Deformation map and gradient; change of material lines, volumes and areas
-* Notes: [Deformation Map and Gradient](fall2023/Deformation_map_and_gradient_2023.pdf)
+* Notes: [Deformation Map and Gradient](fall2024/Deformation_map_and_gradient_2024.pdf)
 
 ### Lecture 14: Cauchy-Green Strain Tensor
 * Notes: [Local Deformation](fall2023/Analysis_of_local_deformation_2023.pdf) [Cauchy-Gresn Strain Tensor](fall2023/Cauchy-Green_strain_tensor_2023.pdf)
