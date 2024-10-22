@@ -96,7 +96,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Notes: [Analysis of local deformation and right Cauchy-Green strain tensor](fall2023/Analysis_of_local_deformation_2023.pdf) 
 
 ### Lecture 15: Interpretation of the Strain Tensor
-* Notes: [Cauchy strain relations](fall2024/Infinitesimal_strain_tensor_2021.pdf)
+* Notes: [Cauchy strain relations](fall2024/Cauchy-Green strain tensor 2023.pdf)
 
 ### Lecture 16: 
 * Notes: [Infinitesimal strain](fall2024/Infinitesimal_strain_tensor_2024.pdf)
