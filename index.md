@@ -105,19 +105,18 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture20.pdf), [[rec]](https://utexas.zoom.us/rec/share/w9gSE4KI4GFrk5sQpoNjQrhYNq7Fib9SePcD7_0vg7ZpmDS4FstntV7XEXfV7mZR.xCFx3I7uWp4S4ifX)
 * Notes: [Rates](fall2023/Rate_of_strain_and_spin_2021.pdf), [Reynolds Transport Theorem](fall2023/Reynolds_Transport_Theorem_2021.pdf)
   
-
-### Lecture 18: Rates of deformation & Reynolds Transport TheoremC
+### Lecture 18: Rates of deformation & Reynolds Transport Theorem
 
 ## Topic IV: Balance Laws and Constitutive Theory
-### Lecture 19: onstitutive laws I - Objectivity and Galilean transformations
-Constitutive laws I - Representation theorem
 
-### Lecture 20: Local Eulerian balance laws
+### Lecture 19: Local Eulerian balance laws
 * Notes: [Balance laws](fall2023/Balance_laws_local_Eulerian_form_2023.pdf)
 
-### Lecture 21: Energy balance
+### Lecture 20: Energy balance
 * Notes: [Energy balance]
 
+### Lecture 21: Constitutive laws I - Objectivity and Galilean transformations
+Constitutive laws I - Representation theorem
 
 ## Topic V: Applications
 ### Lecture 22: Fluids I - Navier Stokes
