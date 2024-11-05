@@ -104,7 +104,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 ### Lecture 17: Motion and Material Derivative
 * Notes: [Motion and Matrial Derivative](fall2024/Motions_2023.pdf)
   
-### Lecture 18: Rates of deformation & Reynolds Transport Theorem
+### Lecture 18: Rates of deformation & Reynolds Transport Theorem 
 * Notes: [Rates](fall2023/Rate_of_strain_and_spin_2021.pdf), [Reynolds Transport Theorem](fall2023/Reynolds_Transport_Theorem_2021.pdf)
 
 ## Topic IV: Balance Laws and Constitutive Theory
