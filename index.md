@@ -102,7 +102,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Notes: [Infinitesimal strain](fall2024/Infinitesimal_strain_tensor_2024.pdf)
 
 ### Lecture 17: Motion and Material Derivative
-* Notes: [Motion and Matrial Derivative](fall2023/Motions_2023.pdf)
+* Notes: [Motion and Matrial Derivative](fall2024/Motions_2023.pdf)
   
 ### Lecture 18: Rates of deformation & Reynolds Transport Theorem
 * Notes: [Rates](fall2023/Rate_of_strain_and_spin_2021.pdf), [Reynolds Transport Theorem](fall2023/Reynolds_Transport_Theorem_2021.pdf)
