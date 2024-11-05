@@ -112,8 +112,8 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 ### Lecture 19: Local Eulerian balance laws
 * Notes: [Balance laws](fall2023/Balance_laws_local_Eulerian_form_2023.pdf)
 
-### Lecture 20: Energy balance
-* Notes: [Energy balance]
+### Lecture 20: Continuum Thermodynamics
+* Notes: [Energy balance](fall2024/Energy_balance_2024.pdf)
 
 ### Lecture 21: Constitutive laws I - Objectivity and Galilean transformations
 Constitutive laws I - Representation theorem
