@@ -102,10 +102,10 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Notes: [Infinitesimal strain](fall2024/Infinitesimal_strain_tensor_2024.pdf)
 
 ### Lecture 17: Motion and Material Derivative
-* Lecture: [[pdf]](fall2023/GEO325C_2023_Lecture20.pdf), [[rec]](https://utexas.zoom.us/rec/share/w9gSE4KI4GFrk5sQpoNjQrhYNq7Fib9SePcD7_0vg7ZpmDS4FstntV7XEXfV7mZR.xCFx3I7uWp4S4ifX)
-* Notes: [Rates](fall2023/Rate_of_strain_and_spin_2021.pdf), [Reynolds Transport Theorem](fall2023/Reynolds_Transport_Theorem_2021.pdf)
+* Notes: [Motion and Matrial Derivative](fall2023/Motions_2023.pdf)
   
 ### Lecture 18: Rates of deformation & Reynolds Transport Theorem
+* Notes: [Rates](fall2023/Rate_of_strain_and_spin_2021.pdf), [Reynolds Transport Theorem](fall2023/Reynolds_Transport_Theorem_2021.pdf)
 
 ## Topic IV: Balance Laws and Constitutive Theory
 
