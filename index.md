@@ -124,20 +124,15 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 ### Lecture 23: Constitutive laws II - Representation theorem and constraints
 
 ## Topic V: Applications
-### Lecture 22: Fluids I - Navier Stokes
+### Lecture 24: Fluids I - Navier Stokes
 * Notes: [Navier-Stokes](fall2023/Newtonian_Fluids_2023.pdf)
 
-### Lecture 23: Fluids II - Creeping Flows
+### Lecture 25: Fluids II - Creeping Flows
 * Notes: [Stokes Equation](fall2023/Stokes_Equation2023.pdf)
   
-### Lecture 24: Power-law creep
+### Lecture 26: Power-law creep
 * Notes: [Temperature-dependent viscosity](fall2023/Variable_Viscosity_Stokes.pdf)
 
-### Lecture 25: Linear elasticity
-
-### Lecture 26: Static problems
-
-### Lecture 27: Elastic waves
 
 ## So Long, and Thanks for All the Fish
 
