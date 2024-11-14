@@ -118,8 +118,9 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 ### Lecture 21: Lagrangian balance laws
 * Notes: [Lagrangian balance](fall2021/Balance_laws_in_Lagrangian_form_2021.pdf)
 
-Constitutive laws I - Objectivity and Galilean transformations
-Constitutive laws I - Representation theorem
+### Lecture 22: Constitutive laws I - Objectivity and Galilean transformations
+
+### Lecture 23: Constitutive laws II - Representation theorem and constraints
 
 ## Topic V: Applications
 ### Lecture 22: Fluids I - Navier Stokes
