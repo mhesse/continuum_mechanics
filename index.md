@@ -119,6 +119,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Notes: [Lagrangian balance](fall2021/Balance_laws_in_Lagrangian_form_2021.pdf)
 
 ### Lecture 22: Constitutive laws I - Objectivity and Galilean transformations
+* Notes: [Objectivity](fall2024/Constitutive_Theory_2024.pdf)
 
 ### Lecture 23: Constitutive laws II - Representation theorem and constraints
 
