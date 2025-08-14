@@ -11,7 +11,7 @@ Previous versions of this course: [Fall 2021](Fall2021.md), [Fall 2022](Fall2022
 * Class unique: 28965/29340
 
 ### Office hours (TBD)
-* [[Office hours poll]](https://www.when2meet.com/?26050532-hIYTg)
+* [[Office hours poll]](https://www.when2meet.com/?31686602-ktH3O)
 * Time: ?
 * Location: JGB 4.216G
 
