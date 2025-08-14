@@ -7,14 +7,13 @@ Previous versions of this course: [Fall 2021](Fall2021.md), [Fall 2022](Fall2022
 
 ### Class room
 * Class Time: TTH 9:30 am-11:00 am 
-* Class Room: RLP 0.106 
-* Class unique: 26850/27195
+* Class Room: EPS 1.126
+* Class unique: 28965/29340
 
 ### Office hours (TBD)
 * [[Office hours poll]](https://www.when2meet.com/?26050532-hIYTg)
-* Time: Monday noon-1pm, Tuesday 11am-noon
+* Time: ?
 * Location: JGB 4.216G
-* [Some light entertainment for dark hours](https://www.ted.com/talks/eduardo_saenz_de_cabezon_math_is_forever?language=en)
 
 ### Additional course websites:
 * [Piazza](https://piazza.com/class/m0bi9mnhp935l) - Discussion board
