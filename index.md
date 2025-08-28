@@ -10,10 +10,10 @@ Previous versions of this course: [Fall 2021](Fall2021.md), [Fall 2022](Fall2022
 * Class Room: EPS 1.126
 * Class unique: 28965/29340
 
-### Office hours (TBD)
+### Office hours
 * [[Office hours poll]](https://www.when2meet.com/?31686602-ktH3O)
-* Time: ?
-* Location: JGB 4.216G
+* Time: MW 9-10am
+* Location: JGB 4.216B (Geophysics Dojo)
 
 ### Additional course websites:
 * [Piazza](https://piazza.com/class/mebnfx4v4bmpx) - Discussion board
