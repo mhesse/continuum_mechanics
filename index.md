@@ -55,7 +55,7 @@ Topics: Tensor representation and basis, dyadic product, trace, transpose.
 
 ### Lecture 5 (Sep 9): Cauchy stress tensor
 Topics: Traction, Action & Reaction, Cauchy's principle
-* Notes: [Cauchy stress tensor](fall2023/Cauchy_stress_tensor_2023.pdf)
+* Notes: [Cauchy stress tensor](fall2025/CauchyStress2025.pdf)
   
 ### Lecture 6 (Sep 11): Rotations
 Topics: Orthogonal tensors, Euler representation, Fault normals
