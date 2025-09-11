@@ -59,16 +59,16 @@ Topics: Traction, Action & Reaction, Cauchy's principle
   
 ### Lecture 6 (Sep 11): Rotations
 Topics: Orthogonal tensors, Euler representation, Fault normals
-* Notes: [Rotations](fall2024/Rotations.pdf), [Fault normals](fall2023/Strike_Dip.pdf)
+* Notes: [Rotations](fall2025/Rotations.pdf), [Fault normals](fall2023/Strike_Dip.pdf)
 
-### Lecture 7 (Sep 16): Change in basis and spectral decomposition
+### Lecture 7 (Sep 16): Prinipal stresses 
+Topics: Normal and shear stress, principal stresses
+* Notes: [Principal stresses](fall2024/Normal_and_shear_stress_2024.pdf) 
+
+### Lecture 8 (Sep 18): Change in basis and spectral decomposition
 Topics: Change in basis tensor, eigen problem, spectral decomposition, invariants
 * Notes: [Change of basis](fall2023/Change_of_Basis.pdf)
 
-### Lecture 8 (Sep 18): Prinipal stresses 
-Topics: Normal and shear stress, principal stresses
-* Notes: [Principal stresses](fall2024/Normal_and_shear_stress_2024.pdf) 
-  
 ### Lecture 9 (Sep 23): Mohr circle
 Topics: Mohr circle, maximum shear stress, failure 
 * Notes: [Mohr circle](fall2023/Mohr_Circle_and_Failure_2022.pdf), Nankai Fault Stress Example [[script]](fall2023/demo_Nankai_StressOnFault.mlx) [[pdf]](fall2023/demo_Nankai_StressOnFault.pdf)
