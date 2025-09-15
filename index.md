@@ -63,7 +63,7 @@ Topics: Orthogonal tensors, Euler representation, Fault normals
 
 ### Lecture 7 (Sep 16): Prinipal stresses 
 Topics: Normal and shear stress, principal stresses
-* Notes: [Principal stresses](fall2024/Normal_and_shear_stress_2024.pdf) [Anderson's Theory of Faulting](fall2025/AndersonsTheoryFaulting.pdf)
+* Notes: [Principal stresses](fall2024/Normal_and_shear_stress_2024.pdf), [Anderson's Theory of Faulting](fall2025/AndersonsTheoryFaulting.pdf)
 
 ### Lecture 8 (Sep 18): Change in basis and spectral decomposition
 Topics: Change in basis tensor, eigen problem, spectral decomposition, invariants
