@@ -66,12 +66,12 @@ Topics: Normal and shear stress, principal stresses
 * Notes: [Principal stresses](fall2025/PrincipalStresses2025.pdf), [Anderson's Theory of Faulting](fall2025/AndersonsTheoryFaulting.pdf)
 
 ### Lecture 8 (Sep 18): Change in basis and spectral decomposition
-Topics: Change in basis tensor, eigen problem, spectral decomposition, invariants
-* Notes: [Change of basis](fall2025/Change_of_Basis_2025.pdf)
+Topics: Change in basis tensor, eigen problem
+* Notes: [Change of basis](fall2025/Change_of_Basis_2025.pdf), Nankai Fault Stress Example [[script]](fall2025/demo_Nankai_StressOnFault.mlx) [[pdf]](fall2025/demo_Nankai_StressOnFault.pdf)
 
 ### Lecture 9 (Sep 23): Mohr circle
 Topics: Mohr circle, maximum shear stress, failure 
-* Notes: [Mohr circle](fall2023/Mohr_Circle_and_Failure_2022.pdf), Nankai Fault Stress Example [[script]](fall2023/demo_Nankai_StressOnFault.mlx) [[pdf]](fall2023/demo_Nankai_StressOnFault.pdf)
+* Notes: [Mohr circle](fall2023/Mohr_Circle_and_Failure_2022.pdf), 
   
 ### Lecture 10 (Sep 25): Divergence and gradient
 Topics: Gradient, divergence, Laplacian, Poisson's equation for gravity
