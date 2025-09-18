@@ -67,7 +67,7 @@ Topics: Normal and shear stress, principal stresses
 
 ### Lecture 8 (Sep 18): Change in basis and spectral decomposition
 Topics: Change in basis tensor, eigen problem
-* Lecture: [Notes](fall2025/Lecture8_2025.pdf) [recoding](https://utexas.zoom.us/rec/share/nvdEZ_XadO5ySyJKX7IfujmI_87TdkeCwxzg32hWuut2T5SteoXy6psuJgbyGKVb.DIY8W9GDLtZAN5T-)
+* Lecture: [pdf](fall2025/Lecture8_2025.pdf) [rec](https://utexas.zoom.us/rec/share/nvdEZ_XadO5ySyJKX7IfujmI_87TdkeCwxzg32hWuut2T5SteoXy6psuJgbyGKVb.DIY8W9GDLtZAN5T-)
 * Notes: [Change of basis](fall2025/Change_of_Basis_2025.pdf), Nankai Fault Stress Example [[script]](fall2025/demo_Nankai_StressOnFault.mlx) [[pdf]](fall2025/demo_Nankai_StressOnFault.pdf)
 
 ### Lecture 9 (Sep 23): Mohr circle
