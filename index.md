@@ -87,6 +87,7 @@ Topics: Equilibrum equations, symmetry of stress tensor, hydrostatic shapes, Fig
 * Notes: [Mechanical Equilibrium](spring2024/Mechanical_Equilibrium.pdf), [Figure of the Earth](fall2023/FigureEarth.pdf)
 
 ### Midterm Exam (Oct 7): 
+* [Last year's midterm](fall2025/Midterm_questions.pdf)
 
 ## Topic III: Kinematics and Strain
 
