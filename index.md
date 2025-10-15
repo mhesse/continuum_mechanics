@@ -97,7 +97,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Notes: [Deformation Map and Gradient](fall2024/Deformation_map_and_gradient_2024.pdf)
 
 ### Lecture 14 (Oct 14): Cauchy-Green Strain Tensor
-* Notes: [Drivation of the Cauchy-Green strain tensor](fall2025/CauchyGreenStrainTensor-derivation.pdf) 
+* Notes: [Derivation of the Cauchy-Green strain tensor](fall2025/CauchyGreenStrainTensor-derivation.pdf) 
 
 ### Lecture 15 (Oct 16): Interpretation of the Strain Tensor
 * Notes: [Cauchy strain relations](fall2024/Cauchy-Green strain tensor 2023.pdf)
