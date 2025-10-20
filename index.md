@@ -103,7 +103,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Notes: [Cauchy strain relations](fall2024/Cauchy-Green strain tensor 2023.pdf)
 
 ### Lecture 16 (Oct 21): Infinitesimal Strain Tensor
-* Notes: [Infinitesimal strain](fall2024/Infinitesimal_strain_tensor_2024.pdf)
+* Notes: [Infinitesimal strain](fall2025/Infinitesimal_strain_tensor_2025.pdf)
 
 ### Lecture 17 (Oct 23): Motion and Material Derivative
 * Notes: [Motion and Matrial Derivative](fall2024/Motions_2023.pdf)
