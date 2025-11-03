@@ -117,7 +117,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Notes: [Balance laws](fall2023/Balance_laws_local_Eulerian_form_2023.pdf)
 
 ### Lecture 20 (Nov 4): Continuum Thermodynamics
-* Notes: [Energy balance](fall2024/Energy_balance_2024.pdf)
+* Notes: [Energy balance](fall2025/Energy_balance_2025.pdf)
 
 ### Lecture 21 (Nov 6): Lagrangian balance laws
 * Notes: [Lagrangian balance](fall2021/Balance_laws_in_Lagrangian_form_2021.pdf)
