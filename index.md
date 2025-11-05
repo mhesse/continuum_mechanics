@@ -116,10 +116,10 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 ### Lecture 19 (Oct 30): Eulerian balance laws
 * Notes: [Balance laws](fall2025/Balance_laws_2025.pdf)
 
-### Lecture 20 (Nov 4): Continuum Thermodynamics
-* Notes: [Energy balance](fall2025/Energy_balance_2025.pdf)
+### Lecture 20 (Nov 4): Energy balance - heating
+* Notes: [Energy balance](fall2025/Energy_Heating_2025.pdf)
 
-### Lecture 21 (Nov 6): Lagrangian balance laws
+### Lecture 21 (Nov 6): Energy balance - working
 * Notes: [Lagrangian balance](fall2021/Balance_laws_in_Lagrangian_form_2021.pdf)
 
 ### Lecture 22 (Nov 11): Constitutive laws I - Objectivity and Galilean transformations
