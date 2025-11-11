@@ -123,7 +123,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Notes: [Energy balance with net working](fall2025/Energy_Heating_2025.pdf)
 
 ### Lecture 22 (Nov 11): Constitutive laws I - Objectivity and Galilean transformations
-* Notes: [Objectivity](fall2024/Constitutive_Theory_2024.pdf)
+* Notes: [Objectivity](fall2025/Constitutive_Theory_2025.pdf)
 
 ### Lecture 23 (Nov 13): Constitutive laws II - Representation theorem and constraints
 
