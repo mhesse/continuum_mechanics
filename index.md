@@ -122,24 +122,26 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 ### Lecture 21 (Nov 6): Energy balance - working
 * Notes: [Energy balance with net working](fall2025/Energy_Heating_2025.pdf)
 
-### Lecture 22 (Nov 11): Constitutive laws I - Objectivity and Galilean transformations
-* Notes: [Objectivity](fall2025/Constitutive_Theory_2025.pdf)
-
-### Lecture 23 (Nov 13): Constitutive laws II - Representation theorem and constraints
+### Lecture 22 (Nov 11): Constitutive laws
+* Notes: [Objectivity, Galilean transformations,Representation Theorem](fall2025/Constitutive_Theory_2025.pdf)
 
 ## Topic V: Applications
-### Lecture 24 (Nov 18): Fluids I - Navier Stokes
+
+### Lecture 23 (Nov 13): Fluids I - Navier Stokes
 * Notes: [Navier-Stokes](fall2024/Newtonian_Fluids_2024.pdf)
 
-### Lecture 25 (Nov 20): Fluids II - Creeping Flows
+### Lecture 24 (Nov 18): Fluids II - Creeping Flows
 * Notes: [Stokes Equation](fall2023/Stokes_Equation2023.pdf)
+
+### Lecture 25 (Nov 20): Power-law creep
+* Notes: [Temperature-dependent viscosity](fall2023/Variable_Viscosity_Stokes.pdf)
 
 ### Thanksgivings break (Nov 24-28)
   
-### Lecture 26 (Dec 2): Power-law creep
-* Notes: [Temperature-dependent viscosity](fall2023/Variable_Viscosity_Stokes.pdf)
+### Lecture 26 (Dec 2): Elasticity
 
-### Lecture 27 (Dec 4)
+
+### Lecture 27 (Dec 4): Final Exam
 
 ### Final Exam (Dec 9)
 
