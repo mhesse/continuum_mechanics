@@ -141,9 +141,9 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 ### Lecture 26 (Dec 2): Elasticity
 
 
-### Lecture 27 (Dec 4): Final Exam
+### Lecture 27 (Dec 4): Final Exam - undergraduate students
 
-### Final Exam (Dec 9)
+### Lecture 27 (Dec 9): Final Exam - graduate students/make up
 
 ## So Long, and Thanks for All the Fish
 
