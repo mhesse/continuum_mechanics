@@ -127,11 +127,11 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 
 ## Topic V: Applications
 
-### Lecture 23 (Nov 13): Fluids I - Navier Stokes
+### Lecture 23 (Nov 13): Navier Stokes
 * Notes: [Navier-Stokes](fall2025/Newtonian_Fluids_2025.pdf)
 
-### Lecture 24 (Nov 18): Fluids II - Creeping Flows
-* Notes: [Stokes Equation](fall2023/Stokes_Equation2023.pdf)
+### Lecture 24 (Nov 18): Boundary layers
+* Notes: [Stokes Equation](Newtonian_Fluids_2_2025.pdf)
 
 ### Lecture 25 (Nov 20): Power-law creep
 * Notes: [Temperature-dependent viscosity](fall2023/Variable_Viscosity_Stokes.pdf)
