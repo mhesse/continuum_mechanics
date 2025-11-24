@@ -131,7 +131,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Notes: [Navier-Stokes](fall2025/Newtonian_Fluids_2025.pdf)
 
 ### Lecture 24 (Nov 18): Boundary layers
-* Notes: [Stokes Equation](fall2025/Newtonian_Fluids_2_2025.pdf)
+* Notes: [Viscous boundary layer and energy dissipation](fall2025/Newtonian_Fluids_2_2025.pdf)
 
 ### Lecture 25 (Nov 20): Power-law creep
 * Notes: [Temperature-dependent viscosity](fall2023/Variable_Viscosity_Stokes.pdf)
