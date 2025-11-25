@@ -133,8 +133,8 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 ### Lecture 24 (Nov 18): Boundary layers
 * Notes: [Viscous boundary layer and energy dissipation](fall2025/Newtonian_Fluids_2_2025.pdf)
 
-### Lecture 25 (Nov 20): Power-law creep
-* Notes: [Temperature-dependent viscosity](fall2023/Variable_Viscosity_Stokes.pdf)
+### Lecture 25 (Nov 20): Creeping flow
+* Notes: [Kinetic energy](fall2025/Newtonian_Fluids_3_2025.pdf), [Stokes equation](fall2025/Stokes_Equation2024.pdf), [Power-law creep](fall2025/Power-law creep.pdf)
 
 ### Thanksgivings break (Nov 24-28)
   
