@@ -88,7 +88,7 @@ Topics: Curl, Divergence and Stokes theorems, Derivatives of tensor functions
 Topics: Equilibrum equations, symmetry of stress tensor, hydrostatic shapes, Figure of the Earth
 * Notes: [Mechanical Equilibrium](spring2025/MechanicalEquilibrium2025.pdf), [Figure of the Earth](fall2023/FigureEarth.pdf)
 
-### Midterm 1 (Oct 6): 
+### Midterm 1 (Oct 6): Topics I and II
 * [Midterm 2024](fall2025/Midterm_questions.pdf)
 * [Midterm 2025](fall2025/Midterm2025_questions.pdf)
 
@@ -113,7 +113,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 ### Lecture 18 (Oct 27): Reynolds Transport Theorem 
 * Notes: [Rates](fall2023/Rate_of_strain_and_spin_2021.pdf), [Reynolds Transport Theorem](fall2023/Reynolds_Transport_Theorem_2021.pdf)
 
-## Topic V: Balance Laws and Constitutive Theory
+## Topic VI: Balance Laws and Constitutive Theory
 
 ### Lecture 19 (Oct 29): Eulerian balance laws
 * Notes: [Balance laws](fall2025/Balance_laws_2025.pdf)
@@ -127,27 +127,23 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 ### Lecture 22 (Nov 10): Constitutive laws
 * Notes: [Objectivity, Galilean transformations,Representation Theorem](fall2025/Constitutive_Theory_2025.pdf)
 
-### Midterm 2 (Nov 13):
+### Midterm 2 (Nov 13): Topics III and IV
 
 ## Topic V: Applications
 
-### Lecture 23 (Nov 13): Navier Stokes
+### Lecture 23 (Nov 17): Navier Stokes
 * Notes: [Navier-Stokes](fall2025/Newtonian_Fluids_2025.pdf)
 
-### Lecture 24 (Nov 18): Boundary layers
+### Lecture 24 (Nov 19): Boundary layers
 * Notes: [Viscous boundary layer and energy dissipation](fall2025/Newtonian_Fluids_2_2025.pdf)
 
-### Lecture 25 (Nov 20): Creeping flow
-* Notes: [Kinetic energy](fall2025/Newtonian_Fluids_3_2025.pdf), [Stokes equation](fall2025/Stokes_Equation2024.pdf), [Power-law creep](fall2025/Power_law_creep.pdf)
+### Thanksgivings break (Nov 24-28) 
 
-### Thanksgivings break (Nov 24-28)
+### Lecture 25 (Nov 1): Static problems
   
-### Lecture 26 (Dec 2): Elasticity
+### Lecture 26 (Dec 3): Elastic waves
 
-
-### Lecture 27 (Dec 4): Final Exam - undergraduate students
-
-### Lecture 27 (Dec 9): Final Exam - graduate students/make up
+### Final Exam (TBD: Dec 10-14): Comprehensive
 
 ## So Long, and Thanks for All the Fish
 
