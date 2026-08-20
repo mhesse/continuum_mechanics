@@ -8,7 +8,7 @@ Previous versions of this course: [Fall 2021](Fall2021.md), [Fall 2022](Fall2022
 ### Class room
 * Class Time: TTH 9:30 am-11:00 am 
 * Class Room: EPS 1.126
-* Class unique: 28965/29340
+* Class unique: 29800/30160
 
 ### Office hours
 * [[Office hours poll]](https://www.when2meet.com/?31686602-ktH3O)
