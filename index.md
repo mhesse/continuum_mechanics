@@ -143,7 +143,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
   
 ### Lecture 26 (Dec 3): Elastic waves
 
-### Final Exam (TBD: Dec 10-14): Comprehensive
+### Final Exam (Dec 14): 8:00-10:00 Comprehensive
 
 ## So Long, and Thanks for All the Fish
 
