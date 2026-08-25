@@ -11,8 +11,8 @@ Previous versions of this course: [Fall 2021](Fall2021.md), [Fall 2022](Fall2022
 * Class unique: 29800/30160
 
 ### Office hours
-* [[Office hours poll]](https://www.when2meet.com/?31686602-ktH3O)
-* Time: MW 9-10am
+* [[Office hours poll]]([https://www.when2meet.com/?31686602-ktH3O](https://www.when2meet.com/?38100457-QIQY8))
+* Time: TBD
 * Location: JGB 4.216B (Geophysics Dojo)
 
 ### Additional course websites:
