@@ -5,10 +5,11 @@ Continuum Mechanics is a new upper division undergraduate/beginning graduate cou
 
 Previous versions of this course: [Fall 2021](Fall2021.md), [Fall 2022](Fall2022.md), [Fall 2023](Fall2023.md), [Fall 2024](Fall2024.md), [Fall 2025](Fall2025.md)
 
-### Class room
+### Class basics
 * Class Time: TTH 9:30 am-11:00 am 
 * Class Room: EPS 1.126
 * Class unique: 29800/30160
+* [2026 Syllabus](fall2026/GEO325C_Fa26_syllabus.pdf) 
 
 ### Office hours
 * [[Office hours poll]]([https://www.when2meet.com/?31686602-ktH3O](https://www.when2meet.com/?38100457-QIQY8))
@@ -16,7 +17,7 @@ Previous versions of this course: [Fall 2021](Fall2021.md), [Fall 2022](Fall2022
 * Location: JGB 4.216B (Geophysics Dojo)
 
 ### Additional course websites:
-* [Piazza](https://piazza.com/class/mebnfx4v4bmpx) - Discussion board
+* [Ed Discussuin](TBD) - Discussion board
 
 ### Relevant textbooks
 We will most closely follow:
