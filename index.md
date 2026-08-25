@@ -34,7 +34,7 @@ Other useful books are:
 ## Topic I: Force and Torque
 ### Lecture 1 (Aug 25): Vector review and index notation
 * Topics: Introduction to the class, review of vectors, index notation
-* Slides: [Introduction to course](fall2025/ContinuumMechanics_intro_2025.pdf)
+* Slides: [Introduction to course](fall2026/ContinuumMechanics_intro_2026.pdf)
 * Notes: [Vectors and Index Notation](fall2026/Vectors_IndexNotation2026.pdf)
 
 ### Lecture 2 (Aug 27): Linear momentum and force
