@@ -39,7 +39,7 @@ Other useful books are:
 
 ### Lecture 2 (Aug 27): Linear momentum and force
 Topics: Newton's laws, Body and surface forces, Hydrostatic equilibrium, Isostacy
-* Notes: [Force Notes](fall2025/LinearMomentum_Force2025.pdf), [Isostacy](fall2024/Isostacy.pdf) 
+* Notes: [Force Notes](fall2026/LinearMomentum_Force2025.pdf), [Isostacy](fall2026/Isostacy.pdf), [triple vector product](fall2026/Vectors_IndexNotation_Part2_2026.pdf)
 
 ### Lecture 3 (Sep 1): Angular momentum and torque
 Topics: Angular momentum, torque, moment, tipping
