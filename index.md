@@ -123,7 +123,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Notes: [Energy balance with net heating](fall2025/Energy_Heating_2025.pdf)
 
 ### Lecture 21 (Nov 5): Energy balance - working
-* Notes: [Energy balance with net working](fall2025/Energy_Heating_2025.pdf)
+* Notes: [Energy balance with net working](fall2025/Energy_Working_2025.pdf)
 
 ### Lecture 22 (Nov 10): Constitutive laws
 * Notes: [Objectivity, Galilean transformations,Representation Theorem](fall2025/Constitutive_Theory_2025.pdf)
