@@ -43,7 +43,7 @@ Topics: Newton's laws, Body and surface forces, Hydrostatic equilibrium, Isostac
 
 ### Lecture 3 (Sep 1): Angular momentum and torque
 Topics: Angular momentum, torque, moment, tipping
-* Notes: [Torque](fall2026/AngularMomentum_Torque.pdf), [Toppling Icebergs](fall2026/IcebergStability2026.pdf)
+* Notes: [Torque](fall2026/AngularMomentum_Torque2026.pdf), [Toppling Icebergs](fall2026/IcebergStability2026.pdf)
 * Movie: [Ice bergs toppling over](https://www.youtube.com/watch?v=hxy-0zpJwxs)
   
 ## Topic II: Tensors and Stress
