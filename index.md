@@ -58,20 +58,20 @@ Topics: Traction, Action & Reaction, Cauchy's principle
   
 ### Lecture 6 (Sep 10): Prinipal stresses
 Topics: Normal and shear stress, principal stresses
-* Notes: [Principal stresses](fall2025/PrincipalStresses2025.pdf), [Anderson's Theory of Faulting](fall2025/AndersonsTheoryFaulting.pdf)
+* Notes: [Principal stresses](fall2026/PrincipalStresses2026.pdf)
 
-### Lecture 7 (Sep 15):  Rotations
+### Lecture 7 (Sep 15):  Mohr circle
+Topics: Mohr circle, maximum shear stress, failure 
+* Notes: [Mohr circle](fall2023/Mohr_Circle_and_Failure_2022.pdf), [Anderson's Theory of Faulting](fall2025/AndersonsTheoryFaulting.pdf)
+
+### Lecture 8 (Sep 17): Rotations
 Topics: Orthogonal tensors, Euler representation, Fault normals
 * Notes: [Rotations](fall2025/Rotations.pdf), [Fault normals](fall2023/Strike_Dip.pdf)
 
-### Lecture 8 (Sep 17): Change in basis and spectral decomposition
+### Lecture 9 (Sep 22): Change in basis and spectral decomposition
 Topics: Change in basis tensor, eigen problem
-* Lecture: [pdf](fall2025/Lecture8_2025.pdf) [rec](https://utexas.zoom.us/rec/share/nvdEZ_XadO5ySyJKX7IfujmI_87TdkeCwxzg32hWuut2T5SteoXy6psuJgbyGKVb.DIY8W9GDLtZAN5T-)
 * Notes: [Change of basis](fall2025/Change_of_Basis_2025.pdf), Nankai Fault Stress Example [[script]](fall2025/demo_Nankai_StressOnFault.mlx) [[pdf]](fall2025/demo_Nankai_StressOnFault.pdf)
 
-### Lecture 9 (Sep 22): Mohr circle
-Topics: Mohr circle, maximum shear stress, failure 
-* Notes: [Mohr circle](fall2023/Mohr_Circle_and_Failure_2022.pdf)
 
 ## Topic III: Tensor Calculus
 
