@@ -54,7 +54,7 @@ Topics: Tensor representation and basis, dyadic product, trace, transpose.
 
 ### Lecture 5 (Sep 8): Cauchy stress tensor
 Topics: Traction, Action & Reaction, Cauchy's principle
-* Notes: [Cauchy stress tensor](fall2025/CauchyStress2025.pdf)
+* Notes: [Cauchy stress tensor](fall2025/CauchyStress2025.pdf), [Tensor Scalar Product](fall2026/TensorScalarProduct.pdf)
   
 ### Lecture 6 (Sep 10): Prinipal stresses
 Topics: Normal and shear stress, principal stresses
