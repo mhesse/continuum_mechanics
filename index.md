@@ -62,7 +62,7 @@ Topics: Normal and shear stress, principal stresses
 
 ### Lecture 7 (Sep 15):  Mohr circle
 Topics: Mohr circle, maximum shear stress, failure 
-* Notes: [Mohr circle](fall2023/Mohr_Circle_and_Failure_2022.pdf), [Anderson's Theory of Faulting](fall2025/AndersonsTheoryFaulting.pdf)
+* Notes: [Mohr circle](fall2026/MohrCircle2026.pdf), [Anderson's Theory of Faulting](fall2025/AndersonsTheoryFaulting.pdf)
 
 ### Lecture 8 (Sep 17): Rotations
 Topics: Orthogonal tensors, Euler representation, Fault normals
