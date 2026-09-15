@@ -60,7 +60,7 @@ Topics: Traction, Action & Reaction, Cauchy's principle
 Topics: Normal and shear stress, principal stresses
 * Notes: [Principal stresses](fall2026/PrincipalStresses2026.pdf)
 
-### Lecture 7 (Sep 15):  Mohr circle
+### Lecture 7 (Sep 15):  Mohr Coulomb Theory
 Topics: Mohr circle, maximum shear stress, failure 
 * Notes: [Mohr circle](fall2026/MohrCircle2026.pdf), [Anderson's Theory of Faulting](fall2025/AndersonsTheoryFaulting.pdf)
 
