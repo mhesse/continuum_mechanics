@@ -78,7 +78,7 @@ Topics: Change in basis tensor, eigen problem
 
 ### Lecture 10 (Sep 24): Divergence and gradient
 Topics: Gradient, divergence, Laplacian, Poisson's equation for gravity
-* Notes: [Div and Grad](fall2024/Gradient_Divergence.pdf) 
+* Notes: [Div and Grad](fall2026/Gradient_Divergence2025.pdf) 
 
 ### Lecture 11 (Sep 29): Integral theorems
 Topics: Curl, Divergence and Stokes theorems, Derivatives of tensor functions
