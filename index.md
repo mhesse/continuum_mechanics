@@ -88,7 +88,7 @@ Topics: Curl, Divergence and Stokes theorems, Derivatives of tensor functions
 Topics: Equilibrum equations, symmetry of stress tensor, hydrostatic shapes, Figure of the Earth
 * Notes: [Mechanical Equilibrium](spring2025/MechanicalEquilibrium2025.pdf), [Figure of the Earth](fall2023/FigureEarth.pdf)
 
-### Midterm 1 (Oct 6): Topics I and II
+### Midterm 1 (Oct 6): Topics I and II in EPS 1.126
 * [Midterm 2024](fall2025/Midterm_questions.pdf)
 * [Midterm 2025](fall2025/Midterm2025_questions.pdf)
 
@@ -127,7 +127,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 ### Lecture 22 (Nov 10): Constitutive laws
 * Notes: [Objectivity, Galilean transformations,Representation Theorem](fall2025/Constitutive_Theory_2025.pdf)
 
-### Midterm 2 (Nov 13): Topics III and IV
+### Midterm 2 (Nov 13): Topics III and IV in EPS 1.126
 
 ## Topic V: Applications
 
@@ -143,7 +143,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
   
 ### Lecture 26 (Dec 3): Elastic waves
 
-### Final Exam (Dec 14): 8:00-10:00 Comprehensive
+### Final Exam (Dec 14): 8:00-10:00 Comprehensive in EPS 1.126
 
 ## So Long, and Thanks for All the Fish
 
