@@ -70,7 +70,7 @@ Topics: Orthogonal tensors, Euler representation, Fault normals
 
 ### Lecture 9 (Sep 22): Change in basis
 Topics: Change in basis tensor, eigen problem
-* Notes: [Change of basis](fall2025/Change_of_Basis_2025.pdf)
+* Notes: [Change of basis](fall2025/Change_of_Basis_2025.pdf), [Stress in NED](fall2026/StressTensor_NED.pdf)
 * Nankai Fault Stress Example [[script]](fall2026/demo_Nankai_StressOnFault.mlx) [[pdf]](fall2026/demo_Nankai_StressOnFault.pdf)
 
 
