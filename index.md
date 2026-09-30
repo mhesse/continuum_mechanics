@@ -68,10 +68,10 @@ Topics: Mohr circle, maximum shear stress, failure
 Topics: Orthogonal tensors, Euler representation, Fault normals
 * Notes: [Rotations](fall2026/Rotations2026.pdf), [Fault normals](fall2026/StrikeDip2026.pdf.pdf)
 
-### Lecture 9 (Sep 22): Change in basis and spectral decomposition
+### Lecture 9 (Sep 22): Change in basis
 Topics: Change in basis tensor, eigen problem
 * Notes: [Change of basis](fall2025/Change_of_Basis_2025.pdf)
-<!-- Nankai Fault Stress Example [[script]](fall2025/demo_Nankai_StressOnFault.mlx) [[pdf]](fall2025/demo_Nankai_StressOnFault.pdf)-->
+* Nankai Fault Stress Example [[script]](fall2026/demo_Nankai_StressOnFault.mlx) [[pdf]](fall2025/demo_Nankai_StressOnFault.pdf)
 
 
 ## Topic III: Tensor Calculus
