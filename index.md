@@ -66,7 +66,7 @@ Topics: Mohr circle, maximum shear stress, failure
 
 ### Lecture 8 (Sep 17): Rotations
 Topics: Orthogonal tensors, Euler representation, Fault normals
-* Notes: [Rotations](fall2026/Rotations2026.pdf), [Fault normals](fall2026/StrikeDip2026.pdf.pdf)
+* Notes: [Rotations](fall2026/Rotations2026.pdf), [Fault normals](fall2026/StrikeDip2026.pdf)
 
 ### Lecture 9 (Sep 22): Change in basis
 Topics: Change in basis tensor, eigen problem
