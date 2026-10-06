@@ -16,8 +16,7 @@ Previous versions of this course: [Fall 2021](Fall2021.md), [Fall 2022](Fall2022
 * Time: Monday 2-3pm, Tuesday 1-2pm 
 * Location: JGB 4.216B (Geophysics Dojo)
 
-### Additional course websites:
-* [Ed Discussuin](TBD) - Discussion board
+
 
 ### Relevant textbooks
 We will most closely follow:
