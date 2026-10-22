@@ -105,7 +105,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 
 ### Lecture 16 (Oct 20): Infinitesimal Strain Tensor
 * Notes: [Infinitesimal strain](fall2026/Infinitesimal_strain_tensor_2026.pdf)
-* 
+
 ### Lecture 17 (Oct 22): Motions and Rates
 * Notes: [Motion and Matrial Derivative](fall2025/Motions_2025.pdf)
   
