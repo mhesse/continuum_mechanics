@@ -106,25 +106,25 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 ### Lecture 16 (Oct 20): Infinitesimal Strain Tensor
 * Notes: [Infinitesimal strain](fall2026/Infinitesimal_strain_tensor_2026.pdf)
 
-### Lecture 17 (Oct 22): Motions and Rates
+### Lecture 17 (Oct 22): Motions 
 * Notes: [Motion and Matrial Derivative](fall2025/Motions_2025.pdf)
   
-### Lecture 18 (Oct 27): Reynolds Transport Theorem 
-* Notes: [Rates](fall2023/Rate_of_strain_and_spin_2021.pdf), [Reynolds Transport Theorem](fall2023/Reynolds_Transport_Theorem_2021.pdf)
+### Lecture 18 (Oct 27): Rate of strain
+* Notes: [Rates](fall2023/Rate_of_strain_and_spin_2021.pdf)
+
+### Lecture 19 (Oct 29): Constitutive laws
+* Notes: [Objectivity, Galilean transformations,Representation Theorem](fall2025/Constitutive_Theory_2025.pdf) 
 
 ## Topic VI: Balance Laws and Constitutive Theory
 
-### Lecture 19 (Oct 29): Eulerian balance laws
+### Lecture 20 (Nov 3): Eulerian balance laws
 * Notes: [Balance laws](fall2025/Balance_laws_2025.pdf)
 
-### Lecture 20 (Nov 3): Energy balance - heating
+### Lecture 21 (Nov 5): Energy balance - heating
 * Notes: [Energy balance with net heating](fall2025/Energy_Heating_2025.pdf)
 
-### Lecture 21 (Nov 5): Energy balance - working
+### Lecture 22 (Nov 10): Energy balance - working
 * Notes: [Energy balance with net working](fall2025/Energy_Working_2025.pdf)
-
-### Lecture 22 (Nov 10): Constitutive laws
-* Notes: [Objectivity, Galilean transformations,Representation Theorem](fall2025/Constitutive_Theory_2025.pdf)
 
 ### Midterm 2 (Nov 13): Topics III and IV in EPS 1.126
 
