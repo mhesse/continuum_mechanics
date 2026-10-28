@@ -126,7 +126,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 ### Lecture 22 (Nov 10): Energy balance - working
 * Notes: [Energy balance with net working](fall2025/Energy_Working_2025.pdf)
 
-### Midterm 2 (Nov 13): Topics III and IV in EPS 1.126
+### Midterm 2 (Nov 12): Topics III and IV in EPS 1.126
 
 ## Topic V: Applications
 
@@ -138,7 +138,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 
 ### Thanksgivings break (Nov 24-28) 
 
-### Lecture 25 (Nov 1): Static problems
+### Lecture 25 (Dec 1): Static problems
   
 ### Lecture 26 (Dec 3): Elastic waves
 
