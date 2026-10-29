@@ -112,10 +112,11 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 ### Lecture 18 (Oct 27): Rate of strain
 * Notes: [Rates](fall2023/Rate_of_strain_and_spin_2021.pdf)
 
-### Lecture 19 (Oct 29): Constitutive laws
-* Notes: [Objectivity, Galilean transformations,Representation Theorem](fall2025/Constitutive_Theory_2025.pdf) 
 
 ## Topic VI: Balance Laws and Constitutive Theory
+
+### Lecture 19 (Oct 29): Constitutive laws
+* Notes: [Objectivity, Galilean transformations,Representation Theorem](fall2025/Constitutive_Theory_2025.pdf) 
 
 ### Lecture 20 (Nov 3): Eulerian balance laws
 * Notes: [Balance laws](fall2025/Balance_laws_2025.pdf)
