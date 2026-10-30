@@ -110,7 +110,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Notes: [Motion and Matrial Derivative](fall2025/Motions_2025.pdf)
   
 ### Lecture 18 (Oct 27): Rate of strain
-* Notes: [Rates](fall2023/Rate_of_strain_and_spin_2021.pdf)
+* Notes: [Rates](fall2026/RateStrainSpin2026.pdf)
 
 
 ## Topic VI: Balance Laws and Constitutive Theory
