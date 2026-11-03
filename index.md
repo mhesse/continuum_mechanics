@@ -119,7 +119,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Notes: [Objectivity, Galilean transformations,Representation Theorem](fall2025/Constitutive_Theory_2025.pdf) 
 
 ### Lecture 20 (Nov 3): Eulerian balance laws
-* Notes: [Balance laws](fall2025/Balance_laws_2025.pdf)
+* Notes: [Balance laws](fall2026/Balance_laws_2026.pdf)
 
 ### Lecture 21 (Nov 5): Energy balance - heating
 * Notes: [Energy balance with net heating](fall2025/Energy_Heating_2025.pdf)
