@@ -128,6 +128,7 @@ Topics: Deformation map and gradient; change of material lines, volumes and area
 * Notes: [Energy balance with net working](fall2025/Energy_Working_2025.pdf)
 
 ### Midterm 2 (Nov 12): Topics III and IV in EPS 1.126
+* [Midterm 2](fall2026/GEO325C_MT2.pdf)
 
 ## Topic V: Applications
 
